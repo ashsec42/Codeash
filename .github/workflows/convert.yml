@@ -3,9 +3,9 @@
 name: JSON to M3U Auto-Converter 🤖
 
 on:
-  # Schedule: Run the bot once a day at 00:00 UTC (12 AM)
+  # Schedule: Run the bot every three hours (at minute 0 of every 3rd hour)
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 */3 * * *' 
   
   # Manual: Allows running from the 'Actions' tab any time
   workflow_dispatch:
