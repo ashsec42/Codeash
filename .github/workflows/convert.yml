@@ -3,21 +3,21 @@
 name: JSON to M3U Auto-Converter 🤖
 
 on:
-  # Schedule: Run the bot every three hours (at minute 0 of every 3rd hour)
   schedule:
     - cron: '0 */3 * * *' 
-  
-  # Manual: Allows running from the 'Actions' tab any time
   workflow_dispatch:
 
 jobs:
   convert:
     runs-on: ubuntu-latest
+    # FIX 1: Grant write permission to the job
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Required to allow the auto-commit action to push changes
           fetch-depth: 0 
           
       - name: Set up Python
@@ -31,12 +31,11 @@ jobs:
       - name: Run Conversion Script
         run: python convert.py
         env:
-          # Pass the GitHub SECRET to the script environment
           JSON_SOURCE_URL: ${{ secrets.JSON_SOURCE_URL }}
 
       - name: Commit and Push the new M3U file
-        # This action automatically handles committing the generated file
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_files: playlist.m3u 
+          # FIX 2: Use 'file_pattern' instead of 'commit_files'
+          file_pattern: playlist.m3u 
           commit_message: "🤖 Auto-Update: M3U playlist refreshed from JSON source"
