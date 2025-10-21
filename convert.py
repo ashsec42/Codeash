@@ -1,4 +1,4 @@
-# convert.py (FINAL FASTEST VERSION - NO NETWORK CHECKING)
+# convert.py (CORRECTED for advanced M3U tags)
 
 import json
 import os
@@ -6,17 +6,16 @@ import sys
 import requests
 
 OUTPUT_FILE_NAME = "playlist.m3u"
+# Define the EPG URL for the M3U Header
 EPG_URL = "https://avkb.short.gy/jioepg.xml.gz"
 
 def json_to_m3u(json_url):
     """
-    Fetches JSON and converts ALL channels to the M3U format, including the 
-    universal stream line fix for cookies/headers.
+    Fetches JSON from a URL and converts the data into a detailed M3U format, 
+    including custom KODIPROP and EXTHTTP tags.
     """
-    
     print(f"Fetching data from URL...")
     try:
-        # 1. Fetch data from the secret URL
         response = requests.get(json_url, timeout=15)
         response.raise_for_status()
         data = response.json()
@@ -28,24 +27,14 @@ def json_to_m3u(json_url):
         print("Error: JSON root must be a list of stream objects. Check your JSON format.")
         sys.exit(1)
 
+    # 1. Start the M3U content with all necessary headers
     m3u_lines = [
         "#EXTM3U",
         f'#EXTM3U x-tvg-url="{EPG_URL}"'
     ]
     
-    working_channel_count = 0
-    
+    # 2. Process each stream object
     for stream in data:
-        channel_name = stream.get('channel_name')
-        stream_url = stream.get('channel_url')
-        
-        # We only skip if NAME or URL are completely missing in the JSON source
-        if not channel_name or not stream_url:
-             print(f"⚠️ Skipping stream with missing Name or URL data in JSON.")
-             continue
-        
-        working_channel_count += 1
-        
         # --- A. BUILD #EXTINF LINE ---
         extinf_parts = ["#EXTINF:-1"]
         
@@ -57,33 +46,37 @@ def json_to_m3u(json_url):
         if stream.get('channel_logo'):
             extinf_parts.append(f'tvg-logo="{stream["channel_logo"]}"')
         
+        # Finalize the EXTINF line with the channel name
+        channel_name = stream.get('channel_name', 'Unknown Channel')
         extinf_line = " ".join(extinf_parts) + f",{channel_name}"
         m3u_lines.append(extinf_line)
-
-        # --- B. CUSTOM TAGS (KODIPROP) ---
+        
+        # --- B. ADD CUSTOM KODIPROP & HTTP TAGS ---
+        
+        # #KODIPROP for clearkey DRM (requires both 'keyId' and 'key')
         key_id = stream.get('keyId')
         key = stream.get('key')
         if key_id and key:
             m3u_lines.append(f'#KODIPROP:inputstream.adaptive.license_type=clearkey')
             m3u_lines.append(f'#KODIPROP:inputstream.adaptive.license_key={key_id}:{key}')
 
+        # #EXTVLCOPT is static in your example
         m3u_lines.append(f'#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0')
         
-        # --- C. THE FIX: Combine URL and Cookie for universal compatibility ---
-        final_stream_line = stream_url
+        # #EXTHTTP for Cookie (maps 'cookie' JSON field)
         cookie_value = stream.get('cookie')
-        
         if cookie_value:
-            # Append cookie and user-agent using the universal '|' separator
-            final_stream_line = f'{stream_url}|User-Agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0&Cookie={cookie_value}'
+            m3u_lines.append(f'#EXTHTTP:{{"cookie":"{cookie_value}"}}')
             
-        m3u_lines.append(final_stream_line)
+        # 4. Add the stream URL
+        stream_url = stream.get('channel_url', '')
+        m3u_lines.append(stream_url)
 
     # 5. Write the M3U file
     try:
         with open(OUTPUT_FILE_NAME, 'w', encoding='utf-8') as f:
             f.write('\n'.join(m3u_lines) + '\n')
-        print(f"✅ Conversion complete. Wrote {working_channel_count} streams (fastest mode) to {OUTPUT_FILE_NAME}")
+        print(f"✅ Successfully converted {len(data)} streams to {OUTPUT_FILE_NAME}")
     except IOError as e:
         print(f"Error writing to output file {OUTPUT_FILE_NAME}: {e}")
         sys.exit(1)
