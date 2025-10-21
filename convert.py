@@ -1,4 +1,4 @@
-# convert.py
+# convert.py (CORRECTED for your JSON structure)
 
 import json
 import os
@@ -11,7 +11,7 @@ OUTPUT_FILE_NAME = "playlist.m3u"
 def json_to_m3u(json_url):
     """
     Fetches JSON from a URL and converts the data into an extended M3U file.
-    It expects a JSON array of objects, each containing 'name', 'url', and attributes.
+    Updated to handle keys: channel_name, channel_url, channel_logo, channel_genre, channel_id.
     """
     
     print(f"Fetching data from URL...")
@@ -36,21 +36,30 @@ def json_to_m3u(json_url):
         # Build the #EXTINF line (duration is typically -1 for live/indefinite)
         extinf_parts = ["#EXTINF:-1"]
         
-        # Add M3U attributes (Customize these keys to match your JSON data fields)
-        if stream.get('tvg-id'):
-            extinf_parts.append(f'tvg-id="{stream["tvg-id"]}"')
-        if stream.get('group-title'):
-            extinf_parts.append(f'group-title="{stream["group-title"]}"')
-        if stream.get('logo'): 
-            extinf_parts.append(f'tvg-logo="{stream["logo"]}"')
+        # --- MAPPING YOUR JSON KEYS TO M3U ATTRIBUTES ---
+
+        # 1. Map 'channel_id' to 'tvg-id'
+        if stream.get('channel_id'):
+            extinf_parts.append(f'tvg-id="{stream["channel_id"]}"')
+            
+        # 2. Map 'channel_logo' to 'tvg-logo'
+        if stream.get('channel_logo'):
+            extinf_parts.append(f'tvg-logo="{stream["channel_logo"]}"')
         
-        # Finalize the EXTINF line with the stream name
-        channel_name = stream.get('name', 'Unknown Channel')
+        # 3. Map 'channel_genre' to 'group-title'
+        if stream.get('channel_genre'):
+            extinf_parts.append(f'group-title="{stream["channel_genre"]}"')
+        
+        # Get the Channel Name for the end of the line (using 'Unknown Channel' as fallback)
+        channel_name = stream.get('channel_name', 'Unknown Channel')
+        
+        # Finalize the EXTINF line
         extinf_line = " ".join(extinf_parts) + f",{channel_name}"
         m3u_lines.append(extinf_line)
         
         # 4. Add the stream URL (must be on the next line)
-        m3u_lines.append(stream.get('url', ''))
+        stream_url = stream.get('channel_url', '')
+        m3u_lines.append(stream_url)
 
     # 5. Write the M3U file
     try:
@@ -66,7 +75,6 @@ if __name__ == "__main__":
     url = os.getenv('JSON_SOURCE_URL')
     if not url:
         print("Fatal Error: JSON_SOURCE_URL environment variable is not set.")
-        print("Ensure you have set this secret in your GitHub repository settings.")
         sys.exit(1)
         
     json_to_m3u(url)
