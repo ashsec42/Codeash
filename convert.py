@@ -43,43 +43,48 @@ def fetch_data(json_url):
 
 def json_to_m3u(data):
     """
-    Converts the JSON (as an object) into a detailed M3U format.
+    Converts the JSON (as a LIST) into a detailed M3U format.
     """
     
-    # 1. NEW: Check if the JSON root is an OBJECT (a dict)
-    if not isinstance(data, dict):
-        print(f"Error: JSON root must be an object (dictionary). Got: {type(data)}")
-        print("This script is designed for the key-value JSON structure you provided.")
+    # 1. NEW: Check if the JSON root is a LIST
+    if not isinstance(data, list):
+        print(f"Error: JSON root must be a list of stream objects. Got: {type(data)}")
         sys.exit(1)
 
-    print(f"Successfully fetched {len(data)} stream objects (as an object). Converting...")
+    print(f"Successfully fetched {len(data)} stream objects (as a list). Converting...")
 
     m3u_lines = [
         "#EXTM3U",
         f'#EXTM3U x-tvg-url="{EPG_URL}"'
     ]
     
-    # 2. NEW: Iterate using .items() to get BOTH the channel ID and the stream data
-    for channel_id, stream in data.items():
-        
+    # 2. NEW: Iterate through the LIST
+    for stream in data:
+        # Ensure stream is a dictionary before processing
+        if not isinstance(stream, dict):
+            print(f"Warning: Skipping non-dictionary item in list: {stream}")
+            continue
+
         # --- A. BUILD #EXTINF LINE ---
+        # (Assuming original keys are now correct)
         extinf_parts = ["#EXTINF:-1"]
         
-        # Use the JSON key (e.g., "143") as the tvg-id
-        extinf_parts.append(f'tvg-id="{channel_id}"')
+        if stream.get('channel_id'):
+            extinf_parts.append(f'tvg-id="{stream["channel_id"]}"')
+        if stream.get('channel_genre'):
+            extinf_parts.append(f'group-title="{stream["channel_genre"]}"')
+        if stream.get('channel_logo'):
+            extinf_parts.append(f'tvg-logo="{stream["channel_logo"]}"')
         
-        # NOTE: Your new JSON has no 'channel_name', 'channel_genre', or 'channel_logo'.
-        # We will use the channel_id as a stand-in for the name.
-        # You may need to find another source for this metadata.
-        channel_name = f"Channel {channel_id}"
+        channel_name = stream.get('channel_name', 'Unknown Channel')
         
         extinf_line = " ".join(extinf_parts) + f",{channel_name}"
         m3u_lines.append(extinf_line)
         
-        # --- B. ADD CUSTOM KODIPROP & HTTP TAGS (with remapped keys) ---
+        # --- B. ADD CUSTOM KODIPROP & HTTP TAGS ---
+        # (Assuming original keys 'keyId' and 'key' are correct)
         
-        # REMAPPED: 'keyId' -> 'kid'
-        key_id = stream.get('kid') 
+        key_id = stream.get('keyId') # Using 'keyId'
         key = stream.get('key')
         
         if key_id and key:
@@ -88,15 +93,13 @@ def json_to_m3u(data):
 
         m3u_lines.append(f'#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0')
         
-        # Your new JSON doesn't have 'cookie', but we leave the logic
-        # in case some streams have it.
         cookie_value = stream.get('cookie')
         if cookie_value:
             m3u_lines.append(f'#EXTHTTP:{{"cookie":"{cookie_value}"}}')
             
         # 4. Add the stream URL
-        # REMAPPED: 'channel_url' -> 'url'
-        stream_url = stream.get('url', '') 
+        # (Assuming original key 'channel_url' is correct)
+        stream_url = stream.get('channel_url', '') # Using 'channel_url'
         m3u_lines.append(stream_url)
 
     # 5. Write the M3U file
