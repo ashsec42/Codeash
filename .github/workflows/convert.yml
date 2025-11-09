@@ -38,4 +38,4 @@ jobs:
         with:
           # FIX 2: Use 'file_pattern' instead of 'commit_files'
           file_pattern: playlist.m3u 
-          commit_message: "🤖 Auto-Update: M3U playlist refreshed from JSON source"
+          commit_message: "🤖 Auto-Update: Successful "
