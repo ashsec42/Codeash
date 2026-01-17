@@ -1,31 +1,31 @@
 # .github/workflows/convert.yml
-
 name: JSON to M3U Auto-Converter 🤖
 
 on:
   schedule:
-    - cron: '0 */3 * * *' 
+    - cron: '0 * * * *'   # Runs every 1 hour
   workflow_dispatch:
 
 jobs:
   convert:
     runs-on: ubuntu-latest
-    # FIX 1: Grant write permission to the job
+
+    # Allow the workflow to push commits
     permissions:
       contents: write
-      
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
-          
+          fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-          
-      - name: Install dependencies (requests)
+
+      - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run Conversion Script
@@ -36,6 +36,5 @@ jobs:
       - name: Commit and Push the new M3U file
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # FIX 2: Use 'file_pattern' instead of 'commit_files'
-          file_pattern: playlist.m3u 
-          commit_message: "🤖 Auto-Update: Successful "
+          file_pattern: playlist.m3u
+          commit_message: "🤖 Auto-Update: Successful"
