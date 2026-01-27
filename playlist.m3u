@@ -53,7 +53,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/output/index.mpd?__hdnea
 #KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1769512426~exp=1769598826~acl=/*~hmac=636b6814d0a7326e530f9cb3b5e13439fbaf9e2babaf5e0ee8187529c8d6928e"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Cinema_HD_BTS/output/index.mpd?__hdnea__=st=1769512426~exp=1769598826~acl=/*~hmac=636b6814d0a7326e530f9cb3b5e13439fbaf9e2babaf5e0ee8187529c8d6928e
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/output/index.mpd?__hdnea__=st=1769512426~exp=1769598826~acl=/*~hmac=636b6814d0a7326e530f9cb3b5e13439fbaf9e2babaf5e0ee8187529c8d6928e
 #EXTINF:-1 tvg-id="166" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png",Cartoon Network Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfdcfe466f865e51ac6b9345a03478fc:4cfddb414841586f0f992f2810ec2931
@@ -107,7 +107,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/B4U_Music_BTS/output/index.mpd?__hdnea__=
 #KODIPROP:inputstream.adaptive.license_key=09187bccb7ec59428352a31b4b321ce0:25b08b1c7a004e43ef92c239f93e6613
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1769512426~exp=1769598826~acl=/*~hmac=636b6814d0a7326e530f9cb3b5e13439fbaf9e2babaf5e0ee8187529c8d6928e"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/And_Pictures_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1769512426~exp=1769598826~acl=/*~hmac=636b6814d0a7326e530f9cb3b5e13439fbaf9e2babaf5e0ee8187529c8d6928e
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1769512426~exp=1769598826~acl=/*~hmac=636b6814d0a7326e530f9cb3b5e13439fbaf9e2babaf5e0ee8187529c8d6928e
 #EXTINF:-1 tvg-id="190" group-title="Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b6fa3ba1098544089226b314f624e75:8fd6f93bcc1ec1fdfff2ba5f7fce4955
