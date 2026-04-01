@@ -5,11 +5,11 @@ import requests
 # The name of the file that will be saved in your repository
 OUTPUT_FILE_NAME = "playlist.m3u"
 
-# The specific User-Agent required by the source
+# The specific User-Agent required by your source
 OTT_UA = "OTT-Navigator/1.7.1.1 (Android/11; Mobile; en_US)"
 
 def download_m3u():
-    # This pulls the URL from the GitHub Secret you will set up
+    # Pulls the URL from GitHub Secrets
     url = os.getenv("M3U_SOURCE_URL")
     
     if not url:
@@ -25,10 +25,8 @@ def download_m3u():
     }
 
     try:
-        # stream=True is safer for large M3U files
+        # stream=True handles large playlists efficiently
         response = requests.get(url, headers=headers, timeout=30, stream=True)
-        
-        # This triggers an error if the server returns 403, 404, etc.
         response.raise_for_status()
 
         with open(OUTPUT_FILE_NAME, "wb") as f:
