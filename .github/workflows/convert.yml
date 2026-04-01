@@ -1,40 +1,42 @@
-# .github/workflows/convert.yml
-name: JSON to M3U Auto-Converter 🤖
+name: Convert and Update M3U
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Runs every 1 hour
-  workflow_dispatch:
+    - cron: '0 */12 * * *' # Runs every 12 hours
+  workflow_dispatch:       # Allows you to click "Run workflow" manually
 
 jobs:
   convert:
     runs-on: ubuntu-latest
-
-    # Allow the workflow to push commits
-    permissions:
-      contents: write
+    env:
+      # Fixes the Node.js deprecation warning you encountered
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      # Maps your GitHub Secret to the script's environment
+      M3U_SOURCE_URL: ${{ secrets.M3U_SOURCE_URL }}
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install Dependencies
+        run: pip install requests
 
       - name: Run Conversion Script
         run: python convert.py
-        env:
-          JSON_SOURCE_URL: ${{ secrets.JSON_SOURCE_URL }}
 
-      - name: Commit and Push the new M3U file
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          file_pattern: playlist.m3u
-          commit_message: "🤖 Auto-Update: Successful"
+      - name: Commit and Push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add playlist.m3u
+          if git diff --cached --quiet; then
+            echo "No changes to the playlist."
+          else
+            git commit -m "Automated playlist update [skip ci]"
+            git push
+          fi
