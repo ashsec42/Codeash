@@ -2,14 +2,14 @@ name: Convert and Update M3U
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours
+    - cron: '0 * * * *'    # This now runs every hour at minute 0
   workflow_dispatch:       # Allows you to click "Run workflow" manually
 
 jobs:
   convert:
     runs-on: ubuntu-latest
     env:
-      # Fixes the Node.js deprecation warning you encountered
+      # Fixes the Node.js deprecation warning
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       # Maps your GitHub Secret to the script's environment
       M3U_SOURCE_URL: ${{ secrets.M3U_SOURCE_URL }}
@@ -37,6 +37,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to the playlist."
           else
-            git commit -m "Automated playlist update [skip ci]"
-            git push
+            git commit -m "Hourly playlist update [skip ci]"
+            # Using GITHUB_TOKEN to ensure push permissions
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
           fi
