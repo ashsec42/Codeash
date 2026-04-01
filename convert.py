@@ -2,14 +2,21 @@ import os
 import sys
 import requests
 
-# The filename you want to save locally
+# The name of the file that will be saved in your repository
 OUTPUT_FILE_NAME = "playlist.m3u"
 
-# The OTT Navigator User-Agent that bypasses the 403 error
+# The specific User-Agent required by the source
 OTT_UA = "OTT-Navigator/1.7.1.1 (Android/11; Mobile; en_US)"
 
-def download_m3u(url):
-    print(f"Connecting to source as OTT Navigator...")
+def download_m3u():
+    # This pulls the URL from the GitHub Secret you will set up
+    url = os.getenv("M3U_SOURCE_URL")
+    
+    if not url:
+        print("❌ ERROR: M3U_SOURCE_URL environment variable is not set.")
+        sys.exit(1)
+
+    print(f"Requesting source using OTT Navigator headers...")
 
     headers = {
         "User-Agent": OTT_UA,
@@ -18,29 +25,22 @@ def download_m3u(url):
     }
 
     try:
-        # We use stream=True for larger M3U files to handle memory efficiently
-        response = requests.get(url, headers=headers, timeout=20, stream=True)
+        # stream=True is safer for large M3U files
+        response = requests.get(url, headers=headers, timeout=30, stream=True)
+        
+        # This triggers an error if the server returns 403, 404, etc.
         response.raise_for_status()
 
         with open(OUTPUT_FILE_NAME, "wb") as f:
             for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
+                if chunk:
+                    f.write(chunk)
         
-        print(f"✅ Successfully downloaded: {OUTPUT_FILE_NAME}")
+        print(f"✅ Successfully updated {OUTPUT_FILE_NAME}")
 
     except requests.exceptions.RequestException as e:
-        print(f"❌ Failed to download: {e}")
+        print(f"❌ Connection Error: {e}")
         sys.exit(1)
-
-def main():
-    # Get the link from your environment variable
-    url = os.getenv("M3U_SOURCE_URL")
-
-    if not url:
-        print("ERROR: Please set M3U_SOURCE_URL (e.g., export M3U_SOURCE_URL='http://...')")
-        sys.exit(1)
-
-    download_m3u(url)
 
 if __name__ == "__main__":
-    main()
+    download_m3u()
