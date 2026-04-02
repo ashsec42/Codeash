@@ -745,25 +745,26 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775202323~acl=/*~id=efff4c75-afa3-4fc7-8b90-9508feb60d40~data=hdntl~hmac=c4b50e99857fb92007b3d70b331e08bf44612629a99fd239c31ba8b4efc4afba
 
-# ---------------=== VT OTT | SonyLiv ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439433270819_IFC_Real_Kashmir_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Real Kashmir FC vs Diamond Harbour FC - 2 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/RealKash0204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775174156~acl=/*~id=82104067389297178130042147331483~hmac=138c8a5b88cab45c12468e0a5719af2330a1aeb3de582f9c0ee37abed6343634
-
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141646_6025_SCO_OMN_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Scotland Vs Oman
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141646_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140924_5802_BRB_SYD_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Brisbane Roar Vs Sydney Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140924_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="VT OTT | FanCode",ENGLISH - Bucharest, Vs Romania
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141298_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="VT OTT | FanCode",ENGLISH - Marrakech, Vs Morocco
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141279_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-_1775132383085.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141777_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141780_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141779_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141778_english.m3u8
 
 # ---------------=== mov ===-------------------
 
