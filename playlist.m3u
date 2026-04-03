@@ -747,15 +747,30 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Middlesbrough F C Vs Millwall F C
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141430_5489_LEI_PST_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Leicester City F C Vs Preston North End F C
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141428_english.m3u8
+https://fanco.vodep39240327.workers.dev/141430_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141429_5489_OU_HUL_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Oxford United Vs Hull City
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141429_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="VT OTT | FanCode",ENGLISH - Bucharest, Vs Romania
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141292_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="VT OTT | FanCode",ENGLISH - Marrakech, Vs Morocco
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141281_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141782_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141785_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141783_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141784_english.m3u8
 
 # ---------------=== mov ===-------------------
 
