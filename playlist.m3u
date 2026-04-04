@@ -87,18 +87,8 @@ https://c2ag.short.gy/a/bih.m3u8
 
 # ------------=== VT OTT | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775367007~acl=/*~id=75031065116682569186463378719015~hmac=6825d0f37bd176c5733819d4909e5a216b23b6d2b7ada756ddc8674914180ded
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [HIN]
- https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775367007~acl=/*~id=75031065116682569186463378719015~hmac=6825d0f37bd176c5733819d4909e5a216b23b6d2b7ada756ddc8674914180ded
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [TAM]
- https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775367007~acl=/*~id=75031065116682569186463378719015~hmac=6825d0f37bd176c5733819d4909e5a216b23b6d2b7ada756ddc8674914180ded
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [TEL]
- https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775367007~acl=/*~id=75031065116682569186463378719015~hmac=6825d0f37bd176c5733819d4909e5a216b23b6d2b7ada756ddc8674914180ded
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [KAN]
- https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775367007~acl=/*~id=75031065116682569186463378719015~hmac=6825d0f37bd176c5733819d4909e5a216b23b6d2b7ada756ddc8674914180ded
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774526664928346_BLIGA_26_MD28_VfB-Stuttgart-vs-Dortmund_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",VfB Stuttgart vs Borussia Dortmund - MD 28 - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000295/Bundesli0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775367007~acl=/*~id=75031065116682569186463378719015~hmac=6825d0f37bd176c5733819d4909e5a216b23b6d2b7ada756ddc8674914180ded
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600644373142_FC_Cup_26_QF_Southampton_vs_Arsenal_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Southampton vs Arsenal - Quarter-Final - 5 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2005445/Southamp0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775371258~acl=/*~id=04575889573059783975693798897207~hmac=cd34f5658cbe212cef9df793adb9fad1c560524036ee360714905856d9ba3e9f
 
 # ------------=== Other Channels ===---------------
 
