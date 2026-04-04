@@ -12,43 +12,40 @@
 
 
 
-#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-English
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-English
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/english.m3u8
 
-#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Hindi
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Hindi
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/hin.m3u8
 
-#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Tamil
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Tamil
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/tamil.m3u8
 
-#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Telugu
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Telugu
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/telugu.m3u8
 
-#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Kannada
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Kannada
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/kan.m3u8
 
 
-#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Malayalam
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Malayalam
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/mal.m3u8
 
-#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Haryanvi
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Haryanvi
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/har.m3u8
 
-#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Bhojpuri
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Bhojpuri
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/bih.m3u8
 
-Afternoon 
-#EXTM3U
-
-
+-----> Afternoon 
 
 #EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-English
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
@@ -785,9 +782,15 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Brisbane Napoleans Vs Iconic Super Knights
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141741_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Central Coast Mariners Vs Perth Glory
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Melbourne City Vs Western Sydney Wanderers
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/140926_english.m3u8
+ https://fanco.vodep39240327.workers.dev/140927_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141617_6021_BAN-U20_CHN-U20_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Bangladesh U20 Vs China Pr U20
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141617_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="VT OTT | FanCode",ENGLISH - Bucharest, Vs Romania
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141294_english.m3u8
 
 # ------------=== Other Channels ===---------------
 
@@ -801,14 +804,14 @@ https://example.com/video.m3u8
 ---------------= TATA IPL 2026 =---------------
 
 ====== STAR SPORTS 
-#EXTINF:-1 tvg-id="1106" tvg-language="English" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 HD
+#EXTINF:-1 tvg-id="1106" tvg-language="English" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/1106
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
 https://keys.lrl45.workers.dev/mpd/1106
 
-#EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/1108
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -816,21 +819,21 @@ https://keys.lrl45.workers.dev/mpd/1106
 https://keys.lrl45.workers.dev/mpd/1108
 
 
-#EXTINF:-1 tvg-id="1650" tvg-language="Kannada" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Kannada
+#EXTINF:-1 tvg-id="1650" tvg-language="Kannada" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/1650
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
 https://keys.lrl45.workers.dev/mpd/1650
 
-#EXTINF:-1 tvg-id="3277" tvg-language="Tamil" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Tamil HD
+#EXTINF:-1 tvg-id="3277" tvg-language="Tamil" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/3277
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
 https://keys.lrl45.workers.dev/mpd/3277
 
-#EXTINF:-1 tvg-id="3278" tvg-language="Telugu" group-title="TATA IPL |Live Matches" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Telugu HD
+#EXTINF:-1 tvg-id="3278" tvg-language="Telugu" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/3278
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -839,10 +842,42 @@ https://keys.lrl45.workers.dev/mpd/3278
 
 
 
-====== HOTSTAR
+====== Afternoon
+#EXTINF:-1 tvg-id="1106" tvg-language="English" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/1106
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
+https://keys.lrl45.workers.dev/mpd/1106
+
+#EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/1108
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
+https://keys.lrl45.workers.dev/mpd/1108
 
 
+#EXTINF:-1 tvg-id="1650" tvg-language="Kannada" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Kannada
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/1650
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
+https://keys.lrl45.workers.dev/mpd/1650
 
+#EXTINF:-1 tvg-id="3277" tvg-language="Tamil" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/3277
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
+https://keys.lrl45.workers.dev/mpd/3277
+
+#EXTINF:-1 tvg-id="3278" tvg-language="Telugu" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Star Sports 1 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.lrl45.workers.dev/key/3278
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
+https://keys.lrl45.workers.dev/mpd/3278
 
 
 
