@@ -781,30 +781,27 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== VT OTT | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774505859291346_BLIGA_26_MD28_sc-Freiburg-vs-Bayern_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Freiburg vs Bayern Munich - MD 28 - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000299/Bundesli0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775359659~acl=/*~id=53973819672828141278613358443730~hmac=0472e9ba7e5c4fcb91d18d51f9e5794b5c16960e988cc5f1186a8a1b78771560
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774504746163346_BLIGA_26_MD28_Bayer-Leverkusen-vs-Wolfsburg_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Bayer Leverkusen vs Wolfsburg - MD 28 - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000292/Bundesli0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775359659~acl=/*~id=53973819672828141278613358443730~hmac=0472e9ba7e5c4fcb91d18d51f9e5794b5c16960e988cc5f1186a8a1b78771560
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774506083029346_BLIGA_26_MD28_Werder-Bremen-vs-RB-Leipzig_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Werder Bremen vs RB Leipzig - MD 28 - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2018457/Bundesli0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775359659~acl=/*~id=53973819672828141278613358443730~hmac=0472e9ba7e5c4fcb91d18d51f9e5794b5c16960e988cc5f1186a8a1b78771560
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774506910935346_BLIGA_26_MD28_Borussia-Mgladbach-vs-Heidenheim_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Borussia Mönchengladbach vs Heidenheim - MD 28 - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2094589/Bundesli0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775359659~acl=/*~id=53973819672828141278613358443730~hmac=0472e9ba7e5c4fcb91d18d51f9e5794b5c16960e988cc5f1186a8a1b78771560
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774526182318346_BLIGA_26_MD28_Hamburger-vs-Augsburg_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Hamburger SV vs Augsburg - MD 28 - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000293/Bundesli0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775359659~acl=/*~id=53973819672828141278613358443730~hmac=0472e9ba7e5c4fcb91d18d51f9e5794b5c16960e988cc5f1186a8a1b78771560
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774525570195346_BLIGA_26_MD28_Hoffenheim-vs-Mainz_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Hoffenheim vs Mainz - MD 28 - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000302/Bundesli0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775359659~acl=/*~id=53973819672828141278613358443730~hmac=0472e9ba7e5c4fcb91d18d51f9e5794b5c16960e988cc5f1186a8a1b78771560
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775363356~acl=/*~id=31263577507631663011613392275588~hmac=7ee521169cf7e7e530a1951a9b0c7f8c6cde8225abf923d03fdec25929ea2dd1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [HIN]
+ https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775363356~acl=/*~id=31263577507631663011613392275588~hmac=7ee521169cf7e7e530a1951a9b0c7f8c6cde8225abf923d03fdec25929ea2dd1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [TAM]
+ https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775363356~acl=/*~id=31263577507631663011613392275588~hmac=7ee521169cf7e7e530a1951a9b0c7f8c6cde8225abf923d03fdec25929ea2dd1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [TEL]
+ https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775363356~acl=/*~id=31263577507631663011613392275588~hmac=7ee521169cf7e7e530a1951a9b0c7f8c6cde8225abf923d03fdec25929ea2dd1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026 [KAN]
+ https://sonydaimenew.akamaized.net/hls/live/2094588/ChelseaV0404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775363356~acl=/*~id=31263577507631663011613392275588~hmac=7ee521169cf7e7e530a1951a9b0c7f8c6cde8225abf923d03fdec25929ea2dd1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774526664928346_BLIGA_26_MD28_VfB-Stuttgart-vs-Dortmund_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",VfB Stuttgart vs Borussia Dortmund - MD 28 - 4 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/20000295/Bundesli0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775363356~acl=/*~id=31263577507631663011613392275588~hmac=7ee521169cf7e7e530a1951a9b0c7f8c6cde8225abf923d03fdec25929ea2dd1
 
 # ------------=== VT OTT | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Namibia Vs Oman
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131125_5427_RB_ESL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Real Betis Vs Rcd Espanyol
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141647_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="VT OTT | FanCode",ENGLISH - Bucharest, Vs Romania
+ https://fanco.vodep39240327.workers.dev/131125_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543088/141684_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Deportivo La Coruna Vs Malaga
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141294_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="VT OTT | FanCode",ENGLISH - Marrakech, Vs Morocco
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141283_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141684_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141787_english.m3u8
@@ -820,6 +817,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141789_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - United Vs States
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141083_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Rcd Mallorca Vs Real Madrid
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/131127_english.m3u8
 
 # ------------=== Other Channels ===---------------
 
