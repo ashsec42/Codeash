@@ -45,6 +45,44 @@ https://c2ag.short.gy/n/har.m3u8
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/bih.m3u8
 
+Afternoon 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-English
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://c2ag.short.gy/a/english.m3u8
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Hindi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://c2ag.short.gy/a/hin.m3u8
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Tamil
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://c2ag.short.gy/a/tamil.m3u8
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Telugu
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://c2ag.short.gy/a/telugu.m3u8
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Kannada
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://c2ag.short.gy/a/kan.m3u8
+
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Malayalam
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://c2ag.short.gy/a/mal.m3u8
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Haryanvi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://c2ag.short.gy/a/har.m3u8
+
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",Hotstar-Bhojpuri
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://c2ag.short.gy/a/bih.m3u8
+
 # ------------=== VT OTT | Jio Cinema ===---------------
 
 #EXTM3U
@@ -741,6 +779,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== VT OTT | FanCode ===---------------
 
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Namibia Vs Oman
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141647_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Brisbane Napoleans Vs Iconic Super Knights
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141741_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Central Coast Mariners Vs Perth Glory
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/140926_english.m3u8
