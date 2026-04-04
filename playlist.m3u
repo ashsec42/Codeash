@@ -739,16 +739,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775361236~acl=/*~id=6c359059-a22e-42da-aae0-87805282446a~data=hdntl~hmac=c59bc80d31a0277345daabb8eabb25d5d30bddcfd5f1b840d7cb6534ef54d000
 
-# ------------=== VT OTT | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016646/1774623473828696_NZw_vs_SAw_3rd_ODI_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",3rd ODI - 4 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000291/NZW_vs_S0304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775321400~acl=/*~id=91276906526729917955057669435277~hmac=d0e6e09bfd995ab708d4a23941bb2dc79e0d7de26f27b3702a357d9fbadc94ed
-
 # ------------=== VT OTT | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-ODIs-old.jpg" group-title="VT OTT | FanCode",ENGLISH - New Zealand Women Vs South Africa Women
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Central Coast Mariners Vs Perth Glory
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141073_english.m3u8
+ https://fanco.vodep39240327.workers.dev/140926_english.m3u8
 
 # ------------=== Other Channels ===---------------
 
