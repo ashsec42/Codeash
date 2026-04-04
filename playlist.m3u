@@ -782,12 +782,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Brisbane Napoleans Vs Iconic Super Knights
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141741_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Melbourne City Vs Western Sydney Wanderers
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/140927_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141617_6021_BAN-U20_CHN-U20_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Bangladesh U20 Vs China Pr U20
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141617_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="VT OTT | FanCode",ENGLISH - Bucharest, Vs Romania
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141294_english.m3u8
