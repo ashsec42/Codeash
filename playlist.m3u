@@ -779,24 +779,17 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775411198~acl=/*~id=2c8d62d8-4789-47ea-8b4b-30a9075cdc20~data=hdntl~hmac=acebc1f7f34a83d884c8c18880678b78317c7394d10d32bad64fd194f2b92afc
 
-# ------------=== VT OTT | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016890/1775297558682105_UFC_Fight_Night_Moicano_vs_Duncan_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Moicano vs Duncan - 5 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_Moic0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775399743~acl=/*~id=32861718256361556845566160118757~hmac=d2c34cc5a96e162b30598b662667724f614affb4f2126e0b234cb40197a1abb6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016890/1775297558682105_UFC_Fight_Night_Moicano_vs_Duncan_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Moicano vs Duncan - 5 Apr 2026 [HIN]
- https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_Moic0404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775399743~acl=/*~id=32861718256361556845566160118757~hmac=d2c34cc5a96e162b30598b662667724f614affb4f2126e0b234cb40197a1abb6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016890/1775297558682105_UFC_Fight_Night_Moicano_vs_Duncan_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Moicano vs Duncan - 5 Apr 2026 [TAM]
- https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_Moic0404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775399743~acl=/*~id=32861718256361556845566160118757~hmac=d2c34cc5a96e162b30598b662667724f614affb4f2126e0b234cb40197a1abb6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016890/1775297558682105_UFC_Fight_Night_Moicano_vs_Duncan_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Moicano vs Duncan - 5 Apr 2026 [TEL]
- https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_Moic0404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775399743~acl=/*~id=32861718256361556845566160118757~hmac=d2c34cc5a96e162b30598b662667724f614affb4f2126e0b234cb40197a1abb6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016890/1775297558682105_UFC_Fight_Night_Moicano_vs_Duncan_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Moicano vs Duncan - 5 Apr 2026 [KAN]
- https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_Moic0404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775399743~acl=/*~id=32861718256361556845566160118757~hmac=d2c34cc5a96e162b30598b662667724f614affb4f2126e0b234cb40197a1abb6
-
 # ------------=== VT OTT | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="VT OTT | FanCode",ENGLISH - Malaysia A Vs Hong Kong China A
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141773_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Sri Lanka A Vs New Zealand A
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141798_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140928_5802_MLV_WEL_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Melbourne Victory Vs Wellington Phoenix
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/140928_english.m3u8
 
 # ------------=== Other Channels ===---------------
 
