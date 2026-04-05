@@ -786,20 +786,21 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775452282~acl=/*~id=ae751d21-c7ee-4a0f-8bf3-882bfd772f9c~data=hdntl~hmac=dedb924148fee1a8206388969bcfedb775b55c3e8c4d6db6bb956c806a6d639f
 
+# ------------=== VT OTT | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439731299819_IFC_Sreenidi_Deccan_FC_vs_Aizawl_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Sreenidi Deccan FC vs Aizawl FC - 5 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/20000291/Sreenidi0504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775437325~acl=/*~id=42082443425638164926657128862816~hmac=38aa2614c098c3386244655831eca6296c74e2f6c8da03ca5d9d588f231566ad
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774527175601346_BLIGA_26_MD28_Union-Berlin-vs-St-Pauli_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Union Berlin vs St. Pauli - MD 28 - 5 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/20000292/UnionBer0504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775437325~acl=/*~id=42082443425638164926657128862816~hmac=38aa2614c098c3386244655831eca6296c74e2f6c8da03ca5d9d588f231566ad
+
 # ------------=== VT OTT | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Everest Falcons Vs New York Liberty Xi
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141804_5973_SCD_KBFC_fc-web.jpg" group-title="VT OTT | FanCode",MALAYALAM - Sporting Club Delhi Vs Kerala Blasters Fc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141743_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg" group-title="VT OTT | FanCode",ENGLISH - Sporting Club Delhi Vs Kerala Blasters Fc
+ https://fanco.vodep39240327.workers.dev/141804_malayalam.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="VT OTT | FanCode",ENGLISH - Uzbekistan U20 Vs Dpr Korea U20
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/140476_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - India U20 Vs Australia U20
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141620_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141619_6021_JOR-U20_KR-U20_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Jordan U20 Vs Korea Republic U20
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141619_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141621_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Iii Vs Monte-carlo
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141657_english.m3u8
@@ -815,6 +816,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Feed Vs Monte-carlo
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141655_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141795_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="VT OTT | FanCode",ENGLISH - Antonio, Vs Texas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141794_english.m3u8
 
 # ------------=== Other Channels ===---------------
 
