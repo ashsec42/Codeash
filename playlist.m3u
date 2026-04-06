@@ -789,16 +789,19 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ------------=== VT OTT | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439983097819_IFC_Namdhari_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Namdhari FC vs Diamond Harbour FC - 6 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775516154~acl=/*~id=85486314675983074667017291885794~hmac=7524bfd0c7bbb1437f5937d3513e97b1e243569821d5e47e2afdcc4c5baeed5e
+ https://sonydaimenew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775519186~acl=/*~id=17458946345489367782713119552947~hmac=5bcbca5d94110b5249238d5021bfd36590fadb6637c7b7e2663619926b8784c3
 
 # ------------=== VT OTT | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141648_6025_NAM_SCO_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Namibia Vs Scotland
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141648_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141746_6028_BRS_BNA_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Brisbane Stars Vs Brisbane Napoleans
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141432_5489_PRM_OU_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Portsmouth F C Vs Oxford United
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141746_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141432_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Mozambique Women Vs Zambia Women
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141890_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Feed Vs Monte-carlo
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141662_english.m3u8
