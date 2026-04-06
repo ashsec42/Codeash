@@ -788,18 +788,15 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== VT OTT | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141435_5489_SWA_MIDD_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Swansea City A F C Vs Middlesbrough F C
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Girona Fc Vs Villarreal Cf
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141435_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Feed Vs Monte-carlo
+ https://fanco.vodep39240327.workers.dev/131126_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141436_5489_HUL_CVC_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Hull City Vs Coventry City F C
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141662_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Iii Vs Monte-carlo
+ https://fanco.vodep39240327.workers.dev/141436_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Sporting De Gijon Vs Real Sociedad B
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141661_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Princes Vs Monte-carlo
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141660_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141686_english.m3u8
 
 # ------------=== Other Channels ===---------------
 
