@@ -791,6 +791,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="VT OTT | FanCode",ENGLISH - Malaysia A Vs Hong Kong China A
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141774_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Iconic Super Knights Vs Sydney Kangaroos
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141745_english.m3u8
 
 # ------------=== Other Channels ===---------------
 
