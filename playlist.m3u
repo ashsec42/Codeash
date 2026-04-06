@@ -786,18 +786,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775565451~acl=/*~id=51d0acf2-6120-4ddd-a160-db92ba314794~data=hdntl~hmac=817d125c00d5bf1eff739fffbda622a61f0ef19894592110b55f5913407a1aff
 
-# ------------=== VT OTT | FanCode ===---------------
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Girona Fc Vs Villarreal Cf
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/131126_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141436_5489_HUL_CVC_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Hull City Vs Coventry City F C
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141436_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Sporting De Gijon Vs Real Sociedad B
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141686_english.m3u8
-
 # ------------=== Other Channels ===---------------
 
 _________ JOIN @vaathala1 ______
