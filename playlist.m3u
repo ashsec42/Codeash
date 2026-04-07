@@ -786,35 +786,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775667884~acl=/*~id=9f2fde9a-b3cd-480d-97d7-ee02637cbec0~data=hdntl~hmac=a4ecbfbb5561c9edc3e9ebac714c8cea2066ae33ca6a496241a39300a8be60ec
 
-# ------------=== VT OTT | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [HIN]
- https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [TAM]
- https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [TEL]
- https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [KAN]
- https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [HIN]
- https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [TAM]
- https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [TEL]
- https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [KAN]
- https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775637943~acl=/*~id=65335409333390509206024698093404~hmac=45efa0e16098181b4f32e3366adffa9955141b2253c9a4642f6d1421029ba325
-
-# ------------=== VT OTT | FanCode ===---------------
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg" group-title="VT OTT | FanCode",ENGLISH - Bromley Vs Shrewsbury Town
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141427_english.m3u8
-
 # ------------=== Other Channels ===---------------
 
 _________ JOIN @vaathala1 ______
