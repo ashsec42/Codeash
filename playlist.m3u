@@ -788,14 +788,23 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== VT OTT | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440804721616_IFC_Rajasthan_United_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Rajasthan United FC vs Gokulam Kerala FC - 7 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000291/Rajastha0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775605790~acl=/*~id=30193690405006086896621305510222~hmac=c9a7dea857f0ddbdd7abaead88103f5613ba93243fb99fcf1467d3efe919ad86
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440984292617_IFC_Dempo_Sports_Club_vs_Shillong_Lajong_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Dempo Sports Club vs Shillong Lajong FC - 7 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775613064~acl=/*~id=29248272284978619315862043556072~hmac=73aee0c336a92779b5528906039f14119c432d79dc23c3f5c4abbb86c7167cc5
 
 # ------------=== VT OTT | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="VT OTT | FanCode",ENGLISH - Lesotho Women Vs Zambia Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141894_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="VT OTT | FanCode",ENGLISH - Brazil Women Vs Mozambique Women
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141895_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Vietnam U20 Vs Bangladesh U20
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141624_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Thailand U20 Vs China Pr U20
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141623_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Massy Vs Monte-carlo
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141666_english.m3u8
