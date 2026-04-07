@@ -789,16 +789,13 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ------------=== VT OTT | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440804721616_IFC_Rajasthan_United_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Rajasthan United FC vs Gokulam Kerala FC - 7 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000291/Rajastha0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775602149~acl=/*~id=65624594527057940935859798384394~hmac=3b7e36bbc5bab443e1c087fafa52058cd3f17f6a43d585fe7af6b10800dd1a73
+ https://sonydaimenew.akamaized.net/hls/live/20000291/Rajastha0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775605790~acl=/*~id=30193690405006086896621305510222~hmac=c9a7dea857f0ddbdd7abaead88103f5613ba93243fb99fcf1467d3efe919ad86
 
 # ------------=== VT OTT | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="VT OTT | FanCode",ENGLISH - Botswana Women Vs Mozambique Women
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="VT OTT | FanCode",ENGLISH - Lesotho Women Vs Zambia Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141893_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Everest Falcons Vs Perth United Warriors
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141747_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141894_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Massy Vs Monte-carlo
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141666_english.m3u8
