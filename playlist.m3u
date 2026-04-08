@@ -794,15 +794,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141649_6025_SCO_OMN_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Scotland Vs Oman
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141649_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Sydney Kangaroos Vs Brisbane Napoleans
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="VT OTT | FanCode",ENGLISH - Lesotho Women Vs Mozambique Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141744_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Chinese Taipei U20 Vs India U20
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141626_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141625_6021_JP-U20_AUS-U20_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Japan U20 Vs Australia U20
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141625_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141898_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140871_5648_OSK_BU_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Gamba Osaka Vs Bangkok United
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/140871_english.m3u8
