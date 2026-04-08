@@ -786,29 +786,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775753053~acl=/*~id=82fb25fa-d18c-42f8-a877-3610ca4c79b0~data=hdntl~hmac=508bd68c216b05c3111cbd723184eb4a0b64514ed112b367d8a708f9d9f49b43
 
-# ------------=== VT OTT | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [HIN]
- https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [TAM]
- https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [TEL]
- https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [KAN]
- https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [HIN]
- https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [TAM]
- https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [TEL]
- https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [KAN]
- https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775724026~acl=/*~id=12402770373122592479463019054515~hmac=a3312f0b812e86be15faa2b289d255a94ce11842d1310ca446b447511836e091
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
