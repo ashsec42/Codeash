@@ -791,9 +791,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="VT OTT | FanCode",ENGLISH - Malaysia A Vs Hong Kong China A
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141776_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141882_5954_TIG_SS_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Tigres Vs Seattle Sounders Fc
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - New York Liberty Xi Vs Perth United Warriors
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141882_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141748_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141883_5954_TOL_LAG_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Toluca Vs La Galaxy
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141883_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
