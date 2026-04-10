@@ -788,12 +788,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== VT OTT | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131131_5427_RM_GIR_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Real Madrid Vs Girona Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/131131_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141437_5489_WBA_MLW_fc-web-v2.jpg" group-title="VT OTT | FanCode",ENGLISH - West Bromwich Albion F C Vs Millwall F C
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141437_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Georgia, Vs Usa
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141877_english.m3u8
