@@ -786,11 +786,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775930635~acl=/*~id=b36320e9-e750-4ae9-92a6-b7122a0817a9~data=hdntl~hmac=4fb917fcc2c43b3e5a62e06b04a397a3d97d92d49f2947ec3b71ffc670c59e19
 
-# ------------=== VT OTT | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774527805629658_BLIGA_26_MD29_Augsburg-vs-Hoffenheim__landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Augsburg vs Hoffenheim - MD 29 - 10 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2018458/Bundesli1004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775893657~acl=/*~id=21812421234267838819668498283972~hmac=608db01a991c2bfb92f964cdd258c1e19dbcb38be9e91c1ba04c2f37a14806a2
-
 # ------------=== VT OTT | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131131_5427_RM_GIR_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Real Madrid Vs Girona Fc
