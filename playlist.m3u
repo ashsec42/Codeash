@@ -786,32 +786,27 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775902793~acl=/*~id=c2c26a71-28d4-42c5-ab20-6186221310a1~data=hdntl~hmac=55c5524353e626ad61a27c12aa7381f9b3a21f985450dcce0b877c580444191a
 
-# ------------=== VT OTT | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442040682617_IFC_Namdhari_FC_vs_Shillong_Lajong_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Namdhari FC vs Shillong Lajong FC - 10 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2022319/IFL_Namd1004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775864566~acl=/*~id=05246982492253706487097330052052~hmac=76d4252672b52e04a260782e78a050bb96a7b113cff53931e98d51c1d2cbc221
-
 # ------------=== VT OTT | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Namibia Vs Oman
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141650_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Iconic Super Knights Vs Brisbane Stars
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="VT OTT | FanCode",ENGLISH - Brazil Women Vs Mozambique Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141752_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141906_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="VT OTT | FanCode",ENGLISH - Zambia Women Vs Malawi Women
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141907_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg" group-title="VT OTT | FanCode",ENGLISH - Northeast United Fc Vs Sporting Club Delhi
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/140480_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140929_5802_CCM_BRB_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Central Coast Mariners Vs Brisbane Roar
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/140929_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Iii Vs Monaco
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141917_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Princes Vs Monaco
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141916_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Alexander-Zverev-vs-Joao-Fonseca_web.jpg" group-title="VT OTT | FanCode",ENGLISH - Zverev Vs Fonseca
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Felix-Auger-Aliassime_web.jpg" group-title="VT OTT | FanCode",ENGLISH - J Sinner Vs F Auger Aliassime
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141915_english.m3u8
 
