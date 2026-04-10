@@ -786,20 +786,22 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775878376~acl=/*~id=ad392a2d-81db-4752-ab8b-5b93f2240683~data=hdntl~hmac=a155ba4d23f8ecfb223122873f48f3146885ff49709fac8b62f174071adb1be2
 
+# ------------=== VT OTT | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442040682617_IFC_Namdhari_FC_vs_Shillong_Lajong_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Namdhari FC vs Shillong Lajong FC - 10 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2022319/IFL_Namd1004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775861532~acl=/*~id=75720763985769030750458886747807~hmac=eb52b726cfc20f31a6bf7da6506ae8b3cef235cc40e6e202d49ea4cdfa846cc3
+
 # ------------=== VT OTT | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Namibia Vs Oman
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141650_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="VT OTT | FanCode",ENGLISH - Malawi Women Vs Lesotho Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141905_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Iconic Super Knights Vs Brisbane Stars
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141752_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="VT OTT | FanCode",ENGLISH - Brazil Women Vs Botswana Women
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140929_5802_CCM_BRB_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Central Coast Mariners Vs Brisbane Roar
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141904_english.m3u8
+ https://fanco.vodep39240327.workers.dev/140929_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Iii Vs Monaco
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141917_english.m3u8
