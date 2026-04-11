@@ -789,22 +789,22 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ------------=== VT OTT | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442176767617_IFC_Dempo_Sports_Club_vs_Aizawl_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Dempo Sports Club vs Aizawl FC - 11 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2022319/DempoSpo1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775946368~acl=/*~id=18020054117595245406554820783201~hmac=36809ef17be3b72b4f402e2ac74050b0405a65f6575fa5b8a69c88e8820178c8
+ https://sonydaimenew.akamaized.net/hls/live/2022319/DempoSpo1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775950008~acl=/*~id=32360998079146476445524367077870~hmac=ee78757fe7f4b1e90040527a72e44022f13b2aecf20e006955b858c230c39e2d
 
 # ------------=== VT OTT | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Sri Lanka A Vs New Zealand A
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141800_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="VT OTT | FanCode",ENGLISH - Botswana Women Vs Mozambique Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141903_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="VT OTT | FanCode",ENGLISH - Zambia Women Vs Lesotho Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141908_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Iconic Super Knights Vs Melbourne Tuskers
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141754_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg" group-title="VT OTT | FanCode",ENGLISH - Chennaiyin Fc Vs East Bengal Fc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/140482_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Norwich City F C Vs Ipswich Town F C
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141438_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="VT OTT | FanCode",ENGLISH - Japan U20 Vs Vietnam U20
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141629_english.m3u8
@@ -814,6 +814,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Semi-final Vs Monaco
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141919_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_web-(1).jpg" group-title="VT OTT | FanCode",ENGLISH - A Zverev Vs J Sinner
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141918_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
