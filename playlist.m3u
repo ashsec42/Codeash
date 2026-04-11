@@ -794,12 +794,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="VT OTT | FanCode",ENGLISH - Botswana Women Vs Mozambique Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141903_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Iconic Super Knights Vs Melbourne Tuskers
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141754_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="VT OTT | FanCode",ENGLISH - Zambia Women Vs Lesotho Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141908_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Auckland Vs Melbourne Victory
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/140930_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Newcastle Jets Vs Adelaide United
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/140931_english.m3u8
