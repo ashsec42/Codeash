@@ -789,7 +789,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ------------=== VT OTT | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774592255713658_BLIGA_26_MD29_St-Pauli-vs-Bayern_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",St. Pauli vs Bayern Munich - MD 29 - 11 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775968227~acl=/*~id=49032816954582234716596900163683~hmac=688a122632b9125ef07efa09fbcd01ced90c407d07affa48f8be99644964e5ae
+ https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775971868~acl=/*~id=35983108150456708323966907574764~hmac=cba34064a03e5fe3cc1cb92431dedc8b0f92b4eeb3b0c4cfca09179a3f0db2da
 
 # ------------=== VT OTT | FanCode ===---------------
 
@@ -799,15 +799,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Malaga Vs Las Palmas
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141687_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Semi-final Vs Monaco
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141919_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Georgia, Vs Usa
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141878_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131135_5427_ELC_VAL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Elche Cf Vs Valencia Cf
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/131135_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
