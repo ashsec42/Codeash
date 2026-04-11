@@ -786,12 +786,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775930635~acl=/*~id=b36320e9-e750-4ae9-92a6-b7122a0817a9~data=hdntl~hmac=4fb917fcc2c43b3e5a62e06b04a397a3d97d92d49f2947ec3b71ffc670c59e19
 
-# ------------=== VT OTT | FanCode ===---------------
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Georgia, Vs Usa
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141877_english.m3u8
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
