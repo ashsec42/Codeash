@@ -786,22 +786,23 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1775995758~acl=/*~id=29bb6f98-24c8-49be-81aa-dca3f6a053e1~data=hdntl~hmac=886dd004c9b3f88b30d0b77e5099d5860bdd1370bb3f3c4e17ecaf34b4cd2273
 
-# ------------=== VT OTT | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774592255713658_BLIGA_26_MD29_St-Pauli-vs-Bayern_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",St. Pauli vs Bayern Munich - MD 29 - 11 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775971868~acl=/*~id=35983108150456708323966907574764~hmac=cba34064a03e5fe3cc1cb92431dedc8b0f92b4eeb3b0c4cfca09179a3f0db2da
-
 # ------------=== VT OTT | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Fc Barcelona Vs Rcd Espanyol
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140729_5655_ALK_ANF_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Al Okhdood Club Vs Al Nassr Fc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/131133_english.m3u8
+ https://fanco.vodep39240327.workers.dev/140729_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Sevilla Fc Vs Atletico De Madrid
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/131138_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Malaga Vs Las Palmas
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141687_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Georgia, Vs Usa
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141878_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Fc Barcelona Vs Rcd Espanyol
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/131133_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
