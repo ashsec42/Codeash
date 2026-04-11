@@ -794,15 +794,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Sevilla Fc Vs Atletico De Madrid
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/131138_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Malaga Vs Las Palmas
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141687_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Georgia, Vs Usa
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141878_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Fc Barcelona Vs Rcd Espanyol
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/131133_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
