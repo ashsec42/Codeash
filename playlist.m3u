@@ -788,8 +788,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== VT OTT | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Real Kashmir FC vs Gokulam Kerala FC - 12 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776036732~acl=/*~id=34923279798800508229076607331278~hmac=6045088baa854e47a97680ba43c4a8dda8842095d26014f8f7476c7584aa21b0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442624162617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Sreenidi Deccan FC vs Rajasthan United FC- 12 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2022316/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776042185~acl=/*~id=87825462256537177773690708199657~hmac=5c730af777925f10910677c75a137c0d5bff5930063d76a57886297de2d5edff
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774593170855658_BLIGA_26_MD29_Koln-vs-Werder_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",FC Koln vs Werder Bremen - MD 29 - 12 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776042185~acl=/*~id=87825462256537177773690708199657~hmac=5c730af777925f10910677c75a137c0d5bff5930063d76a57886297de2d5edff
 
 # ------------=== VT OTT | FanCode ===---------------
 
@@ -805,9 +807,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141810_5973_KSHI_MSC_fc-web.jpg" group-title="VT OTT | FanCode",BENGALI - Inter Kashi Vs Mohammedan Sc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141810_bengali.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Final Vs Monaco
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Sinner_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Alcaraz Vs Sinner
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141923_english.m3u8
+ https://fanco.vodep39240327.workers.dev/141922_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
