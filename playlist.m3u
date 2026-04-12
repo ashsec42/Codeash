@@ -794,6 +794,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Melbourne Pirates Vs Everest Falcons
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141753_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Perth Glory Vs Macarthur
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/140934_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="VT OTT | FanCode",ENGLISH - Dpr Korea U20 Vs Australia U20
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141631_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
