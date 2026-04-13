@@ -788,24 +788,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== VT OTT | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="VT OTT | FanCode",ENGLISH - Leeward Islands Hurricanes Vs Trinidad Tobago Red Force
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141947_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="VT OTT | FanCode",ENGLISH - Windward Islands Volcanoes Vs Guyana Harpy Eagles
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141949_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="VT OTT | FanCode",ENGLISH - Jamaica Scorpions Vs Barbados Pride
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141948_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140858_5647_AHS_SDD_FC-WEB_1772186883531.png" group-title="VT OTT | FanCode",ENGLISH - Al Hilal Sfc Vs Al Sadd
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/140858_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131130_5427_LE_GEF_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Levante Vs Getafe Cf
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/131130_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278979/141690_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Real Valladolid Vs Eibar
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141690_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
