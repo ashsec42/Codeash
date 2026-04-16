@@ -794,19 +794,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624298415552_Golf_Mexico_Day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mexico City - Day 1 - 17 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776418784~acl=/*~id=60149730541624431381114543147766~hmac=13b3d862a944564da9e55547905fc2f50b3c2fcfe99df671f99c0c8b84f09fc6
-
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141934_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141936_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141930_english.m3u8
+ https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776421816~acl=/*~id=77382657182423395556329626886080~hmac=1a209e056978c9c53052863a61658a78ab8d8eded2c5903e7c615a27d15066a3
 
 # ------------=== VT OTT | CIO ===---------------
 
