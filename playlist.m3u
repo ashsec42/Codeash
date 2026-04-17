@@ -794,15 +794,23 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017315/1776430199518201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Real Madrid vs PSG - Semi-Final - 17 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490900~acl=/*~id=03421483007356495607088664192291~hmac=edc9cb77d63a1da1d1e6edb4f4dad3ba7894b977270f91041cbca52ff68e95ce
+ https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776495764~acl=/*~id=85461627863848106156355092944126~hmac=0b1bc3ca0392b956c20b7e6161d351a1ef395a67d6626bd5b521536132b1b62e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438170185352_bliga26_MD30_St_Pauli_vs_FC_Koln_5apr_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",St. Pauli vs FC Koln - MD 30 - 18 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776495764~acl=/*~id=85461627863848106156355092944126~hmac=0b1bc3ca0392b956c20b7e6161d351a1ef395a67d6626bd5b521536132b1b62e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624349331352_Golf_Mexico_Day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mexico City - Day 2 - 17 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490900~acl=/*~id=03421483007356495607088664192291~hmac=edc9cb77d63a1da1d1e6edb4f4dad3ba7894b977270f91041cbca52ff68e95ce
+ https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776495764~acl=/*~id=85461627863848106156355092944126~hmac=0b1bc3ca0392b956c20b7e6161d351a1ef395a67d6626bd5b521536132b1b62e
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Machida Zelvia Vs Al Ittihad
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141675_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Blackburn Rovers F C Vs Coventry City F C
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141526_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Real Sociedad B Vs Racing Club
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141959_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141937_english.m3u8
@@ -812,6 +820,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141938_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141931_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
