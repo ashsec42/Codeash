@@ -8,17 +8,22 @@
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mexico City - Day 3 - 18 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Mex1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776594625~acl=/*~id=34719347193041219847379661517671~hmac=d18e8acd652a33d9a5751828a65208c86fd1d648313fd2e17b3d0804392874b0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017279/1776348174104511_UFC-Fight-Night-Burns-vs-Malott_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Burns vs Malott  - 19 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2037139/UFC_Burn1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776598265~acl=/*~id=99030253448774476999778130022441~hmac=ed1b300fce8340b6184283c80abcd1457e5f2ca50e5267988fc94bd3ed50b06f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017279/1776348174104511_UFC-Fight-Night-Burns-vs-Malott_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Burns vs Malott  - 19 Apr 2026 [HIN]
+ https://sonydaimenew.akamaized.net/hls/live/2037139/UFC_Burn1804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776598265~acl=/*~id=99030253448774476999778130022441~hmac=ed1b300fce8340b6184283c80abcd1457e5f2ca50e5267988fc94bd3ed50b06f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017279/1776348174104511_UFC-Fight-Night-Burns-vs-Malott_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Burns vs Malott  - 19 Apr 2026 [TAM]
+ https://sonydaimenew.akamaized.net/hls/live/2037139/UFC_Burn1804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1776598265~acl=/*~id=99030253448774476999778130022441~hmac=ed1b300fce8340b6184283c80abcd1457e5f2ca50e5267988fc94bd3ed50b06f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017279/1776348174104511_UFC-Fight-Night-Burns-vs-Malott_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Burns vs Malott  - 19 Apr 2026 [TEL]
+ https://sonydaimenew.akamaized.net/hls/live/2037139/UFC_Burn1804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1776598265~acl=/*~id=99030253448774476999778130022441~hmac=ed1b300fce8340b6184283c80abcd1457e5f2ca50e5267988fc94bd3ed50b06f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017279/1776348174104511_UFC-Fight-Night-Burns-vs-Malott_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Burns vs Malott  - 19 Apr 2026 [KAN]
+ https://sonydaimenew.akamaized.net/hls/live/2037139/UFC_Burn1804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1776598265~acl=/*~id=99030253448774476999778130022441~hmac=ed1b300fce8340b6184283c80abcd1457e5f2ca50e5267988fc94bd3ed50b06f
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Golf Vs Course
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/142044_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid_vs_Real-Sociedad_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Atletico De Madrid Vs Real Sociedad
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141270_english.m3u8
 
 # ------------=== VT OTT | HS ===---------------
 
