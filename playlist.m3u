@@ -793,17 +793,27 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788286763263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Diamond Harbour FC vs Gokulam Kerala FC - 18 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776555170~acl=/*~id=50884959879331756008891501148731~hmac=bc2c0aa8fe7ca7353ad90ff32d68e8a7a418c7bc54204ecca9e5ce0428f2c0df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438696739352_bliga26_MD30_Hoffenheim_vs_Dortmund_5apr_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Hoffenheim vs Borussia Dortmund - MD 30 - 18 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2022318/BLIGA_Ho1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776560633~acl=/*~id=30290552078417848560881876340410~hmac=98fea8f73042cc72d722a12fb509d49173842e16d6044c1213530808f4f2bfd7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438299222352_bliga26_MD30_Leverkusen_vs_Augsburg_5apr_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Bayer Leverkusen vs Augsburg - MD 30 - 18 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2018457/BLIGA_Ba1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776560633~acl=/*~id=30290552078417848560881876340410~hmac=98fea8f73042cc72d722a12fb509d49173842e16d6044c1213530808f4f2bfd7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788487557263_IFC_Shillong_Lajong_FC_vs_Aizawl_FC_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Shillong Lajong FC vs Aizawl FC - 18 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Shil1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776560633~acl=/*~id=30290552078417848560881876340410~hmac=98fea8f73042cc72d722a12fb509d49173842e16d6044c1213530808f4f2bfd7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Goal Arena - MD 30 - 18 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Go1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776560633~acl=/*~id=30290552078417848560881876340410~hmac=98fea8f73042cc72d722a12fb509d49173842e16d6044c1213530808f4f2bfd7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438552033352_bliga26_MD30_Union_Berlin_vs_Wolfsburg_5apr_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Union Berlin vs Wolfsburg - MD 30 - 18 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2094589/BLIGA_Un1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776560633~acl=/*~id=30290552078417848560881876340410~hmac=98fea8f73042cc72d722a12fb509d49173842e16d6044c1213530808f4f2bfd7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438432631352_bliga26_MD30_Werder_Bremen_vs_Hamburger_SV_5apr_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv", Werder Bremen vs Hamburger SV - MD 30 - 18 Apr 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_We1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776560633~acl=/*~id=30290552078417848560881876340410~hmac=98fea8f73042cc72d722a12fb509d49173842e16d6044c1213530808f4f2bfd7
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Nepal Women Vs Usa Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/142047_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Melbourne Tuskers Vs Everest Falcons
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Namibia Vs Scotland
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141765_english.m3u8
+ https://fanco.vodep39240327.workers.dev/142017_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140490_5956_KBFC_JFC_FC-Web_1772461810739.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Kerala Blasters Fc Vs Jamshedpur Fc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/140490_english.m3u8
@@ -813,9 +823,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/KB-vs-JP_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Kerala Blasters Fc Vs Jamshedpur Fc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141816_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Sydney Fc Vs Perth Glory
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/140938_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Japan U20 Vs Dpr Korea U20
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141635_english.m3u8
@@ -834,6 +841,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - 
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141835_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Munich, Vs Germany
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141849_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
