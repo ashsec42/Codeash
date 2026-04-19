@@ -793,12 +793,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775439950936352_bliga26_MD30_Bayern_vs_Stuttgart_5apr_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Bayern Munich vs VfB Stuttgart - MD 30 - 19 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2022322/BLIGA_Ba1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776663128~acl=/*~id=99010216486353517397687278846350~hmac=c7a3a49adccaef94061130daba7ea36d82cb02520584981879ff76e0418e752c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624351505552_Golf_Mexico_Day4_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mexico City - Day 4 - 19 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2037140/LIV_GOLF1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776663128~acl=/*~id=99010216486353517397687278846350~hmac=c7a3a49adccaef94061130daba7ea36d82cb02520584981879ff76e0418e752c
+ https://sonydaimenew.akamaized.net/hls/live/2037140/LIV_GOLF1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776667982~acl=/*~id=39530454369260870274167693505875~hmac=bd4605da9dbc9f15a019a851912bc3089612099947f14cf97bedfe1ee7b1d22d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775440159493352_bliga26_MD30_Borussia_vs_Mainz_5apr_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Borussia Mönchengladbach vs Mainz - MD 30 - 19 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Bo1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776663128~acl=/*~id=99010216486353517397687278846350~hmac=c7a3a49adccaef94061130daba7ea36d82cb02520584981879ff76e0418e752c
+ https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Bo1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776667982~acl=/*~id=39530454369260870274167693505875~hmac=bd4605da9dbc9f15a019a851912bc3089612099947f14cf97bedfe1ee7b1d22d
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
@@ -811,6 +809,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Jamaica Scorpions Vs Barbados Pride
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141951_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140872_5648_ASC_HUS_FC-WEB_1775570097662.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Al Ahli Qat Vs Al Hussein
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/140872_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1776063278980/141961_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Almeria Vs Malaga
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/141961_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141945_english.m3u8
@@ -820,12 +824,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
  https://fanco.vodep39240327.workers.dev/141943_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140492_5956_NEUFC_MBSG_FC-Web_1772466211485.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Northeast United Fc Vs Mohun Bagan Super Giant
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Island, Vs Sout
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/140492_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/NU-vs-MB_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Northeast United Fc Vs Mohun Bagan Super Giant
+ https://fanco.vodep39240327.workers.dev/141933_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Golf Vs Course
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
- https://fanco.vodep39240327.workers.dev/141817_english.m3u8
+ https://fanco.vodep39240327.workers.dev/142045_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
