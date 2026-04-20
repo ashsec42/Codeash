@@ -95,61 +95,205 @@ https://tinyurl.com/link-macha-official-collab-vt1/705150.ts
 # ------------=== VT OTT | HS ===---------------
 
 #EXTM3U
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/bhojpuri/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/bhojpuri/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/hindi/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/hindi/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • haryanvi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/haryanvi/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • haryanvi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/haryanvi/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • english
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/english/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • english
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/english/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/marathi/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/marathi/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/tamil/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/tamil/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • bengali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/bengali/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • bengali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/bengali/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • malayalam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/malayalam/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • malayalam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/malayalam/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/punjabi/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/punjabi/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/telugu/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/telugu/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/kannada/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/kannada/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • gujarati
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/gujarati/master.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-language="Hindi" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",GT vs MI 4k • gujarati
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://ipl26.tgaadi.workers.dev/gtvsmi/gujarati/master.m3u8
+
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 Hindi
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:http-cookie=__hdnea__=st=1776603394~exp=1776624994~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7a9fc1384135d1427d5eac02dfcfac970ed2161647bf9aa3753e8621e1e5de1f
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776687854~exp=1776709454~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7a627a368192480b1374c841ab221bb54cf3f834305c2be9d27b801080c57ad9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1776603394~exp=1776624994~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7a9fc1384135d1427d5eac02dfcfac970ed2161647bf9aa3753e8621e1e5de1f
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1776687854~exp=1776709454~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7a627a368192480b1374c841ab221bb54cf3f834305c2be9d27b801080c57ad9
 
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",Star Sports HD1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:http-cookie=__hdnea__=st=1776603328~exp=1776624928~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=9a52fe14ee69f7f20d97ca4110eea1d8c637f8ebfcbc7d605102f2108c4d7e80
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776687796~exp=1776709396~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=e46ded177550e8e47bf8c05ed96da07f9ae98590ba3bb86403f33df1c1e455a6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1776603328~exp=1776624928~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=9a52fe14ee69f7f20d97ca4110eea1d8c637f8ebfcbc7d605102f2108c4d7e80
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1776687796~exp=1776709396~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=e46ded177550e8e47bf8c05ed96da07f9ae98590ba3bb86403f33df1c1e455a6
 
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 Hindi
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:http-cookie=__hdnea__=st=1776603394~exp=1776624994~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7a9fc1384135d1427d5eac02dfcfac970ed2161647bf9aa3753e8621e1e5de1f
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776687854~exp=1776709454~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7a627a368192480b1374c841ab221bb54cf3f834305c2be9d27b801080c57ad9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1776603394~exp=1776624994~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7a9fc1384135d1427d5eac02dfcfac970ed2161647bf9aa3753e8621e1e5de1f
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1776687854~exp=1776709454~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7a627a368192480b1374c841ab221bb54cf3f834305c2be9d27b801080c57ad9
 
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",Star Sports HD1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:http-cookie=__hdnea__=st=1776603328~exp=1776624928~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=9a52fe14ee69f7f20d97ca4110eea1d8c637f8ebfcbc7d605102f2108c4d7e80
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776687796~exp=1776709396~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=e46ded177550e8e47bf8c05ed96da07f9ae98590ba3bb86403f33df1c1e455a6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1776603328~exp=1776624928~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=9a52fe14ee69f7f20d97ca4110eea1d8c637f8ebfcbc7d605102f2108c4d7e80
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1776687796~exp=1776709396~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=e46ded177550e8e47bf8c05ed96da07f9ae98590ba3bb86403f33df1c1e455a6
 
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png",Star Sports 1 Tamil HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:http-cookie=__hdnea__=st=1776602623~exp=1776624223~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/*~hmac=4db816f6895aac66b00f6a5ada0efc7fd06080d96ab521cf8c4e04ba7a55ae81
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776687105~exp=1776708705~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/*~hmac=eb036dfbe617004213dc30679b889dbc5de516ebf54f03342725ac5d7a8dcb42
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1776602623~exp=1776624223~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/*~hmac=4db816f6895aac66b00f6a5ada0efc7fd06080d96ab521cf8c4e04ba7a55ae81
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1776687105~exp=1776708705~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/*~hmac=eb036dfbe617004213dc30679b889dbc5de516ebf54f03342725ac5d7a8dcb42
 
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 1 Telugu HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:http-cookie=__hdnea__=st=1776602664~exp=1776624264~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/*~hmac=d91b733cdd666fdb6c4298a934183fa168c5dd740134a1163f65571e3faf6ef4
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776687141~exp=1776708741~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/*~hmac=ac330fc43c5f92b0a6975fddc99b05f1f3cd8228c817ec999aee2ff0f57da881
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1776602664~exp=1776624264~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/*~hmac=d91b733cdd666fdb6c4298a934183fa168c5dd740134a1163f65571e3faf6ef4
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1776687141~exp=1776708741~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/*~hmac=ac330fc43c5f92b0a6975fddc99b05f1f3cd8228c817ec999aee2ff0f57da881
 
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:http-cookie=__hdnea__=st=1776602902~exp=1776624502~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=401ef6aa52731cfd4e4ec59815f3d33dd4fb5ab84ddb0b83f82dbd8d6287594f
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776687383~exp=1776708983~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=599475fe091dfe34d30e385d846a6bb6ccb8c9a59cdcde5894e5dbab54251223
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1776602902~exp=1776624502~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=401ef6aa52731cfd4e4ec59815f3d33dd4fb5ab84ddb0b83f82dbd8d6287594f
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1776687383~exp=1776708983~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=599475fe091dfe34d30e385d846a6bb6ccb8c9a59cdcde5894e5dbab54251223
 
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png",Star Sports HD2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:http-cookie=__hdnea__=st=1776603455~exp=1776625055~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=f0605d46123dbc181ba815ee534c7f81e24ae597a58a70c57ca82cbab843e40f
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776687924~exp=1776709524~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=d6030c2ea7664b35e5990b4fac8587acf7376013d56fdaf1edbe2dc751965d61
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1776603455~exp=1776625055~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=f0605d46123dbc181ba815ee534c7f81e24ae597a58a70c57ca82cbab843e40f
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1776687924~exp=1776709524~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=d6030c2ea7664b35e5990b4fac8587acf7376013d56fdaf1edbe2dc751965d61
 
 #EXTINF:-1 tvg-language="Hindi" group-title="JIO ⭕|Sports" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg",Star Sports 2 Tamil HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -434,55 +578,86 @@ _________VT 🎬 | Tamil Movies_______
 #EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg" ,AAA
 https://tentkotta.short.gy/aaa.mkv
 
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTYzMWU1OTQtNzNlOC00NWUwLTkxMjMtYTk0MzA2NTcxMmZlXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Kolai Seval (𝗜𝗠𝗗𝗕 5.4 2026 ‧ Drama ‧ 1h 47m Director VR. Thudhivaanan| Writer VR. Thudhivaanan| Stars Deepa Balu ‧ Gajaraj ‧ Kalaiyarasan)
+https://tentkotta.short.gy/AgADnw6161.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/mustafa-mustafa-et00490055-1772606940.jpg" group-title="VT 🎬| Tamil Movies",Mustafa Mustafa (𝗜𝗠𝗗𝗕 4.4 2026 ‧ Boddy Comedy\High-Concept Comedy\Comedy\Drama ‧ 1h 58m Director Praveen Saravanan| Writers Praveen Saravanan ‧ Shammeer Sultan| Stars Chaams ‧ Maheshwari Chanakyan ‧ Monica Chinnakotla)
+https://tentkotta.short.gy/AgADmw6159.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRlMTlmMTgtNmYwNS00ZWZmLWE3YzgtMTk3ZmRlYzNjMDU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Valathu Vashathe Kallan (𝗜𝗠𝗗𝗕 6.0 2026 ‧ Crime\Thriller ‧ 2h 15m Director Jeethu Joseph| Writer Dinu Thomas Eelan| Stars Biju Menon ‧ Joju George ‧ Leona Lishoy)
+https://tentkotta.short.gy/AgADEA6157.mkv
+
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZkOTdhNzItNDI0Yy00YzQ3LTk1MzQtMWI4MTRiNDFhZDMyXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Youth (𝗜𝗠𝗗𝗕 7.3 2026 ‧ Coming-of-Age\Feel-Good Romance\Romance Comedy\Comedy\Family\Romance ‧ 2h 20m Director Ken Karunas| Writer Ken Karunas| Stars Ken Karunas ‧ Suraj Venjaramoodu ‧ Devadarshini Chetan)
-https://paid.kps-bots.workers.dev/download.aspx?file=kgbYxfbthlYRrCxugFNYhyjV927WdNeBQg3ws2Auskiypf6jT%2FmMTZKBlvmiiFHs&expiry=ZHmOmoNySYByZMTiXFqYbw%3D%3D&mac=cf57ac875c4c42b7e8d8aba31470b497dd7e8623fb5907afb9599b127afc58a0
+https://tentkotta.short.gy/AgADUh6102.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEwZTZjOWYtMWVhYi00ZjljLWFhYTItNzZhMWI4YzlmZGIxXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Thaai Kizhavi (𝗜𝗠𝗗𝗕 7.7 2026 ‧ Satire\Comedy\Drama ‧ 2h 30m Director Sivakumar Murugesan| Writer Sivakumar Murugesan| Stars Radhika Sarathkumar ‧ Aruldoss ‧ Ilavarasu)
+https://tentkotta.short.gy/AgADtR6155.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY5NmYyOTktNWQwNS00NzgyLWI5ZGUtYzQyY2JiODQwYWJiXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Kaa: The Forest (𝗜𝗠𝗗𝗕 8.3 2026 ‧ Adventure\Thriller ‧ 1h 52m Director Nanjil| Writer Nanjil| Stars Andrea Jeremiah ‧ Salim Ghouse ‧ Daffe Naveen)
+https://tentkotta.short.gy/AgADGg6153.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Second Case of Seetharam (𝗜𝗠𝗗𝗕 8.6 2026 ‧ Crime\Thriller ‧ 2h Director Deviprasad Shetty| Writers Bhavani Shankar Anekallu ‧ Deviprasad Shetty| Stars Usha Bhandary ‧ Gopalkrishna Deshpande ‧ Vijay Raghavendra)
+https://tentkotta.short.gy/AgADJA6151.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYzZmJiMDktZTJiYy00NDg1LTljNzQtYjYzYTY0MGRlZDJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Suyodhana (𝗜𝗠𝗗𝗕 9.6 2026 ‧ Drama\Mystery\Thriller ‧ 2h 10m Director Y.S. Madav Reddy| Writers Srinu Dharmarajula ‧ Srinu Kambala| Stars Priya Darshi ‧ Drishika Chander ‧ Sai Kumar)
+https://tentkotta.short.gy/AgAD1w6149.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzAxMTI0ZDItYTM1MC00YmY4LTkzZmUtODQ2NzNlMTNhYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Ashakal Aayiram (𝗜𝗠𝗗𝗕 5.2 2026 ‧ Comedy\Drama\Family ‧ 2h 12m Director G. Prajith| Writers Jude Anthany Joseph ‧ Aravind Rajendran| Stars Abhinand Accode ‧ Jayaram ‧ Kalidas Jayaram)
+https://tentkotta.short.gy/AgADuw6147.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZmMDdhN2YtYTlmNC00ZGNlLWE0ZDgtMmRiY2Q3MmY2YmRkXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Ustaad Bhagat Singh (𝗜𝗠𝗗𝗕 4.7 2026 ‧ Action\Comedy\Drama\One-Person Army Action ‧ 2h 30m Director Harish Shankar| Writers Mithun Chaitanya ‧ Dasaradh ‧ Chandra Mohan| Stars Pawan Kalyan ‧ Sriram Reddy Polasane ‧ Sreeleela)
+https://tentkotta.short.gy/AgADWx6145.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/sambhavam-adhyayam-onnu-et00489555-1772252741.jpg" group-title="VT 🎬| Tamil Movies",Sambhavam Adhyayam Onnu (𝗜𝗠𝗗𝗕 7.3 2026 ‧ Phychological Thriller\Thriller ‧ 2h 9m Director Jithu Satheesan Mangalathn| Writer Jithu Satheesan Mangalathu| Stars Neethu Krishna ‧ Askar Ali ‧ Sidharth Bharathan)
+https://tentkotta.short.gy/AgADxC6143.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMyNGVkN2QtMDNlMi00YjY3LWJiNTctNTVmYTAxMzExMTI0XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Iravin Vizhigal (𝗜𝗠𝗗𝗕 6.5 2025 ‧ Drama ‧ 1h 34m Director Sikkal Rajesh| Writer Sikkal Rajesh| Stars Ashmitha ‧ Mahendraa ‧ Scissor Manohar)
+https://tentkotta.short.gy/AgADwA6141.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/guest-et00494586-1776146935.jpg" group-title="VT 🎬| Tamil Movies",Guest (𝗜𝗠𝗗𝗕 7.4 2026 ‧ Romantic\Suspense\Thriller ‧ 1h 42m Director Ranga Bhuvaneswar| Writer Ranga Bhuvaneswar| Stars Vidhu Balaji ‧ Sakshi Agarwal)
+https://tentkotta.short.gy/AgADJC6139.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/s-saraswathi-et00490066-1772625020.jpg" group-title="VT 🎬| Tamil Movies",S Saraswathi (𝗜𝗠𝗗𝗕 4.9 2026 ‧ Drama\Thriller\Crime  ‧2h 1m Director Varalaxmi Sarathkumar| Writer Sai Madhav Burra| Stars Radhika Sarathkumar  ‧ Priyamani  ‧ Varalaxmi Sarathkumar)
+https://tentkotta.short.gy/AgADUi6137.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc3MTgxOWQtNWU2Mi00MjZkLWI4NjItZTMwNzM4ODdiYTE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Kadhal Kadhai Sollava (𝗜𝗠𝗗𝗕 5.0 2026  ‧ Drama  ‧ 2h 3m Director Sanil Kalathil| Writers Sanil Kalathil  ‧ Kanmani Rajamohamed| Stars Vijay Sethupathi  ‧ Jayaram  ‧ Nakhul)
+https://tentkotta.short.gy/AgAD1x6135.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3ZjZkNTctNmJhYy00MjhjLTljMzEtZDQ2NWRmNjhhNGIyXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Kadhal Reset Repeat (𝗜𝗠𝗗𝗕 6.4 2026  ‧ Feel-Good Romance\Musical\Drama\Romace  ‧ 2h 15m Director A.L. Vijay| Writers A. Mahadev  ‧ A.L. Vijay| Stars Madumkesh  ‧ Jiya Shankar  ‧ Arjun Ashokan)
+https://tentkotta.short.gy/AgADWw6133.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM3ZmYyZTItYTdkOS00NzIwLWJmOGYtMmUxMDVmZjVmNjdkXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Sarkeet (𝗜𝗠𝗗𝗕 6.5 2025  ‧ Drama  ‧ 2h 15m Directors Hashim Sulaiman  ‧ Thamar K.V.| Writer Thamar K.V.| Stars Divya Prabha  ‧ Asif Ali  ‧ Remya Suresh)
+https://tentkotta.short.gy/AgADlw6131.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg1ZGYxZmUtY2FmNi00YWZhLWI0NDEtNmZiNDA5ZGYxOWNmXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Repu Udayam 10 Gantalaku (𝗜𝗠𝗗𝗕 5.7 2026 ‧ Thriller  ‧ 1h 53m Director Chandu Muddu| Stars Chaitanya Rao ‧ Hebah Patel ‧ Abhinav Gomatam)
+https://tentkotta.short.gy/AgADIg.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY0OGZjMjAtNzY3Mi00MTU4LWIyMTEtZDE5NzY2MDFlNzY4XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Sampradayaini Suppini Suddapusaani (𝗜𝗠𝗗𝗕 5.5 2026 ‧ Comedy\Crime ‧ 2h 15m Director Sudhir Sriram| Writers Mithil Kumar ‧ Sudhir Sriram| Stars Sivaji ‧ Laya ‧ Rohan)
+https://tentkotta.short.gy/AgADYA6127.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTU1ODY3N2UtZjZkYy00MGUxLWEzN2MtODU3NDMwZWIzZGJhXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Mrithyunjay (𝗜𝗠𝗗𝗕 6.4 2026 ‧ Thriller ‧ 2h 2m Directors Ch Suresh Babu ‧ Hussain Sha Kiran ‧ Sudhakar Tirumalasetti| Writers AnuragReddy ‧ Vasant Kumar Jurru ‧ Hussain Sha Kiran| Stars Sree Vishnu ‧ Reba Monica John ‧ Sudharshan)
+https://tentkotta.short.gy/AgADHA6125.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkyMDMxZGYtZDU4Zi00ZGZmLWJkYzUtMDYwMDdlOTM1YTcyXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Vadam (𝗜𝗠𝗗𝗕 7.3 2026 ‧ Action ‧ 2h 16m Director Kenthiran Muniasami| Writers Gnanakaravel ‧ Kenthiran Muniasami| Stars Sangeetha Kalyan ‧ Sangeetha Kalyankumar ‧ Indumathy Manikandan)
+https://tentkotta.short.gy/AgADRg6123.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA3ZmE1NTMtNTkyNS00NmVhLWI1YjEtMTc0N2VmNzZjMWQyXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Aaradhana (𝗜𝗠𝗗𝗕 6.8 2025 ‧ Thriller ‧ 2h 14m Director Malathi Sivagami| Writer Rajhashuryen Kunasegaram| Stars Auro Chakkravarthy ‧ Sri Kalirajan Marimuthu ‧ Sri Kumaran Munusamy)
+https://tentkotta.short.gy/AgADVh6121.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFjNzFkNzQtNTk4MS00N2ZhLTk0YzEtMDU3NDg3MTRkZDFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Eesha (𝗜𝗠𝗗𝗕 7.8 2025 ‧ Horror\Thriller ‧ 2h 15m Director Manne Srinivas| Writer Manne Srinivas| Stars Siri Hanmanth ‧ Mime Madhu ‧ Hebah Patel)
+https://tentkotta.short.gy/AgAD1g6119.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E4ZTA4NjctYTYwMi00NTJjLTlkMzktYjlhMzgwOGI3NmIwXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Konja Naal Poru Thalivaa (𝗜𝗠𝗗𝗕 5.8 2025 ‧ Tamil ‧ 2h 12m Director Vignesh Pandiyan| Writer Vignesh Pandiyan| Stars Lollu Sabha Maaran ‧ Motta Rajendran ‧ Nishanth Russo)
+https://tentkotta.short.gy/AgADoQ6117.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA0ODRiOTQtNjQwNC00Zjk3LWFhZWEtMTcwYmI2MTJlMjU3XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Hey Balwanth (𝗜𝗠𝗗𝗕 6.0 2026 ‧ Drama\Comedy ‧ 2h 15m Director Gopi Atchara| Writers Gopi Atchara ‧ Shanmukha Prasanth ‧ Midhun Shankar Reddy| Stars Suhas ‧ Shivani Nagaram ‧ V.K. Naresh)
+https://tentkotta.short.gy/AgADjQ6115.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I3ODUwNmMtMmRlMS00NDAwLWIzMzktMzU0YjBlNjNmYTVlXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Sotta Sotta Nanaiyuthu (𝗜𝗠𝗗𝗕 7.9 2025 ‧ Drama ‧ 2h 7m Directors Naveedh S Fareedh ‧ Yuvaraj Kannan ‧ KPY Raja| Writer Naveedh S Fareedh| Stars KPY Yogi ‧ Pugazh ‧ Robo Shankar)
+https://tentkotta.short.gy/AgADHR6113.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmYjg4YTUtZDYzYy00NGJiLWJmZWMtNjUzMDZhOTc3MzE3XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Will (𝗜𝗠𝗗𝗕 6.6 2025 ‧ Drama ‧ 2h 8m Director S Sivaraman| Writer S Sivaraman| Stars Sonia Agarwal ‧ Padam Venu Kumar ‧ Mohan Raman)
-
+https://tentkotta.short.gy/AgADKg6111.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYzOTM1MmQtMGQyOC00N2I0LTkwZmEtOWU4MTI0M2U2ZDJmXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",My Lord (𝗜𝗠𝗗𝗕 6.5 2026 ‧ Drama ‧ 2h 27m Directors Raju Murugan ‧ Arunmozhi Pandian| Writer Raju Murugan| Stars M. Sasikumar ‧ Chaithra J. Achar ‧ V. Jayaprakash)
 https://tentkotta.short.gy/AgADOi6009.mkv
