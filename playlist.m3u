@@ -8045,11 +8045,11 @@ https://live13p.hotstar.com/hls/live/2123066/inallow-ipl-2026/bih/1540066394/15m
 
 #EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Bhojpuri MI vs CSK
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066394&lang=bho
+https://tattistar.vercel.app/jhs.m3u8?id=1540066394&lang=bih
 
 #EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Bhojpuri MI vs CSK
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066394&lang=bho
+https://tattistar.vercel.app/jhs.m3u8?id=1540066394&lang=bih
 
 #EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Punjabi MI vs CSK
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
@@ -8061,11 +8061,11 @@ https://live14p.hotstar.com/hls/live/2123138/inallow-ipl-2026/pan/1540066394/15m
 
 #EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Punjabi MI vs CSK
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066394&lang=pun
+https://tattistar.vercel.app/jhs.m3u8?id=1540066394&lang=pan
 
 #EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Punjabi MI vs CSK
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066394&lang=pun
+https://tattistar.vercel.app/jhs.m3u8?id=1540066394&lang=pan
 
 
 
