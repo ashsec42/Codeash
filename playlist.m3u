@@ -95,7 +95,7 @@ https://tinyurl.com/link-macha-official-collab-vt1/705150.ts
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775630725180558_BLGA_26_MD31_RB-Leipzig-vs-Union-Berlin_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",RB Leipzig vs Union Berlin - MD 31 - 24 Apr 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/20000291/BLIGA_RB2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777098972~acl=/*~id=71116616045371312378515432097884~hmac=9f530da0940a0c3654f15e1302fc8173f4c794e201062abefdf5ab28c68f131d
+ https://sonydaimenew.akamaized.net/hls/live/20000291/BLIGA_RB2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777103365~acl=/*~id=66828984932103517241318290387171~hmac=3bafb02a71eaa2c486e0de9af8a67ac61c3526dc8785c4b04b8efa870734a7ea
 
 # ------------=== VT OTT | CIO ===---------------
 
@@ -7880,197 +7880,13 @@ https://keys.lrl45.workers.dev/mpd/3476
 # ------------=== VT OTT | HS ===---------------
 
 #EXTM3U
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Hindi RCB vs GT
+#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Default Stream
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live12p.hotstar.com/hls/live/2024726/inallow-ipl-2026/hin/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777119770~acl=%2fhls%2flive%2f2024726%2finallow-ipl-2026%2fhin%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=d7dbcd5974286ec449ced612efd9a2479e5b122fbf22c37b0bca5d19e301352b&ttl=86400&type=free&acl=/hls/live/2024726/inallow-ipl-2026/hin/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Hindi RCB vs GT
+#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Default Stream
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live12p.hotstar.com/hls/live/2024726/inallow-ipl-2026/hin/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777119770~acl=%2fhls%2flive%2f2024726%2finallow-ipl-2026%2fhin%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=d7dbcd5974286ec449ced612efd9a2479e5b122fbf22c37b0bca5d19e301352b&ttl=86400&type=free&acl=/hls/live/2024726/inallow-ipl-2026/hin/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Hindi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=hin
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Hindi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=hin
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", English RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live11p.hotstar.com/hls/live/2024721/inallow-ipl-2026/eng/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777119765~acl=%2fhls%2flive%2f2024721%2finallow-ipl-2026%2feng%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=5ea9e1ba401e701b53d80a3c712e833350ce202888b70acbf4436103a6e37151&ttl=86400&type=free&acl=/hls/live/2024721/inallow-ipl-2026/eng/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", English RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live11p.hotstar.com/hls/live/2024721/inallow-ipl-2026/eng/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777119765~acl=%2fhls%2flive%2f2024721%2finallow-ipl-2026%2feng%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=5ea9e1ba401e701b53d80a3c712e833350ce202888b70acbf4436103a6e37151&ttl=86400&type=free&acl=/hls/live/2024721/inallow-ipl-2026/eng/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS English RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=eng
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS English RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=eng
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Bengali RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123084/inallow-ipl-2026/ben/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122346~acl=%2fhls%2flive%2f2123084%2finallow-ipl-2026%2fben%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=221d430533328427f525c946c32c7d1fdd03897f3874fbef381f6660f9df066a&ttl=86400&type=free&acl=/hls/live/2123084/inallow-ipl-2026/ben/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Bengali RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123084/inallow-ipl-2026/ben/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122346~acl=%2fhls%2flive%2f2123084%2finallow-ipl-2026%2fben%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=221d430533328427f525c946c32c7d1fdd03897f3874fbef381f6660f9df066a&ttl=86400&type=free&acl=/hls/live/2123084/inallow-ipl-2026/ben/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Bengali RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=ben
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Bengali RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=ben
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Tamil RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2003889/inallow-ipl-2026/tam/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122318~acl=%2fhls%2flive%2f2003889%2finallow-ipl-2026%2ftam%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=1b6c4e1ed04bd771a4bf21dae89565dff3ee84e75c6d0fd52aa89cf51fa56eaa&ttl=86400&type=free&acl=/hls/live/2003889/inallow-ipl-2026/tam/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Tamil RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2003889/inallow-ipl-2026/tam/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122318~acl=%2fhls%2flive%2f2003889%2finallow-ipl-2026%2ftam%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=1b6c4e1ed04bd771a4bf21dae89565dff3ee84e75c6d0fd52aa89cf51fa56eaa&ttl=86400&type=free&acl=/hls/live/2003889/inallow-ipl-2026/tam/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Tamil RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=tam
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Tamil RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=tam
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Telugu RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2004207/inallow-ipl-2026/tel/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122324~acl=%2fhls%2flive%2f2004207%2finallow-ipl-2026%2ftel%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=69b3364a6fc4954b912682b6656ea9f9acdea400c1bf35aa6878374e97b23d2b&ttl=86400&type=free&acl=/hls/live/2004207/inallow-ipl-2026/tel/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Telugu RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2004207/inallow-ipl-2026/tel/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122324~acl=%2fhls%2flive%2f2004207%2finallow-ipl-2026%2ftel%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=69b3364a6fc4954b912682b6656ea9f9acdea400c1bf35aa6878374e97b23d2b&ttl=86400&type=free&acl=/hls/live/2004207/inallow-ipl-2026/tel/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Telugu RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=tel
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Telugu RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=tel
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Kannada RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2004209/inallow-ipl-2026/kan/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122310~acl=%2fhls%2flive%2f2004209%2finallow-ipl-2026%2fkan%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=fe59c27f2c71d85dba1d471f623ab90b43a72935571e79aed5877961489bb803&ttl=86400&type=free&acl=/hls/live/2004209/inallow-ipl-2026/kan/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Kannada RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2004209/inallow-ipl-2026/kan/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122310~acl=%2fhls%2flive%2f2004209%2finallow-ipl-2026%2fkan%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=fe59c27f2c71d85dba1d471f623ab90b43a72935571e79aed5877961489bb803&ttl=86400&type=free&acl=/hls/live/2004209/inallow-ipl-2026/kan/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Kannada RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=kan
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Kannada RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=kan
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Malayalam RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2123147/inallow-ipl-2026/mal/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122314~acl=%2fhls%2flive%2f2123147%2finallow-ipl-2026%2fmal%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=f83d18e7381a058db556fbc2beee1e41e7c540b14913589bfe00332721e58c5c&ttl=86400&type=free&acl=/hls/live/2123147/inallow-ipl-2026/mal/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Malayalam RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2123147/inallow-ipl-2026/mal/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122314~acl=%2fhls%2flive%2f2123147%2finallow-ipl-2026%2fmal%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=f83d18e7381a058db556fbc2beee1e41e7c540b14913589bfe00332721e58c5c&ttl=86400&type=free&acl=/hls/live/2123147/inallow-ipl-2026/mal/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Malayalam RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=mal
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Malayalam RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=mal
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Marathi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2123207/inallow-ipl-2026/mar/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122328~acl=%2fhls%2flive%2f2123207%2finallow-ipl-2026%2fmar%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=143d16a53ad54fc8de4980df11f7e1518256d914a8216ba8cb94b3c84cf46df0&ttl=86400&type=free&acl=/hls/live/2123207/inallow-ipl-2026/mar/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Marathi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2123207/inallow-ipl-2026/mar/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122328~acl=%2fhls%2flive%2f2123207%2finallow-ipl-2026%2fmar%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=143d16a53ad54fc8de4980df11f7e1518256d914a8216ba8cb94b3c84cf46df0&ttl=86400&type=free&acl=/hls/live/2123207/inallow-ipl-2026/mar/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Marathi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=mar
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Marathi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=mar
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Gujarati RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123075/inallow-ipl-2026/guj/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122332~acl=%2fhls%2flive%2f2123075%2finallow-ipl-2026%2fguj%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=abbfdece0845992c097b2974f36782d56e92b4a9257dc04455302697bcc6e75a&ttl=86400&type=free&acl=/hls/live/2123075/inallow-ipl-2026/guj/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Gujarati RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123075/inallow-ipl-2026/guj/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122332~acl=%2fhls%2flive%2f2123075%2finallow-ipl-2026%2fguj%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=abbfdece0845992c097b2974f36782d56e92b4a9257dc04455302697bcc6e75a&ttl=86400&type=free&acl=/hls/live/2123075/inallow-ipl-2026/guj/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Gujarati RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=guj
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Gujarati RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=guj
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Haryanvi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2123198/inallow-ipl-2026/har/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122341~acl=%2fhls%2flive%2f2123198%2finallow-ipl-2026%2fhar%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=5a43826fb4139d124a367fdfab04f0f7fa3a5b9f474d461fbc0a95667f2746ca&ttl=86400&type=free&acl=/hls/live/2123198/inallow-ipl-2026/har/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Haryanvi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2123198/inallow-ipl-2026/har/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122341~acl=%2fhls%2flive%2f2123198%2finallow-ipl-2026%2fhar%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=5a43826fb4139d124a367fdfab04f0f7fa3a5b9f474d461fbc0a95667f2746ca&ttl=86400&type=free&acl=/hls/live/2123198/inallow-ipl-2026/har/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Haryanvi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=har
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Haryanvi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=har
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Bhojpuri RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123066/inallow-ipl-2026/bih/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122300~acl=%2fhls%2flive%2f2123066%2finallow-ipl-2026%2fbih%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=64b9e9b430e50a8e509323e2d6c0e53a5b4d71f8c4b2de994bc8bbd0b0827f3f&ttl=86400&type=free&acl=/hls/live/2123066/inallow-ipl-2026/bih/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Bhojpuri RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123066/inallow-ipl-2026/bih/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122300~acl=%2fhls%2flive%2f2123066%2finallow-ipl-2026%2fbih%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=64b9e9b430e50a8e509323e2d6c0e53a5b4d71f8c4b2de994bc8bbd0b0827f3f&ttl=86400&type=free&acl=/hls/live/2123066/inallow-ipl-2026/bih/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Bhojpuri RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=bih
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Bhojpuri RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=bih
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Punjabi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2123138/inallow-ipl-2026/pan/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122366~acl=%2fhls%2flive%2f2123138%2finallow-ipl-2026%2fpan%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=f87aca45c65371b53a8f3d8482823930652238553dc8f8d70e18cb52aaf06e47&ttl=86400&type=free&acl=/hls/live/2123138/inallow-ipl-2026/pan/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", Punjabi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2123138/inallow-ipl-2026/pan/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap.m3u8?a=ns&hdnea=exp=1777122366~acl=%2fhls%2flive%2f2123138%2finallow-ipl-2026%2fpan%2f1540066397%2f15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026%2fmaster_ap%2a~data=ip%3dBNupoQ3Lvau-userid%3dvBT7PtHW5E7-did%3dMZDAIbQBxZt-cc%3din-ttl%3d3600-type%3dfree-~hmac=f87aca45c65371b53a8f3d8482823930652238553dc8f8d70e18cb52aaf06e47&ttl=86400&type=free&acl=/hls/live/2123138/inallow-ipl-2026/pan/1540066397/15mindvrm01c1503250a75a42feb9cf2ae3d3b010cf24april2026/master_ap
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Punjabi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=pan
-
-#EXTINF:-1 tvg-id="1106" tvg-language="4k" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i", 4K-NO-ADS Punjabi RCB vs GT
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://tattistar.vercel.app/jhs.m3u8?id=1540066397&lang=pan
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
 
 
