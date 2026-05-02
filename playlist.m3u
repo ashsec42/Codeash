@@ -92,21 +92,6 @@ https://tinyurl.com/link-macha-official-collab-vt1/705165.ts
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://tinyurl.com/link-macha-official-collab-vt1/705150.ts
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777762196~acl=/*~id=67497077107850168767308164170158~hmac=f07ab792a3873c02a6ce7f92b8987b8db8004866c2a41266f5451caddab4a6b9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [HIN]
- https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777762196~acl=/*~id=67497077107850168767308164170158~hmac=f07ab792a3873c02a6ce7f92b8987b8db8004866c2a41266f5451caddab4a6b9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [TAM]
- https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777762196~acl=/*~id=67497077107850168767308164170158~hmac=f07ab792a3873c02a6ce7f92b8987b8db8004866c2a41266f5451caddab4a6b9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [TEL]
- https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777762196~acl=/*~id=67497077107850168767308164170158~hmac=f07ab792a3873c02a6ce7f92b8987b8db8004866c2a41266f5451caddab4a6b9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [KAN]
- https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777762196~acl=/*~id=67497077107850168767308164170158~hmac=f07ab792a3873c02a6ce7f92b8987b8db8004866c2a41266f5451caddab4a6b9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777486430826406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Qualifying_Race_Live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Round 7 - Berlin E - Prix - Qualifying Race - 2 May 2026 [ENG]
- https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777762196~acl=/*~id=67497077107850168767308164170158~hmac=f07ab792a3873c02a6ce7f92b8987b8db8004866c2a41266f5451caddab4a6b9
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
@@ -8156,8 +8141,8 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1777702425~exp=1777724025~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=45e5be3010a3eb4e0ac9e63852730735e6c7b3d464792b2836f4fdf713841cdd","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st%3D1777702425%7Eexp%3D1777724025%7Eacl%3D%2Fbpk-tv%2FStar_Sports_HD1_Hindi_BTS%2FWDVLive%2F*%7Ehmac%3D45e5be3010a3eb4e0ac9e63852730735e6c7b3d464792b2836f4fdf713841cdd
+#EXTHTTP:{"cookie":"__hdnea__=st=1777722308~exp=1777743908~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=982c597477eaa5c5d0d54be962a0b1760f7b4eed68a76c121fc0a636a37e993f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st%3D1777722308%7Eexp%3D1777743908%7Eacl%3D%2Fbpk-tv%2FStar_Sports_HD1_Hindi_BTS%2FWDVLive%2F*%7Ehmac%3D982c597477eaa5c5d0d54be962a0b1760f7b4eed68a76c121fc0a636a37e993f
 
 #EXTINF:-1 tvg-id="1106" group-title="JIO ⭕|Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",Star Sports HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
