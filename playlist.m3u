@@ -791,6 +791,20 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1777140079~acl=/cmaf/live/2105550/POLIMER-HD/*~id=4e2fc986-3118-4e9c-98a1-cdebe0d2e44e~data=hdntl,non-ssai_4e2fc986-3118-4e9c-98a1-cdebe0d2e44e~hmac=3584b66f35dbb4ac9f206dd176dc1d0567e8ba144c7441b75816be0cf5132f34
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146608990329_ArcheryWC2026_Shanghai_Compound_Team_finals_7may_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Compound Team Finals - 9 May 2026 [ENG]
+ https://sonydaimenew.akamaized.net/hls/live/20000295/Hyundai_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778343592~acl=/*~id=31937869197890225370404230852053~hmac=a038d4a80a2262e78fba62584c1dc746be51bd83d2dba2ba29b287bbb356f577
+
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Bangladesh Vs Pakistan
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/142160_english.m3u8
+#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Minerva Academy Fc Vs Sreenidi Deccan Fc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+ https://fanco.vodep39240327.workers.dev/142368_english.m3u8
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
