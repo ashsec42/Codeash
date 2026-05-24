@@ -691,22 +691,28 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779678241~acl=/*~id=37104824049362902315615372679855~hmac=c30f83ea479b70df9034278ffe93279e76875f41769d31f46d07539046c44149
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/HIN/std_lrh-800300010.m3u8?hdnea=exp=1779678241~acl=/*~id=37104824049362902315615372679855~hmac=c30f83ea479b70df9034278ffe93279e76875f41769d31f46d07539046c44149
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TAM/std_lrh-800300010.m3u8?hdnea=exp=1779678241~acl=/*~id=37104824049362902315615372679855~hmac=c30f83ea479b70df9034278ffe93279e76875f41769d31f46d07539046c44149
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TEL/std_lrh-800300010.m3u8?hdnea=exp=1779678241~acl=/*~id=37104824049362902315615372679855~hmac=c30f83ea479b70df9034278ffe93279e76875f41769d31f46d07539046c44149
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/KAN/std_lrh-800300010.m3u8?hdnea=exp=1779678241~acl=/*~id=37104824049362902315615372679855~hmac=c30f83ea479b70df9034278ffe93279e76875f41769d31f46d07539046c44149
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779684918~acl=/*~id=09533704961125296267381514842211~hmac=95b74e4adb98b194948667ae7b3ec4d19dd41578de1e6fa875e9046f1e1359c8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/HIN/std_lrh-800300010.m3u8?hdnea=exp=1779684918~acl=/*~id=09533704961125296267381514842211~hmac=95b74e4adb98b194948667ae7b3ec4d19dd41578de1e6fa875e9046f1e1359c8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TAM/std_lrh-800300010.m3u8?hdnea=exp=1779684918~acl=/*~id=09533704961125296267381514842211~hmac=95b74e4adb98b194948667ae7b3ec4d19dd41578de1e6fa875e9046f1e1359c8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TEL/std_lrh-800300010.m3u8?hdnea=exp=1779684918~acl=/*~id=09533704961125296267381514842211~hmac=95b74e4adb98b194948667ae7b3ec4d19dd41578de1e6fa875e9046f1e1359c8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/KAN/std_lrh-800300010.m3u8?hdnea=exp=1779684918~acl=/*~id=09533704961125296267381514842211~hmac=95b74e4adb98b194948667ae7b3ec4d19dd41578de1e6fa875e9046f1e1359c8
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Bolton Wanderers Vs Stockport County
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778777596615/142702_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Real Valladolid Vs Deportivo La Coruna
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142735_english.m3u8
+https://fcode.neyini4157.workers.dev/142702_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778777834399/142700_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Málaga Vs Racing Club
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/142700_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778777894887/142699_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Las Palmas Vs Real Zaragoza
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/142699_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Main Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142130_english.m3u8
@@ -719,6 +725,9 @@ https://fcode.neyini4157.workers.dev/142133_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Marquee Group
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142131_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   World Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/142129_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
