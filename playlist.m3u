@@ -689,21 +689,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdnts=
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st=1779075393~exp=1779078393~acl=/out/v1/ZEE5_Live_Channels/Zee-News-UttarPradesh-Uttrakhand-SD/master/*~id=66e753e1-e594-4291-8482-be43d3eeb749~data=non-ssai_66e753e1-e594-4291-8482-be43d3eeb749~hmac=48e3bfc96d574d62981cc96a4c934ebdc2b21a960ff3fb340a841e1010289969&req_id=non-ssai_66e753e1-e594-4291-8482-be43d3eeb749
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018313/1779615828000777_Roland_Garros_2026_Gaston_vs_Monfils_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Hugo Gaston vs Gael Monfils - Round 1 - 25 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779786161~acl=/*~id=44434989118611621591614611725095~hmac=0ffce5f3dbbf090e18cb97c8b84548d7dcba5b9d609f7f2dd974ea7b3fe7b8d4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018313/1779615828000777_Roland_Garros_2026_Gaston_vs_Monfils_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Hugo Gaston vs Gael Monfils - Round 1 - 25 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/std_lrh-800300010.m3u8?hdnea=exp=1779786161~acl=/*~id=44434989118611621591614611725095~hmac=0ffce5f3dbbf090e18cb97c8b84548d7dcba5b9d609f7f2dd974ea7b3fe7b8d4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018313/1779615828000777_Roland_Garros_2026_Gaston_vs_Monfils_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Hugo Gaston vs Gael Monfils - Round 1 - 25 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/std_lrh-800300010.m3u8?hdnea=exp=1779786161~acl=/*~id=44434989118611621591614611725095~hmac=0ffce5f3dbbf090e18cb97c8b84548d7dcba5b9d609f7f2dd974ea7b3fe7b8d4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018313/1779615828000777_Roland_Garros_2026_Gaston_vs_Monfils_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Hugo Gaston vs Gael Monfils - Round 1 - 25 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/std_lrh-800300010.m3u8?hdnea=exp=1779786161~acl=/*~id=44434989118611621591614611725095~hmac=0ffce5f3dbbf090e18cb97c8b84548d7dcba5b9d609f7f2dd974ea7b3fe7b8d4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018313/1779615828000777_Roland_Garros_2026_Gaston_vs_Monfils_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Hugo Gaston vs Gael Monfils - Round 1 - 25 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/std_lrh-800300010.m3u8?hdnea=exp=1779786161~acl=/*~id=44434989118611621591614611725095~hmac=0ffce5f3dbbf090e18cb97c8b84548d7dcba5b9d609f7f2dd974ea7b3fe7b8d4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018134/1779193395912293_bliga26_Relegation_Playoffs_SC_Paderborn07_vs_VfL_Wolfsburg_19may_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",SC Paderborn 07 vs VFL Wolfsburg - Relegation Playoffs - 25 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Bundesli2505/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779786161~acl=/*~id=44434989118611621591614611725095~hmac=0ffce5f3dbbf090e18cb97c8b84548d7dcba5b9d609f7f2dd974ea7b3fe7b8d4
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
