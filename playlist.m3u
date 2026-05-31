@@ -732,15 +732,25 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdnts=
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st=1779075393~exp=1779078393~acl=/out/v1/ZEE5_Live_Channels/Zee-News-UttarPradesh-Uttrakhand-SD/master/*~id=66e753e1-e594-4291-8482-be43d3eeb749~data=non-ssai_66e753e1-e594-4291-8482-be43d3eeb749~hmac=48e3bfc96d574d62981cc96a4c934ebdc2b21a960ff3fb340a841e1010289969&req_id=non-ssai_66e753e1-e594-4291-8482-be43d3eeb749
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127832000498_RG26_Svitolina_vs_Bencic_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Elina Svitolina vs Belinda Bencic - Women's Singles - 31 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780272737~acl=/*~id=73145874388082010947923563531228~hmac=aeca08e780e91600a439a595816c3926fb0eb3de1b1cf275a72ce4991249f5e9
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774843370739_DP_World_Austrian_Alpine_Open_Day4_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Austrian Alpine Open - Day 4 - 31 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/Austrian3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780272737~acl=/*~id=73145874388082010947923563531228~hmac=aeca08e780e91600a439a595816c3926fb0eb3de1b1cf275a72ce4991249f5e9
+
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Speen Ghar Region Vs Boost Region
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142750_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142939_6089_NLW_SLW_FC-Web_1779706389448.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Nepal Women Vs Sri Lanka Women
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/142939_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Italy Gp
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/139947_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Marta-Kostyuk-vs-Iga-Swiatek_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - M. Kostyuk Vs I. Swiatek 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court Philippe Chatrier
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142688_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court Suzanne Lenglen
@@ -767,9 +777,15 @@ https://fcode.neyini4157.workers.dev/142957_telugu.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",KANNADA - Top Seeds In Action
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142957_kannada.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142939_6089_NLW_SLW_FC-Web_1779706389448.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Nepal Women Vs Sri Lanka Women
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Yihan Qu Vs Maaya Rajeshwaran Revathi
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142939_english.m3u8
+https://fcode.neyini4157.workers.dev/143222_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - A. Paparkar Vs V. Jakob Reisach
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143221_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Main Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/142902_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
