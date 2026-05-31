@@ -9,222 +9,88 @@
 # ------------=== VT 📡 | 2026 Playlist ===---------------
 
 #EXTM3U
+-----> TATA IPL |Night ⚡
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="ENGLISH" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", ENGLISH 4K HDR AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live11p.hotstar.com/cmaf/live/2108386/inallow-ipl-2026/eng/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a_stereo.m3u8?hdnea=exp=1780244692~acl=/cmaf/live/2108386/inallow-ipl-2026/eng/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243492-~hmac=06184d7d614f5554aac938086dd26c53489b72500889868031bad7d68ae138d9
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-English
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705142.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="ENGLISH" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", ENGLISH 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live11p.hotstar.com/cmaf/live/2024345/inallow-ipl-2026/eng/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a_stereo.m3u8?hdnea=exp=1780244839~acl=/cmaf/live/2024345/inallow-ipl-2026/eng/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243039-ttl=1800-type=paid-raf=1780243639-~hmac=1d69a3830fd8a1b107050c1806db36645e8706d6e07e7a6c552fcc7a8dc6f94c
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="ENGLISH" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", ENGLISH FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live11p.hotstar.com/hls/live/2003689/inallow-ipl-2026/eng/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780244986~acl=/hls/live/2003689/inallow-ipl-2026/eng/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=DpVgFHrO4Oh6yyOADskvTqyCqEvE2ueXhEFUIkpN07tV-did=EyCwTfB6n4qXCMfoYorcw2x0xrS0Mv2pV8cDcrHVxmWA-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=300-ad=300-ce=1780243186-ttl=1800-type=paid-raf=1780243786-~hmac=daea9711ed3fc58693c3cfe8665c145b1d44e16a8f77505f65d79778e9aa644e
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-Hindi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705141.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="HINDI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", HINDI 4K HDR AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live12p.hotstar.com/cmaf/live/2108403/inallow-ipl-2026/hin/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a_stereo.m3u8?hdnea=exp=1780244694~acl=/cmaf/live/2108403/inallow-ipl-2026/hin/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243494-~hmac=74823a8c3ee32317c23caaec959f8baa493f40bfc580eb117b74159cc69b7a2e
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="HINDI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", HINDI 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live12p.hotstar.com/cmaf/live/2024713/inallow-ipl-2026/hin/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a_stereo.m3u8?hdnea=exp=1780245278~acl=/cmaf/live/2024713/inallow-ipl-2026/hin/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243478-ttl=1800-type=paid-raf=1780244078-~hmac=4cc7c8b89356fbd123ff1ff8e774d7123ca83d62e34bbe3143f3f6567f78d890
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-Tamil
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705153.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="HINDI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", HINDI FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live12p.hotstar.com/hls/live/2007889/inallow-ipl-2026/hin/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780244841~acl=/hls/live/2007889/inallow-ipl-2026/hin/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=DZ0lohaGgVw6WmC5KidJJAJfVhAvDdXPDzDQtBKtcaJq-did=TZr6M05grnGETqEpCU7J7BziytLXAewHrYzVO2YHXtNp-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=300-ad=300-ce=1780243041-ttl=1800-type=paid-raf=1780243641-~hmac=a17b9eb33a3ff763382f14b97547fb0a8a0cd525e9171024759b8053de19b6f2
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="TELUGU" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", TELUGU 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live12p.hotstar.com/cmaf/live/2108399/inallow-ipl-2026/tel/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244696~acl=/cmaf/live/2108399/inallow-ipl-2026/tel/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243496-~hmac=619bb82e58f3a0152ae3062e1ad31a43b732c9dfc4de14179cb39d23db6df58a
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-Telugu
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705154.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="TELUGU" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", TELUGU 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/cmaf/live/2024716/inallow-ipl-2026/tel/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244843~acl=/cmaf/live/2024716/inallow-ipl-2026/tel/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243043-ttl=1800-type=paid-raf=1780243643-~hmac=f8f786420d8a06a84aa2d56f1edb38fb3ca01b667533699144bac8815d5a8bfd
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="TELUGU" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", TELUGU FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2004223/inallow-ipl-2026/tel/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780245280~acl=/hls/live/2004223/inallow-ipl-2026/tel/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=df5fupKlPi6qPZ9xhHGOiVddrr3Xz5mxwRdjUv9gsvwB-did=W8DxebjIrzamQQ6rR7w0LzwrZywYajPqcbvsh9UU2zlo-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=600-ad=600-ce=1780243480-ttl=1800-type=paid-raf=1780244080-~hmac=f090e74e1bec64883184b9a557237cff84356ea2cca5dd2150aab594743de368
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-Kannada
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705155.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="TAMIL" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", TAMIL 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live12p.hotstar.com/cmaf/live/2108400/inallow-ipl-2026/tam/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244698~acl=/cmaf/live/2108400/inallow-ipl-2026/tam/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243498-~hmac=6a613efef5939e3834417be77f3fc64783c119a8673338f62b47953aaad2a1c0
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="TAMIL" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", TAMIL 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/cmaf/live/2024712/inallow-ipl-2026/tam/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244845~acl=/cmaf/live/2024712/inallow-ipl-2026/tam/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243045-ttl=1800-type=paid-raf=1780243645-~hmac=d297fec2a161305af34a18990ae80724072a554f0e7a93e613dee7bfd7cf7671
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="TAMIL" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", TAMIL FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2027121/inallow-ipl-2026/tam/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780245137~acl=/hls/live/2027121/inallow-ipl-2026/tam/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=SUa5y5KsJm941Xh8pucwRmS7IKfOGUh0pvk4ZRyH5MIc-did=wGhM9t5SAq8a422lhiP48BP2HOBziWTKJnc2suS656fM-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=600-ad=600-ce=1780243337-ttl=1800-type=paid-raf=1780243937-~hmac=dd42dac9fa4dd75b7a995056b4fe74cdd4227b0558d234bfe0c2acf81386fd9f
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-Malayalam
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705156.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="KANNADA" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", KANNADA 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live12p.hotstar.com/cmaf/live/2108398/inallow-ipl-2026/kan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244701~acl=/cmaf/live/2108398/inallow-ipl-2026/kan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243501-~hmac=32d14f62f336c69235d9054f30a661ddd63cc2d7a902fed4493d587157345fad
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="KANNADA" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", KANNADA 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/cmaf/live/2024718/inallow-ipl-2026/kan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780245284~acl=/cmaf/live/2024718/inallow-ipl-2026/kan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243484-ttl=1800-type=paid-raf=1780244084-~hmac=e12c650678bfd2ee72d5d07bc162ff02f793553365f4e6d78306997c8f6d0a16
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-Haryanvi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705164.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="KANNADA" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", KANNADA FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2004224/inallow-ipl-2026/kan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780244848~acl=/hls/live/2004224/inallow-ipl-2026/kan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=MX3e0YxUJBl34F9n4L5QcU2dWezPbNBFOsJDugpbxr2Q-did=YVV1W9Fcc5n79bhCtzvOScB0CKvTZG3sO8usdNiWSNUJ-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=120-ad=120-ce=1780243048-ttl=1800-type=paid-raf=1780243648-~hmac=9eadd177fdb5135c086080949fc78dbb818310378096fa646b3ba567dc14e8f9
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="MALAYALAM" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", MALAYALAM 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live14p.hotstar.com/cmaf/live/2123099/inallow-ipl-2026/mal/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244703~acl=/cmaf/live/2123099/inallow-ipl-2026/mal/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243503-~hmac=b0eefa66b358926752c616ff0db272bb9eda544be19fa1feabf6e94e33a002fa
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M1-Bhojpuri
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705165.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="MALAYALAM" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", MALAYALAM 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/cmaf/live/2123100/inallow-ipl-2026/mal/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244850~acl=/cmaf/live/2123100/inallow-ipl-2026/mal/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243050-ttl=1800-type=paid-raf=1780243650-~hmac=30fdb663dd551a42338d124d8317e2281826eb8fa174bd12d1d76f2b5a3870d7
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="MALAYALAM" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", MALAYALAM FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2123146/inallow-ipl-2026/mal/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780244996~acl=/hls/live/2123146/inallow-ipl-2026/mal/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=SIQbUBaEv3IrLlKG4hTraAQSntadw1VA9sGhQcXPZdrf-did=R3J0urz6qgSmUDerNbALKPq60hshf3tAkZJbgTYBhcnW-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=600-ad=600-ce=1780243196-ttl=1800-type=paid-raf=1780243796-~hmac=25731fa3390a55c37e2515781afecded794090597e8dc15e39ceec498164f12e
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="BHOJPURI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", BHOJPURI 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live13p.hotstar.com/cmaf/live/2123032/inallow-ipl-2026/bih/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244705~acl=/cmaf/live/2123032/inallow-ipl-2026/bih/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243505-~hmac=c1be3fb9dc46ccef4015b0c6ca1be8536f21a14928a1b9d277dc1716fe874bc4
+-----> TATA IPL |Afternoon ⚡
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="BHOJPURI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", BHOJPURI 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/cmaf/live/2123033/inallow-ipl-2026/bih/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244852~acl=/cmaf/live/2123033/inallow-ipl-2026/bih/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243052-ttl=1800-type=paid-raf=1780243652-~hmac=2e10f81ab1b369ac79c26c39628690d37aa9928a72ed8379c3b7456d37713d3e
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-English
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705136.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="BHOJPURI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", BHOJPURI FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123065/inallow-ipl-2026/bih/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780244852~acl=/hls/live/2123065/inallow-ipl-2026/bih/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=DKWyOjIm7RRL7SmC571ISRGfdyFBgwBDdqwXFNA81iWk-did=zXZ8UtoB6byZx9KmVsPfty0Vm5WNo03CbaCPK1YTIuxL-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=600-ad=600-ce=1780243052-ttl=1800-type=paid-raf=1780243652-~hmac=780f4a517e8530df1253dcc94971792da5724870ea6a7030fa1cc9a6ee2a90cd
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Hindi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705144.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="MARATHI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", MARATHI 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live15p.hotstar.com/cmaf/live/2123161/inallow-ipl-2026/mar/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244707~acl=/cmaf/live/2123161/inallow-ipl-2026/mar/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243507-~hmac=58f08746d450aa3c33fd67389421ad58b4116e4d4e2e434d76e67fe07e2313ff
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Tamil
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705138.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="MARATHI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", MARATHI 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/cmaf/live/2123162/inallow-ipl-2026/mar/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244854~acl=/cmaf/live/2123162/inallow-ipl-2026/mar/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243054-ttl=1800-type=paid-raf=1780243654-~hmac=552b84f49c194280e4700f798571871ea254db01db843fd965736015001f7175
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Telugu
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705139.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="MARATHI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", MARATHI FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2123206/inallow-ipl-2026/mar/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780244855~acl=/hls/live/2123206/inallow-ipl-2026/mar/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=C2sRY7tM1wHgNgAlqNkbnJpy0IODLhtPxRtX0NWw09V2-did=z9kSm8TgIAeOGqK0BfwoIxK7mhjBW6e1NLfK1K2C6NIV-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=300-ad=300-ce=1780243055-ttl=1800-type=paid-raf=1780243655-~hmac=550db6b35ead254df3b9df5ed2cec5ffbf162c5ffc8362673355921ef382b98e
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Kannada
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705151.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="BENGALI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", BENGALI 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live13p.hotstar.com/cmaf/live/2123036/inallow-ipl-2026/ben/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244710~acl=/cmaf/live/2123036/inallow-ipl-2026/ben/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243510-~hmac=eaa03837dd68bc4ebadd159b111488ed68e1ff0b9be434ab8f6eb0ca3bf098f5
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="BENGALI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", BENGALI 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/cmaf/live/2123037/inallow-ipl-2026/ben/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780245002~acl=/cmaf/live/2123037/inallow-ipl-2026/ben/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243202-ttl=1800-type=paid-raf=1780243802-~hmac=1b75f43940af7581a9559223b94f0f07cf680882096ed3aff2ea3f67b8da595f
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Malayalam
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705140.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="BENGALI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", BENGALI FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123083/inallow-ipl-2026/ben/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780244857~acl=/hls/live/2123083/inallow-ipl-2026/ben/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=FO0tVmTA66KJRGWBSbkzv2sjq9aFMCoRz6oqb0iuFacy-did=74X0MAnzSMr7yBfNK2HmFW7GyNrjPOUQ4aniaPoXhb0Y-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=600-ad=600-ce=1780243057-ttl=1800-type=paid-raf=1780243657-~hmac=55f60f19790ae9125f771318d84b6ffc3245d2222ab4caec04d0f3494f8e22f9
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Haryanvi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705164.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="PUNJABI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", PUNJABI 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live14p.hotstar.com/cmaf/live/2123097/inallow-ipl-2026/pan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244712~acl=/cmaf/live/2123097/inallow-ipl-2026/pan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243512-~hmac=8bcac6641fef3c524b5d4b88dc28b66824bbc80e9eefd602a85b3c9cb8699a32
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Bhojpuri
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705165.ts
 
-#EXTINF:-1 tvg-id="1540067136" tvg-name="PUNJABI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", PUNJABI 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/cmaf/live/2123098/inallow-ipl-2026/pan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780245005~acl=/cmaf/live/2123098/inallow-ipl-2026/pan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243205-ttl=1800-type=paid-raf=1780243805-~hmac=b9b55721b445c338238898f10f1e0ab115bd6431d936661b437e7b1100ae6645
-
-#EXTINF:-1 tvg-id="1540067136" tvg-name="PUNJABI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", PUNJABI FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2123137/inallow-ipl-2026/pan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780245005~acl=/hls/live/2123137/inallow-ipl-2026/pan/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=atqga2qABnCJMsp2MaJ2gcf5cQl8ZcYuGXgxfLkG7YG9-did=GIUgiZA8kc3zIKkGYL5cXrCpudsoAkIr7iQyXtLLYOos-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=120-ad=120-ce=1780243205-ttl=1800-type=paid-raf=1780243805-~hmac=96f179054ebaed7337983a5f69c48b802d2d4f9404a40555f08a519e88893aab
-
-#EXTINF:-1 tvg-id="1540067136" tvg-name="GUJARATI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", GUJARATI 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live13p.hotstar.com/cmaf/live/2123034/inallow-ipl-2026/guj/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244714~acl=/cmaf/live/2123034/inallow-ipl-2026/guj/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243514-~hmac=30d25910d368987bc25be193ef8903a3e51a9a1590fe8de5584cb52e6d9e576e
-
-#EXTINF:-1 tvg-id="1540067136" tvg-name="GUJARATI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", GUJARATI 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/cmaf/live/2123035/inallow-ipl-2026/guj/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780245297~acl=/cmaf/live/2123035/inallow-ipl-2026/guj/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243497-ttl=1800-type=paid-raf=1780244097-~hmac=3b88a8ac12ee0af25c7bc3533b55ba3e54c67500fa888a7cc8cfc5e4974ae3f2
-
-#EXTINF:-1 tvg-id="1540067136" tvg-name="GUJARATI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", GUJARATI FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123074/inallow-ipl-2026/guj/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780245152~acl=/hls/live/2123074/inallow-ipl-2026/guj/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=1JbgkZYvV6jWwHPuF4KHcME14eMcvpILLqB3WVymm32p-did=avKuWDWqrwQMqMru3yN4TiYoGsmsYf3RI7GdgvrUtEXk-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=120-ad=120-ce=1780243352-ttl=1800-type=paid-raf=1780243952-~hmac=d27b9e95a62f07057555adddd297acb0c3ca5487d26d46c0f70bfe4ef06fe47c
-
-#EXTINF:-1 tvg-id="1540067136" tvg-name="HARYANVI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", HARYANVI 4K AdsFree
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live15p.hotstar.com/cmaf/live/2123159/inallow-ipl-2026/har/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244716~acl=/cmaf/live/2123159/inallow-ipl-2026/har/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=JyFO8NC7n11c5Y30uJejGoGGRgajGFEuYFFtWjYEIt9c-did=00AjVLstpZ7H1rfLwMiZAcn1No7tbv865LU9EeDq6w3r-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1780243516-~hmac=a256ea1cac611d50de31d75c127073d9581c458224a31f4c2bd91a915cdae4ae
-
-#EXTINF:-1 tvg-id="1540067136" tvg-name="HARYANVI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", HARYANVI 4K
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/cmaf/live/2123160/inallow-ipl-2026/har/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a.m3u8?hdnea=exp=1780244863~acl=/cmaf/live/2123160/inallow-ipl-2026/har/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_a*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=d1BFFOwi7jkt2EsuDisjlDM01gMfqqrQ6oo1qnyOdLm3-did=bF6gtZFnYwNABqF0XiDECRlQaa06OJW35OjdymtQXcB2-cc=in-de=1-pl=androidtv-ap=26.03.30.2-ut=free-fpassv2-rd=14400-ad=14400-ce=1780243063-ttl=1800-type=paid-raf=1780243663-~hmac=502c7055cb261720900bb446e1ebd859af23b2ea41e928655b22b26168537010
-
-#EXTINF:-1 tvg-id="1540067136" tvg-name="HARYANVI" tvg-logo="https://images.ottplay.com/images/a30b7f9a2258c900cf39ca9144062e5e.jpg" group-title="TATA IPL |Night ⚡", HARYANVI FHD
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2123197/inallow-ipl-2026/har/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap.m3u8?hdnea=exp=1780244863~acl=/hls/live/2123197/inallow-ipl-2026/har/1540067136/15mindvrm0126f63fd7e91745969fff79d7d99c531b31may2026/master_ap*~data=ip=j1IShTn0kXjatyanJk7A8p-userid=GhDbIt3Fp9J4eq61Hz7mZeRlYKubSG00PN8h6lhN5axf-did=yE0fASMKL0xo434jmVbELPcYho4DIfiryHQxvKXgbN6S-cc=in-de=1-pl=android-ap=26.03.30.2-ut=guest-fpassv2-rd=300-ad=300-ce=1780243063-ttl=1800-type=paid-raf=1780243663-~hmac=db248bb07ad6c0746249c8190e4c7363d077ae4153c3da2d8b799e5d9c22ba48
+#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",(Asli 4K) M2-Punjabi
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+https://tinyurl.com/link-macha-official-collab-vt/705150.ts
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | Jio Cinema ===---------------
 
@@ -868,36 +734,26 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780286704~acl=/*~id=50751266724372307508842672422711~hmac=ce678895ca787d1c415a9b12666fbd3be7aa24aa31ffb2a902d8835561746ee9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780286704~acl=/*~id=50751266724372307508842672422711~hmac=ce678895ca787d1c415a9b12666fbd3be7aa24aa31ffb2a902d8835561746ee9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780286704~acl=/*~id=50751266724372307508842672422711~hmac=ce678895ca787d1c415a9b12666fbd3be7aa24aa31ffb2a902d8835561746ee9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780286704~acl=/*~id=50751266724372307508842672422711~hmac=ce678895ca787d1c415a9b12666fbd3be7aa24aa31ffb2a902d8835561746ee9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780286704~acl=/*~id=50751266724372307508842672422711~hmac=ce678895ca787d1c415a9b12666fbd3be7aa24aa31ffb2a902d8835561746ee9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018842/1780153854379172_VitalityBlast26_Mens_Warwickshire_vs_Northampton_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Warwickshire vs Northampton - 31 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000300/Vitality3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780286704~acl=/*~id=50751266724372307508842672422711~hmac=ce678895ca787d1c415a9b12666fbd3be7aa24aa31ffb2a902d8835561746ee9
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018857/1780127862000887_RG26_Mensik_vs_Rublev_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jakub Mensik vs Andrey Rublev - Men's Singles - 31 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/RG_SL_Da3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780293388~acl=/*~id=06438393777860760795766890704278~hmac=72b51a7785edc551229756cb6b024188ce6cb1ff315d09457f00f6ead8112259
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Pakistan Women Vs Ireland Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143054_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Jesper-De-Jong-vs-Alexander-Zverev_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - J. De Jong Vs A. Zverev
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779951738033/143171_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Deportivo La Coruna Vs Las Palmas
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143171_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779951738055/143170_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Castellón Vs Eibar
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143170_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court Philippe Chatrier
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142688_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court Suzanne Lenglen
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142687_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Mixed Doubles Ft. Yuki Bhambri
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142686_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court 14
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142685_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Top Seeds In Action
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142957_english.m3u8
@@ -925,6 +781,9 @@ https://fcode.neyini4157.workers.dev/142903_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Featured Groups
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142905_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   World Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/142901_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
