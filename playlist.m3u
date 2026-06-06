@@ -734,76 +734,46 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 14 - 6 Jun 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780805014~acl=/*~id=34281033427870868386738672234927~hmac=e763bad60e06b363ced96e03bc72afcb54c3c8b029c1c90e957163127744643c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 14 - 6 Jun 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780805014~acl=/*~id=34281033427870868386738672234927~hmac=e763bad60e06b363ced96e03bc72afcb54c3c8b029c1c90e957163127744643c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 14 - 6 Jun 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780805014~acl=/*~id=34281033427870868386738672234927~hmac=e763bad60e06b363ced96e03bc72afcb54c3c8b029c1c90e957163127744643c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552950144512_ENGvsNZ_1Test_day3_live_4june_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",1st Test - Day 3 - 6 Jun 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281054137461_INT_Friendlies26_Belgium_vs_Tunisia_1jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Belgium vs Tunisia - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000381/UEFA_Bel0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
+https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780805014~acl=/*~id=34281033427870868386738672234927~hmac=e763bad60e06b363ced96e03bc72afcb54c3c8b029c1c90e957163127744643c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019356/1780754570823558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Bastar Bisons vs Raipur Rhinos - 6 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005444/CCPL_Bas0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694573947309_SVNS_World_Championship26_Session3_mens_Match_4jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Session 1 - Men's Match - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
+https://sonydaimenew.akamaized.net/hls/live/2005444/CCPL_Bas0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780805014~acl=/*~id=34281033427870868386738672234927~hmac=e763bad60e06b363ced96e03bc72afcb54c3c8b029c1c90e957163127744643c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694634028309_SVNS_World_Championship26_Session4_mens_and_womens_Match_4jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Session 4 - Men's & Women's  Match - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780805014~acl=/*~id=34281033427870868386738672234927~hmac=e763bad60e06b363ced96e03bc72afcb54c3c8b029c1c90e957163127744643c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699428231373_LIV_Golf_Andalucia_Day3_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Andalucia - Day 3 - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271752774861_DP_World_Tour_KLM_Open_day3_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",KLM Open - Day 3 - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000379/KLM_Day30606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780622691600941_INT_Friendlies26_Armenia_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Armenia vs Kazakhstan - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000297/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281271335461_INT_Friendlies26_Lithuania_vs_Latvia_1jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Lithuania vs Latvia - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000382/UEFA_Lit0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
+https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780805014~acl=/*~id=34281033427870868386738672234927~hmac=e763bad60e06b363ced96e03bc72afcb54c3c8b029c1c90e957163127744643c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281429197461_INT_Friendlies26_Estonia_vs_Faroe_Islands_1jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Estonia vs Faroe Islands - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000383/UEFA_Est0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780800105~acl=/*~id=46471031391499345474307731330669~hmac=cb6a544da7f9a30e576c1786655028c70db07ce6092533698da14070a57b6c8e
+https://sonydaimenew.akamaized.net/hls/live/20000383/UEFA_Est0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780805014~acl=/*~id=34281033427870868386738672234927~hmac=e763bad60e06b363ced96e03bc72afcb54c3c8b029c1c90e957163127744643c
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Northern Challengers Vs Mumbai Marines
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142990_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Canada Vs Usa
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143195_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143150_6108_LRL_GG_FC-Web.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Liege Red Lions Vs Ghent Gladiators
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143150_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Canada Vs Usa
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143195_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022397/143064_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Indore Pink Panthers Vs Jabalpur Royal Lions
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143064_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_web_.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Bangladesh Women Vs India Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142943_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Hungary Gp
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/139949_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_RG_Final_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Chwalinska Vs Andreeva
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142731_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_RG_Final_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",HINDI - Chwalinska Vs Andreeva
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142731_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_RG_Final_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",TAMIL - Chwalinska Vs Andreeva
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142731_tamil.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_RG_Final_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",TELUGU - Chwalinska Vs Andreeva
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142731_telugu.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_RG_Final_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",KANNADA - Chwalinska Vs Andreeva
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142731_kannada.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Main Feed   Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143112_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Featured Groups   Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143114_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Marquee Feed   Day 3
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143113_english.m3u8
 
 # ------------=== VT OTT | CIO ===---------------
 
