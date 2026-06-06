@@ -734,22 +734,26 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019328/178070748226448_RG26_final_mens_doubles_Granollers_Zeballos_vs_Heliovaara_Patten_6jun_SP_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Granollers/Zeballos vs Heliovaara/Patten - Final - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780783014~acl=/*~id=26636083501979690591387331802804~hmac=60644bd7cadf0f59f80476301753a9692b3cd222a4e325d694d5f105773b8b76
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019328/178070748226448_RG26_final_mens_doubles_Granollers_Zeballos_vs_Heliovaara_Patten_6jun_SP_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Granollers/Zeballos vs Heliovaara/Patten - Final - 6 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780783014~acl=/*~id=26636083501979690591387331802804~hmac=60644bd7cadf0f59f80476301753a9692b3cd222a4e325d694d5f105773b8b76
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019328/178070748226448_RG26_final_mens_doubles_Granollers_Zeballos_vs_Heliovaara_Patten_6jun_SP_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Granollers/Zeballos vs Heliovaara/Patten - Final - 6 Jun 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780783014~acl=/*~id=26636083501979690591387331802804~hmac=60644bd7cadf0f59f80476301753a9692b3cd222a4e325d694d5f105773b8b76
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019328/178070748226448_RG26_final_mens_doubles_Granollers_Zeballos_vs_Heliovaara_Patten_6jun_SP_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Granollers/Zeballos vs Heliovaara/Patten - Final - 6 Jun 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780783014~acl=/*~id=26636083501979690591387331802804~hmac=60644bd7cadf0f59f80476301753a9692b3cd222a4e325d694d5f105773b8b76
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019328/178070748226448_RG26_final_mens_doubles_Granollers_Zeballos_vs_Heliovaara_Patten_6jun_SP_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Granollers/Zeballos vs Heliovaara/Patten - Final - 6 Jun 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780783014~acl=/*~id=26636083501979690591387331802804~hmac=60644bd7cadf0f59f80476301753a9692b3cd222a4e325d694d5f105773b8b76
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 14 - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 14 - 6 Jun 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 14 - 6 Jun 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 14 - 6 Jun 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 14 - 6 Jun 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552950144512_ENGvsNZ_1Test_day3_live_4june_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",1st Test - Day 3 - 6 Jun 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780783014~acl=/*~id=26636083501979690591387331802804~hmac=60644bd7cadf0f59f80476301753a9692b3cd222a4e325d694d5f105773b8b76
+https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780630034354886_CCPL26_Raigarh_Lions_vs_Rajnandgaon_Panthers_4jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Raigarh Lions vs Rajnandgaon Panthers - 6 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/CCPL_Rai0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780783014~acl=/*~id=26636083501979690591387331802804~hmac=60644bd7cadf0f59f80476301753a9692b3cd222a4e325d694d5f105773b8b76
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694539781309_SVNS_World_Championship26_Session1_mens_Match_4jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Session 1 - Men's Match - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780783014~acl=/*~id=26636083501979690591387331802804~hmac=60644bd7cadf0f59f80476301753a9692b3cd222a4e325d694d5f105773b8b76
+https://sonydaimenew.akamaized.net/hls/live/2094588/CCPL_Rai0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694557731309_SVNS_World_Championship26_Session2_womens_Match_4jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Session 1 - Women's Match - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699428231373_LIV_Golf_Andalucia_Day3_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Andalucia - Day 3 - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271752774861_DP_World_Tour_KLM_Open_day3_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",KLM Open - Day 3 - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000379/KLM_Day30606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780790325~acl=/*~id=80403493897562393990591663677697~hmac=dd97b511db73a58b7443396ccd8528245770053becfb889ae1b3231e5f72f1b8
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
@@ -759,6 +763,9 @@ https://fcode.neyini4157.workers.dev/142989_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",HINDI - Gujarat Diamonds Vs Up Brij Stars
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142989_hindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Jb Bruges Vs Akcel United Brussels
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143149_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Chambal Ghariyals Women Vs Bhopal Wolves Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143023_english.m3u8
@@ -768,22 +775,19 @@ https://fcode.neyini4157.workers.dev/143063_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Hungary Gp
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/139949_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Sprint Race
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/139715_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court Philippe Chatrier
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court Phillipe Chatrier
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142731_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",HINDI - Court Philippe Chatrier
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",HINDI - Court Phillipe Chatrier
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142731_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",TAMIL - Court Philippe Chatrier
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",TAMIL - Court Phillipe Chatrier
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142731_tamil.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",TELUGU - Court Philippe Chatrier
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",TELUGU - Court Phillipe Chatrier
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142731_telugu.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",KANNADA - Court Philippe Chatrier
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",KANNADA - Court Phillipe Chatrier
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/142731_kannada.m3u8
 
