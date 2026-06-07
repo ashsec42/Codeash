@@ -732,25 +732,8 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdnts=
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st=1779075393~exp=1779078393~acl=/out/v1/ZEE5_Live_Channels/Zee-News-UttarPradesh-Uttrakhand-SD/master/*~id=66e753e1-e594-4291-8482-be43d3eeb749~data=non-ssai_66e753e1-e594-4291-8482-be43d3eeb749~hmac=48e3bfc96d574d62981cc96a4c934ebdc2b21a960ff3fb340a841e1010289969&req_id=non-ssai_66e753e1-e594-4291-8482-be43d3eeb749
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623998568941_INT_Friendlies26_Greece_vs_Italy_4jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Greece vs Italy - 8 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000376/IF_Greec0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780909570~acl=/*~id=68296236477993644244120901006308~hmac=559c0c82ebd4f6097ab2ec4307bafe57cb228129bba4ca999c186fdbf46edc7f
-
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143343_6020_MOR_NRW_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Morocco Vs Norway
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143343_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Main Feed   Day 4
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143115_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Featured Groups   Day 4
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143117_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - World Feed   Day 4
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143049_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143232_english.m3u8
