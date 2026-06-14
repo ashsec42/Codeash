@@ -830,21 +830,28 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019576/1781286858303853_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Bilaspur Bulls vs Raigarh Lions - Final - 14 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781488643~acl=/*~id=41747257685993209298018921993712~hmac=f04f6afc283f0b328f2531b5ec6da26bab52bea7cdc62d22339e40b19baeebac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071038987762_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day4_6jun_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",International Series Morocco - Day 4 - 14 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781488643~acl=/*~id=41747257685993209298018921993712~hmac=f04f6afc283f0b328f2531b5ec6da26bab52bea7cdc62d22339e40b19baeebac
+https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781497159~acl=/*~id=37232274354108853305295828043283~hmac=6b60877397fa03bc021563a90052fde40011b36bc69c86e09d31c16960e67c62
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Bangladesh Vs Australia
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Antwerp Anchors Vs Ghent Gladiators
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/142967_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Final   Center Court
+https://fcode.neyini4157.workers.dev/143166_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143199_6110_USA_NED_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Usa Vs Netherlands
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143124_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Final   Center Court
+https://fcode.neyini4157.workers.dev/143199_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Featured Groups
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143131_english.m3u8
+https://fcode.neyini4157.workers.dev/143220_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Main Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143217_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Featured Holes
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143219_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Marquee Group
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fcode.neyini4157.workers.dev/143218_english.m3u8
 
 # ------------=== VT OTT | DTV ===---------------
 
