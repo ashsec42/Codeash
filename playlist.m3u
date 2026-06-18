@@ -830,19 +830,16 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdnts=st
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260915712832_ENGvsNZ_2nd_test_day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",2nd Test - Day 2 - 18 Jun 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781830508~acl=/*~id=91721144019954028115800086511459~hmac=71b2e8eff69864179414354985b450bb0703a3a3309aac0e6d8b8724591a8a44
+https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781843252~acl=/*~id=80170964653114513454973926034979~hmac=08badd058bc9ec9b11c1ca60da21814760e71606493142e38ce06771e73c9541
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022395/143091_CASACARDS_SPORTY_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Ujjain Falcons Vs Indore Pink Panthers
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022386/143092_CASACARDS_SPORTY_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Jabalpur Royal Lions Vs Royal Nimar Eagles
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143091_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143185_6109_UPP_VTU_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Uppsala Tigers Vs Vasteras United
+https://fcode.neyini4157.workers.dev/143092_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Malmo Mavericks Vs Stockholm United
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143185_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318029/143314_CASACARDS_SPORTY_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Nigeria Vs Hong Kong, China
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143314_english.m3u8
+https://fcode.neyini4157.workers.dev/143186_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   World Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143259_english.m3u8
@@ -852,9 +849,9 @@ https://fcode.neyini4157.workers.dev/143141_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Court 1
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fcode.neyini4157.workers.dev/143142_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 4   Schauinsland Reisen Court
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143293_6121_PGA_LOC_FC-WEB.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 1
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fcode.neyini4157.workers.dev/143260_english.m3u8
+https://fcode.neyini4157.workers.dev/143293_english.m3u8
 
 # ------------=== VT OTT | DTV ===---------------
 
@@ -12690,6 +12687,10 @@ _________VT 🎬 | Tamil Movies_______
 
 #EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg" ,AAA
 http://tentkotta.short.gy/aaa.mkv
+
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/drishyam-3-et00499250-1778670801.jpg" group-title="VT 🎬| Tamil Movies",Drishyam 3 (𝗜𝗠𝗗𝗕 7.0 2026 ‧ Crime\Drama\Family\Thriller ‧ 2h 37m Director Jeethu Joseph| Writer Jeethu Joseph |Stars Mohanlal ‧ Asha Sharath ‧ Dinesh Prabhakar)
+https://tentkotta.short.gy/AgADQh6383.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/kenatha-kanom-et00490883-1773207635.jpg" group-title="VT 🎬| Tamil Movies",Kenatha Kanom (𝗜𝗠𝗗𝗕 8.1 2026 ‧ Drama ‧ 1h 56m Director Suresh Sangaiah| Writer Suresh Sangaiah| Stars Yogi Babu ‧ Raichal Rabecca ‧ George Maryan)
 https://tentkotta.short.gy/AgAD-h6379.mkv
