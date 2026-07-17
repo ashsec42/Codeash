@@ -459,7 +459,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111825021411_VitalityBlast26_Womens_Hampshire_vs_Durham_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Hampshire Women vs Durham Women - 17 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784338213~acl=/*~id=08098481873212543822565377797051~hmac=61a6c7a1cad0f001315c962d2e79488c9d91ec338f8be2c5ef39a72555898dda
+https://sonydaimenew.akamaized.net/hls/live/20000292/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784344340~acl=/*~id=39097500826079332619272202502125~hmac=2425d7c68f50c3ab0f7280da921415f76a2fccce7d2c7a355d0045eb993f7451
 
 # ------------=== VT OTT | CIO ===---------------
 
@@ -9629,6 +9629,21 @@ _________VT 🎬 | Tamil Movies_______
 
 #EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg" ,AAA
 http://tentkotta.short.gy/aaa.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/engal-thangam-et00503241-1781511008.jpg" group-title="VT 🎬| Tamil Movies",Engal Thangam (𝗜𝗠𝗗𝗕 8.4 2026 ‧ Drama\Action\Family\Thriller ‧ 2h 34m Director B.V. Nandini Reddy| Writers Prahaas Boppudi ‧ Vasanth Maringanti ‧ Raj Nidimoru| Stars Samantha Ruth Prabhu ‧ Gulshan Devaiah ‧ Diganth)
+https://tentkotta.short.gy/AgAEGw6507.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNmI4MWUtMDAzNS00OTAzLWJmNDYtMDBkMGQyZWRiMzVjXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Ek Din (𝗜𝗠𝗗𝗕 5.9 2026 ‧ Drama\Romance ‧ 2h 5m Director Sunil Pandey| Writers Sneha Desai ‧ Spandan Mishra| Stars Sai Pallavi ‧ Junaid Khan ‧ Ojaswi Bhattarai)
+https://tentkotta.short.gy/AgADcB6511.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/peter-et00465077-1759230731.jpg" group-title="VT 🎬| Tamil Movies",Peter (𝗜𝗠𝗗𝗕 7.4 2026 ‧ Drama\Mystery\Romance\Thriller ‧ 2h 21m Director Sukesh Shetty| Writer Sukesh Shetty| Stars Janvi Rayala ‧ Raviksha Shetty ‧ G B Bharath)
+https://tentkotta.short.gy/AgADTx6509.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Sannidhanam P.O. (𝗜𝗠𝗗𝗕 9.0 2026 ‧ Drama\Mystery ‧ 2h 10m Director Amuthasarathy| Writers Amuthasarathy ‧ Ajinu Ayyappan| Stars Yogi Babu ‧ Vinod Sagar ‧ Kalki Raja)
+https://tentkotta.short.gy/AgADZw6505.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTM3MjM2MGItOTRjNi00ZjQwLWFkNTctZDhjYTUyODgxMjkwXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Vowels (𝗜𝗠𝗗𝗕 7.1 2026 ‧ Drama ‧ 2h 37m Directors Hemanth Kumar D ‧ Dhilip Kumar ‧ Sangeeth Nath| Writer Yugi Sethu| Stars Raj Ayappa ‧ Akshita Bopaiah ‧ Bharat Bopanna)
+https://tentkotta.short.gy/AgADHR6503.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI3ZGYyMmUtN2YwNi00YjE3LTljY2MtYmJjNmQ1M2RkYzk0XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Ikka (𝗜𝗠𝗗𝗕 5.9 2026 ‧ Crime\Drama\Thriller ‧ 2h 20m Director Siddharth P Malhotra| Writers Althea Kaushal ‧ Mayank Tewari| Stars Sunny Deol ‧ Akshaye Khanna ‧ Dia Mirza)
 https://tentkotta.short.gy/AgAD-i6476.mkv
