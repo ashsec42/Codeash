@@ -456,6 +456,29 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1784491844~acl=%2f*~id=c23834cb6956d1dc96cbd6a96b4b40b3~data=hdntl~hmac=a9cfb43db3b9ee654da2a95a9a13ab3c126747f3a4064f52170ce79de17e31c3","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Saturday Night's Main Event - 19 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Saturday Night's Main Event - 19 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu1807/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Saturday Night's Main Event - 19 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu1807/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Saturday Night's Main Event - 19 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu1807/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Saturday Night's Main Event - 19 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu1807/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020604/1784108624084321_UFC_Fight_Night_Du_Plessis_vs_Usman_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Du Plessis vs Usman - 19 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/UFC_Du_P1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020604/1784108624084321_UFC_Fight_Night_Du_Plessis_vs_Usman_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Du Plessis vs Usman - 19 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000291/UFC_Du_P1807/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020604/1784108624084321_UFC_Fight_Night_Du_Plessis_vs_Usman_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Du Plessis vs Usman - 19 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000291/UFC_Du_P1807/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020604/1784108624084321_UFC_Fight_Night_Du_Plessis_vs_Usman_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Du Plessis vs Usman - 19 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000291/UFC_Du_P1807/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020604/1784108624084321_UFC_Fight_Night_Du_Plessis_vs_Usman_landscape_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Du Plessis vs Usman - 19 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000291/UFC_Du_P1807/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784461967~acl=/*~id=71794987101150801688517079594861~hmac=655939ecc4f872f2367108e7164ff169f78410be3c6abf03153191ef4e997a5c
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
