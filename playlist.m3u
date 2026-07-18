@@ -456,11 +456,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1784491844~acl=%2f*~id=c23834cb6956d1dc96cbd6a96b4b40b3~data=hdntl~hmac=a9cfb43db3b9ee654da2a95a9a13ab3c126747f3a4064f52170ce79de17e31c3","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020696/1784384900070862_VB26_final_Northamptonshire_vs_Hampshire_18jul_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Northamptonshire vs Hampshire - Final - 18 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784451070~acl=/*~id=66013783190920112569802697012437~hmac=827f0462e86859ca6a13fa9e06bcad080703f32e155bc2816b7f553323bfc2ef
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
