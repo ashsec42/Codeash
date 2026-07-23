@@ -458,8 +458,16 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474079699996_LIV_Golf_UK_Day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UK - Day 1 - 23 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784866803~acl=/*~id=98215254953692566322711801525546~hmac=b9769e0c3bb99fc5308993b3fbe9f17977ba1b97325d29bd2835077394bc875b
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Opening Ceremony - 23 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Opening Ceremony - 23 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Opening Ceremony - 23 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Opening Ceremony - 23 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Opening Ceremony - 23 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43
 
 # ------------=== VT OTT | CIO ===---------------
 
