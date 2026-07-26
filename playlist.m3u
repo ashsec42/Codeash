@@ -456,6 +456,25 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1785097517~acl=%2f*~id=6d610d2069e586687ec7d7e7e437e24b~data=hdntl~hmac=dd0b3093850cc1f321bb5d80c13cb5026a1a6380cf60d8be58f37965b2193bca","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021045/178501740859950_CWG_WEIGHTLIFTING_Rishikanta_Singh_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 60 kg - Weightlifting - 26 Jul 2026  [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre2607/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785100188~acl=/*~id=01918917320919490993254778882580~hmac=7613289d1073ec2fd5fe141088a8f32ebf5a2b1cb4de783f1668429871967063
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021045/178501740859950_CWG_WEIGHTLIFTING_Rishikanta_Singh_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 60 kg - Weightlifting - 26 Jul 2026  [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2607/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785100188~acl=/*~id=01918917320919490993254778882580~hmac=7613289d1073ec2fd5fe141088a8f32ebf5a2b1cb4de783f1668429871967063
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021045/178501740859950_CWG_WEIGHTLIFTING_Rishikanta_Singh_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 60 kg - Weightlifting - 26 Jul 2026  [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2607/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785100188~acl=/*~id=01918917320919490993254778882580~hmac=7613289d1073ec2fd5fe141088a8f32ebf5a2b1cb4de783f1668429871967063
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021045/178501740859950_CWG_WEIGHTLIFTING_Rishikanta_Singh_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 60 kg - Weightlifting - 26 Jul 2026  [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2607/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785100188~acl=/*~id=01918917320919490993254778882580~hmac=7613289d1073ec2fd5fe141088a8f32ebf5a2b1cb4de783f1668429871967063
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021045/178501740859950_CWG_WEIGHTLIFTING_Rishikanta_Singh_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's 60 kg - Weightlifting - 26 Jul 2026  [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2607/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785100188~acl=/*~id=01918917320919490993254778882580~hmac=7613289d1073ec2fd5fe141088a8f32ebf5a2b1cb4de783f1668429871967063
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785052817684_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Wales vs Scotland - Netball - Netball - 26 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785100188~acl=/*~id=01918917320919490993254778882580~hmac=7613289d1073ec2fd5fe141088a8f32ebf5a2b1cb4de783f1668429871967063
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785056225971_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jason Banks vs Ross Owen - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785100188~acl=/*~id=01918917320919490993254778882580~hmac=7613289d1073ec2fd5fe141088a8f32ebf5a2b1cb4de783f1668429871967063
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785051010481_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Singapore vs Isle of Man- Women's Pairs - Bowls and Para Bowls - 26 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785100188~acl=/*~id=01918917320919490993254778882580~hmac=7613289d1073ec2fd5fe141088a8f32ebf5a2b1cb4de783f1668429871967063
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
