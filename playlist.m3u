@@ -456,27 +456,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021455/1785438691566988_CWG_30th_July_FixturesV7_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 7 - India In Action - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021455/1785438691566988_CWG_30th_July_FixturesV7_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 7 - India In Action - 30 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021455/1785438691566988_CWG_30th_July_FixturesV7_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 7 - India In Action - 30 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021455/1785438691566988_CWG_30th_July_FixturesV7_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 7 - India In Action - 30 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021455/1785438691566988_CWG_30th_July_FixturesV7_live_Combo_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 7 - India In Action - 30 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785441610000_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",England vs South Africa - Pool A - Netball - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785440108066_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Scotland vs New Zealand - Women's Pairs - Bowls and Para Bowls - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785439969529_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Women's Discus Throw - Athletics - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785442092055_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Men's Decathlon - Athletics - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785485553~acl=/*~id=89756897293965773082057807675704~hmac=677269c4081ffbded5acd466caf5d3716a7af8d8237e41ad49656e7fd84c14b5
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
