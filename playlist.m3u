@@ -456,6 +456,23 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 9 - 1 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785615561~acl=/*~id=28191891735852526919682323755543~hmac=6fa31033aed424044038585bc04d89e35399239e80ea1883bddc00d7b241ccfb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 9 - 1 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785615561~acl=/*~id=28191891735852526919682323755543~hmac=6fa31033aed424044038585bc04d89e35399239e80ea1883bddc00d7b241ccfb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 9 - 1 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785615561~acl=/*~id=28191891735852526919682323755543~hmac=6fa31033aed424044038585bc04d89e35399239e80ea1883bddc00d7b241ccfb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 9 - 1 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785615561~acl=/*~id=28191891735852526919682323755543~hmac=6fa31033aed424044038585bc04d89e35399239e80ea1883bddc00d7b241ccfb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 9 - 1 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785615561~acl=/*~id=28191891735852526919682323755543~hmac=6fa31033aed424044038585bc04d89e35399239e80ea1883bddc00d7b241ccfb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Wales vs Jersey - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785615561~acl=/*~id=28191891735852526919682323755543~hmac=6fa31033aed424044038585bc04d89e35399239e80ea1883bddc00d7b241ccfb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Malaysia vs Guernsey - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785615561~acl=/*~id=28191891735852526919682323755543~hmac=6fa31033aed424044038585bc04d89e35399239e80ea1883bddc00d7b241ccfb
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
