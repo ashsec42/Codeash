@@ -456,11 +456,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021699/1785655952244561_DURAND_CUP_2026_Langsning-FC-vs-Mumbay-FC_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Langsning FC vs Mumbay FC - 3 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785807071~acl=/*~id=27643430865740720700584462903630~hmac=4be191ed18e4a62d686a732457d10725014c6d62e98600cf36058f60296efb20
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
@@ -9628,8 +9623,6 @@ _________VT 🎬 | Tamil Movies_______
 
 
 #EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg" ,AAA
-https://paid.kps-bots.workers.dev/0:/Gatta%20Kusthi%202%20(2026)%20TRUE%20WEB-DL%20-%204K%20SDR%20-%20HEVC%20-%20%5BTam%20%2B%20Tel%20%2B%20Hin%20%2B%20Mal%20%2B%20Kan%5D%20-%20(DD%2B5.1%20-%20640Kbps%20%26%20AAC)%20-%2016GB%20-%20ESub.mkv
-
 http://tentkotta.short.gy/aaa.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/engal-thangam-et00503241-1781511008.jpg" group-title="VT 🎬| Tamil Movies",Engal Thangam (𝗜𝗠𝗗𝗕 8.4 2026 ‧ Drama\Action\Family\Thriller ‧ 2h 34m Director B.V. Nandini Reddy| Writers Prahaas Boppudi ‧ Vasanth Maringanti ‧ Raj Nidimoru| Stars Samantha Ruth Prabhu ‧ Gulshan Devaiah ‧ Diganth)
