@@ -456,6 +456,11 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707368420385_DC26_Bodoland_FC_vs_FC1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Bodoland FC vs FC 1 - 6 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/football0608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786058223~acl=/*~id=87419181960345409664949329139208~hmac=cf7106250db7f988cd59ea5ff54f0d9b600bfb2b5f7cd9c6eb9e7e8f9d9fc754
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
