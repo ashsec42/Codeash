@@ -456,6 +456,11 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708004800385_DC26_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",North East United FC vs Karbi Anglong Morning Star FC - 8 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000299/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786239610~acl=/*~id=14493412974436678610616713064892~hmac=959a20cea2a738e9b98fd930e3775a99c75e1cc37775bc9ac09fddec33295264
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
