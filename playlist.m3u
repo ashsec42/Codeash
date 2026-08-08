@@ -459,7 +459,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786218353~acl=/*~id=44418234664573432501745306999601~hmac=4db29dc5721ac910d6d8514ccfe6d3dca9fa581e8a5023d538c9a08fb16b72ee
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786221387~acl=/*~id=31720108322297769228208938217563~hmac=a6809bab4810315b106947f4c1dade2a800aff5dddc78bbf2ca389292b26dd64
 
 # ------------=== VT OTT | CIO ===---------------
 
@@ -9629,6 +9629,63 @@ _________VT 🎬 | Tamil Movies_______
 
 #EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg" ,AAA
 http://tentkotta.short.gy/aaa.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiY2FmZmUtOTI3My00NjU1LTk1NWQtN2IyZGYwNzFlM2JkXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",MRP (𝗜𝗠𝗗𝗕 7.3 2022 ‧ Drama ‧ 1h 52m Director Bahubali| Writer Bahubali| Stars Sudha Belawadi ‧ Vijay Chendur ‧ Hari H)
+https://tentkotta.short.gy/AgADzi6616.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzViYjkyYTItOGU4Zi00MDVjLWFmZDAtNmEyZTQ4YmJmOGFkXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Nooru Saami (𝗜𝗠𝗗𝗕 7.6 2026 ‧ Drama\Family ‧ 2h 9m Director Sasi| Writer Sasi| Stars Kavya Anil ‧ Vijay Antony ‧ Aruldoss)
+https://tentkotta.short.gy/AgADuS6614.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI1Njg0M2MtZDk4ZS00NzgzLTlhZmEtYTYwM2VkMTkxOTIxXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Idhayam Murali (𝗜𝗠𝗗𝗕 8.4 2026 ‧ Coming-of-Age\Comedy\Drama\Romance ‧ 2h 30m Director Aakash Baskaran| Writers Aakash Baskaran ‧ Ramanagirivasan ‧ Dravid Selvam| Stars Atharvaa Murali ‧ Preity Mukhundhan ‧ Fahadh Faasil)
+https://tentkotta.short.gy/AgADPS6612.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjAzYzA3NmUtNTk0My00ZDBiLWIwYzAtZDEyN2M1ZTUwODExXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Oh..! Sukumari (𝗜𝗠𝗗𝗕 4.5 2026 ‧ Comedy\Romance ‧ 2h 25m Director Bharat Dharshan| Writers Bharat Dharshan ‧ Avinash Manchikanti| Stars Thiruveer ‧ Aishwarya Rajesh ‧ Srinivas Gavireddy)
+https://tentkotta.short.gy/AgADYS6610.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlZWUwMTktZDQ3NC00YWFhLWE5MDEtM2VkOWFlOWZkMzQwXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Dark Giant (𝗜𝗠𝗗𝗕 6.8 2026 ‧ Horror\Thriller ‧ 2h 16m Director KS Kishaan| Stars Sonia Agarwal ‧ Amudhavaanan ‧ Rafiq Batcha)
+https://tentkotta.short.gy/AgADZy6608.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkwOTdiZDQtMTVkNS00YmM4LWJjMmEtZjgxMDljNGYwZDhjXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Nizhal (𝗜𝗠𝗗𝗕 9.0 2026 ‧ Crime\Drama\Thriller ‧ 1h 41m Director AK Kumar| Stars Janany Kunaseelan ‧ Vishakan ‧ Divya Krishnan)
+https://tentkotta.short.gy/AgAD3C6606.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM3YzkxNDctMjQwNy00Zjg1LTg4Y2YtMzU1ZTk0NTM0M2E0XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Lenin (𝗜𝗠𝗗𝗕 6.7 2026 ‧ One-Person Army Action\Action\Drama\Romance\Thriller ‧ 2h 39m Director Murali Kishor Abburu| Writers Murali Kishor Abburu ‧ Elena Yatsura| Stars Akhil Akkineni ‧ Bhagyashri Borse ‧ Pramod Panju)
+https://tentkotta.short.gy/AgAD8C6604.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFjMTBiZDktZTc0My00MDRhLWI1YWQtNTE3Y2Y4OGQzYTdhXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Uyir (𝗜𝗠𝗗𝗕 6.5 2026 ‧ Police Procedural\Crime\Mystery\Thriller ‧ 2h 25m Director M. Padmakumar| Writers Shaji Maarad ‧ Nikhil K. Menon| Stars Saiyami Kher ‧ Roshan Mathew ‧ Divya M. Nair)
+https://tentkotta.short.gy/AgAD7R6602.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNmNzdmMzMtOTlkOS00N2VhLWE5YTEtODYwNDc3MWNhYmUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Deewana (𝗜𝗠𝗗𝗕 8.5 2026 ‧ Comedy\Drama\Romance ‧ 2h 30m Director Sreekanth Sangishetty| Writer Sreekanth Sangishetty| Stars Harshith Reddy ‧ Nalla Sreedhar Reddy Gabbar ‧ Raghu Kumar Karumanchi)
+https://tentkotta.short.gy/AgADzR6600.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYxMGRlZTEtM2QwNi00MjM5LTlmYmItYzVkYTcwNTVmYmViXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Love Oh Love (𝗜𝗠𝗗𝗕 7.1 2026 ‧ Romantic Comedy\Comedy\Romance ‧ 2h 30m Director Magesh Rajendran| Writer Magesh Rajendran| Stars Naga Durga ‧ Adithya Kathir ‧ Pavish Narayan)
+https://tentkotta.short.gy/AgADux6598.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk4YTcyZjMtZDE0Ni00ZGNmLThhNGEtNzFmMzdjOWRhMzFmXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Balan: The Boy (𝗜𝗠𝗗𝗕 8.1 2026 ‧ Drama\Mystery\Thriller ‧ 2h 30m Director Chidambaram| Writers Chidambaram ‧ Jithu Madhavan| Stars Adhisheshan K R ‧ Muhammed Zinaan ‧ Farzana Palathingal)
+https://tentkotta.short.gy/AgAD7w6596.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU4OTVmNmQtYmIwOC00NDBiLWIxMGEtYTNiNGExMTI2OGNkXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Gatta Kusthi 2 (𝗜𝗠𝗗𝗕 7.0 2026 ‧ Coming-of-Age\Quirky Comedy\Comedy\Drama\Romance\Sports ‧ 2h 34m Director Chella Ayyavu| Writer Chella Ayyavu| Stars Vishnu Vishal ‧ Aishwarya Lekshmi ‧ Zara Zyanna)
+https://tentkotta.short.gy/AgADZB6594.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWYzOThhZDUtMzUwYy00NTE4LWE1ZTUtZmY2NDE5ZTAzZTMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Chinna Chinna Aasai (𝗜𝗠𝗗𝗕 6.7 2026 ‧ Drama\Romance ‧ 2h 16m Director Varsha Vasudev| Writer Varsha Vasudev| Stars Vishnu Agasthya ‧ Aparna Balamurali ‧ Indrans)
+https://tentkotta.short.gy/AgADih6592.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://cdn.district.in/movies-assets/images/cinema/Mellisai-poster-c6ade3e0-fb47-11f0-854d-49a2770dd2e5.jpg" group-title="VT 🎬| Tamil Movies",Mellisai (𝗜𝗠𝗗𝗕 7.5 2026 ‧ Drama ‧ 2h 6m Director Dhirav| Writer Dhirav| Stars Harish Uthaman ‧ Kishore Kumar G. ‧ George Maryan)
+https://tentkotta.short.gy/AgADPC6590.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFlOTUzMjktYzRhZi00OTI4LWI0NjctM2Q0ZmI4NWQxMzlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Con City (𝗜𝗠𝗗𝗕 6.8 2026 ‧ Comedy\Crime\Drama\Family ‧ 2h 30m Director Harish Durairaj| Writers Harish Durairaj ‧ Sudhir Muthu ‧ Gokul Sukumaran| Stars Arjun Das ‧ Anna Ben ‧ Sakshi Vaidya)
+https://tentkotta.short.gy/AgADdS6588.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWIwODhkODYtYmEzYi00NWQ3LWE4MWUtOTYxZTI5OTI0ZWMxXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Nagabandham - The Secret Treasure (𝗜𝗠𝗗𝗕 6.9 2026 ‧ Costume Drama\Epic\Period Drama\Action\Adventure\Drama\Fantasy ‧ 3h 5m Directors Abhishek Nama ‧ Shravan Kumar Tadka| Writers Abhishek Nama ‧ Shravan Kumar Tadka| Stars Virat Karrna ‧ Nabha Natesh ‧ Iswarya Menon)
+https://tentkotta.short.gy/AgADPy6586.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Jana Nayagan (𝗜𝗠𝗗𝗕 5.6 2026 ‧ One-Person Army Action\Political Thriller\Action\Drama\Thriller ‧ 3h 3m Director H. Vinoth| Writer H. Vinoth| Stars Joseph Vijay ‧ Pooja Hegde ‧ Bobby Deol)
+https://tentkotta.short.gy/AgADmR6584.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI5NGNjMjctYjgxMS00ZTg2LWEyNWQtZTNiYmQ4OGJhYjk0XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Euphoria (𝗜𝗠𝗗𝗕 7.4 2026 ‧ Drama ‧ 2h 30m Director Gunasekhar| Writers Gunasekhar ‧ Krushna Hari ‧ Nagendra Kasi| Stars Saandip ‧ Mohammad Anas ‧ Rajasekhar Aningi)
+https://tentkotta.short.gy/AgADfB6580.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM3YWEzOTktYzM3Yy00YzFkLTg0OGItMGY1OGYwMzUzY2RkXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Pallichattambi (𝗜𝗠𝗗𝗕 6.0 2026 ‧ Action\Crime\Drama\Thriller ‧ 2h 30m Director Dijo Jose Antony| Writer S. Suresh Babu| Stars Tovino Thomas ‧ Prithviraj Sukumaran ‧ Kayadu Lohar)
+https://tentkotta.short.gy/AgAD5h6582.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/engal-thangam-et00503241-1781511008.jpg" group-title="VT 🎬| Tamil Movies",Engal Thangam (𝗜𝗠𝗗𝗕 8.4 2026 ‧ Drama\Action\Family\Thriller ‧ 2h 34m Director B.V. Nandini Reddy| Writers Prahaas Boppudi ‧ Vasanth Maringanti ‧ Raj Nidimoru| Stars Samantha Ruth Prabhu ‧ Gulshan Devaiah ‧ Diganth)
 https://tentkotta.short.gy/AgAEGw6507.mkv
