@@ -456,6 +456,11 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600776325047_Vitality_Mixed_Disability_3rd_T20i_England_vs_India_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",England vs India - 3rd T20I - 9 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786326457~acl=/*~id=01170126400986400222644877241951~hmac=257a1ac2b24c649c67506751d914dc1a263d8ac7715fa0c358e19731b61ef3a0
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
