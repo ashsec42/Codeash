@@ -456,6 +456,19 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1785271706~acl=%2f*~id=17ba05f4ffe99173981b573031e5ee7f~data=hdntl~hmac=654871587e5f2ade66ab255bb46b395ee1307b976d0bfd11c6813519b8eb4025","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786282714~acl=/*~id=20900789632904876370191885036302~hmac=49fee772e8e53280c6a45d641aeddf1f31a33d2d11e5fd278d88913b97c955a0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786282714~acl=/*~id=20900789632904876370191885036302~hmac=49fee772e8e53280c6a45d641aeddf1f31a33d2d11e5fd278d88913b97c955a0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786282714~acl=/*~id=20900789632904876370191885036302~hmac=49fee772e8e53280c6a45d641aeddf1f31a33d2d11e5fd278d88913b97c955a0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786282714~acl=/*~id=20900789632904876370191885036302~hmac=49fee772e8e53280c6a45d641aeddf1f31a33d2d11e5fd278d88913b97c955a0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786282714~acl=/*~id=20900789632904876370191885036302~hmac=49fee772e8e53280c6a45d641aeddf1f31a33d2d11e5fd278d88913b97c955a0
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
