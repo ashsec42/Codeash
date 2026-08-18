@@ -456,6 +456,19 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1786976840~acl=%2f*~id=1a6065b82a7e3c5bfcf28e1f4d2e78e5~data=hdntl~hmac=46329c35e2dc31caa447a296309a33bcba803df912ff2368eb00d7b6efb2a0d7","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/65/17/f93915dba0935bf38e816a66674c9d2e_1787045421820_l_medium.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 4 - 1st Test - 18 Aug 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787092037~acl=/*~id=01403189342209322814826375574734~hmac=30e851ddb200b34becb7dc51900c5e95cbfd0dfb130a68aadee8fddab58b0478
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/2/73/355e6f0ed1d85a0ba49b36a60d5b18be_1787045421837_l_medium.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 4 - 1st Test - 18 Aug 2026 [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787092037~acl=/*~id=01403189342209322814826375574734~hmac=30e851ddb200b34becb7dc51900c5e95cbfd0dfb130a68aadee8fddab58b0478
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/75/16/2b3b5f2d708853b393ae29f8ca2acc55_1787045421771_l_medium.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 4 - 1st Test - 18 Aug 2026 [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787092037~acl=/*~id=01403189342209322814826375574734~hmac=30e851ddb200b34becb7dc51900c5e95cbfd0dfb130a68aadee8fddab58b0478
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/67/13/55e85d2871b45e319621d7ce3c19c10e_1787045421754_l_medium.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 4 - 1st Test - 18 Aug 2026 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787092037~acl=/*~id=01403189342209322814826375574734~hmac=30e851ddb200b34becb7dc51900c5e95cbfd0dfb130a68aadee8fddab58b0478
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/37/60/7dd327ddf57e5e8684ad6e1d849c2220_1787045421721_l_medium.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 4 - 1st Test - 18 Aug 2026 [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787092037~acl=/*~id=01403189342209322814826375574734~hmac=30e851ddb200b34becb7dc51900c5e95cbfd0dfb130a68aadee8fddab58b0478
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
