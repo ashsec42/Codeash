@@ -456,6 +456,11 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1787389047~acl=%2f*~id=c9ebdf84950207b60869ad4b8f310dda~data=hdntl~hmac=64ac937d008863e51f7838bfe10a31510ad48d77d13b6fe4dfb9bd7cc27a2859","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714233084718_eng_vs_pak_live_1Test_day3_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Day 3 - 1st Test - 21 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787350961~acl=/*~id=35691410494685588874048525072551~hmac=823dd9d3dd42813afcedac327feb34e542db6cb6c45041445a7d19ce53bb97db
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
