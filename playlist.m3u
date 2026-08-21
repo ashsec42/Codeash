@@ -456,11 +456,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1787389047~acl=%2f*~id=c9ebdf84950207b60869ad4b8f310dda~data=hdntl~hmac=64ac937d008863e51f7838bfe10a31510ad48d77d13b6fe4dfb9bd7cc27a2859","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702513096697_LIV_Golf_Indianapolis_day2_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Indianapolis - Day 2 - 21 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787386863~acl=/*~id=10172824066646011258804656444325~hmac=253db655ff5a030d49210fc140a96f1e9e92dc7b00176967fb8c360b0ac62159
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
