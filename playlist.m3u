@@ -456,19 +456,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTHTTP:{"Cookie":"hdntl=exp=1787531404~acl=%2f*~id=401379882e42c8586eb4cea7509b4ce8~data=hdntl~hmac=9b10ec25c1594690d9d6e697a274b735409b610acf790b4978b0ae283994c0a9","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",2nd Test - Day 1 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787513150~acl=/*~id=52262736239728911088727758390346~hmac=ae12be045390998e0a49748189d9356601c50a6f2580e56298d537beb746ca07
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",2nd Test - Day 1 - 23 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787513150~acl=/*~id=52262736239728911088727758390346~hmac=ae12be045390998e0a49748189d9356601c50a6f2580e56298d537beb746ca07
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",2nd Test - Day 1 - 23 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787513150~acl=/*~id=52262736239728911088727758390346~hmac=ae12be045390998e0a49748189d9356601c50a6f2580e56298d537beb746ca07
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",2nd Test - Day 1 - 23 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787513150~acl=/*~id=52262736239728911088727758390346~hmac=ae12be045390998e0a49748189d9356601c50a6f2580e56298d537beb746ca07
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",2nd Test - Day 1 - 23 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787513150~acl=/*~id=52262736239728911088727758390346~hmac=ae12be045390998e0a49748189d9356601c50a6f2580e56298d537beb746ca07
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
