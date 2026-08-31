@@ -460,6 +460,15 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 
 #EXTM3U
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788206826~acl=/*~id=13048457002098876118303505159673~hmac=3bcc50a78eef33b593961fdd1306e9aaa252ecf0eb90608f657ecb52e90f9785
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788206826~acl=/*~id=13048457002098876118303505159673~hmac=3bcc50a78eef33b593961fdd1306e9aaa252ecf0eb90608f657ecb52e90f9785
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817348238770_JPL_26_Indore-Hawks-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Indore Hawks vs Pune Peshwas - 31 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788206826~acl=/*~id=13048457002098876118303505159673~hmac=3bcc50a78eef33b593961fdd1306e9aaa252ecf0eb90608f657ecb52e90f9785
+
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
