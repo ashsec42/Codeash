@@ -800,13 +800,13 @@ https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792835046~acl=/*~id=11564014897681091313403330625592~hmac=4e9c01f59ed19d16cfbf6fb5503645f2ff83d09ad59939695a4373a25cc57a35
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792844132~acl=/*~id=76345681546145172892574794947855~hmac=5be0fa76f847873126ac4a1f0e7af9230b7b04d5c3b75985a8b6167c659bbac7
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 5 - World Feed
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Victoria vs Tasmania
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249618_english_hls_bd306a0e4442012_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792871741~_GO=Generated~acl=/mumbai/4249618_english_hls_bd306a0e4442012_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_55ef39e1-aa5c-4a~Signature=ASgJGVD6PRf5XlLw9pghLVtybYq8qHzUS9zPPtvoO6VJbWP2usliMlgn-xL9HvDY6vx5VSYQcUkZ6p5jiu_mTMQVugsC
+https://in-mc-flive.fancode.com/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792883981~_GO=Generated~acl=/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce656463-67d4-43~Signature=ASgJGVB-EBFjWK52d9-_V3iMM6V9qCJSbLvqfXMFqkncayydc7BaSYxl1O3JtbqrVgSIoQyeYgS5WBRvx16AHTRwuhoP
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 2
 #EXTHTTP:{"Origin":"","Referer":""}
 https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A
