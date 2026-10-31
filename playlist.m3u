@@ -797,55 +797,23 @@ https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Chennaiyin FC vs Kerala Blasters FC
-https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793495541~acl=/*~id=97232956345613984153727984219883~hmac=5fca750cbe0ba831b2f8b78afe5b27add21f773e10b5dc197873861c9a827e32
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[HIN] - Chennaiyin FC vs Kerala Blasters FC
-https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793495541~acl=/*~id=97232956345613984153727984219883~hmac=5fca750cbe0ba831b2f8b78afe5b27add21f773e10b5dc197873861c9a827e32
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[TAM] - Chennaiyin FC vs Kerala Blasters FC
-https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793495541~acl=/*~id=97232956345613984153727984219883~hmac=5fca750cbe0ba831b2f8b78afe5b27add21f773e10b5dc197873861c9a827e32
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[MAL] - Chennaiyin FC vs Kerala Blasters FC
-https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793495541~acl=/*~id=97232956345613984153727984219883~hmac=5fca750cbe0ba831b2f8b78afe5b27add21f773e10b5dc197873861c9a827e32
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Mohun Bagan Super Giant vs Punjab FC
-https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793495541~acl=/*~id=97232956345613984153727984219883~hmac=5fca750cbe0ba831b2f8b78afe5b27add21f773e10b5dc197873861c9a827e32
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[HIN] - Mohun Bagan Super Giant vs Punjab FC
-https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793495541~acl=/*~id=97232956345613984153727984219883~hmac=5fca750cbe0ba831b2f8b78afe5b27add21f773e10b5dc197873861c9a827e32
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[BEN] - Mohun Bagan Super Giant vs Punjab FC
-https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793495541~acl=/*~id=97232956345613984153727984219883~hmac=5fca750cbe0ba831b2f8b78afe5b27add21f773e10b5dc197873861c9a827e32
-
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - South Africa vs Australia
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250497_53130_SHA_EMB_fc-web_1792412929424.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Emirates Blues vs Sharjah
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780024185_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793520329~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780024185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_918_watcho_2f1887b7-1190-4a~Signature=ATFKiJs6XDIBjO5fuuWD1AO9YHJEhHa7kXImpojJctpw65F19j2K42Ga12AhoQ4e1Rp8_NPTrv5HVoFXLzWsvNqlWkkI
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Netherlands vs United Arab Emirates
+https://in-mc-flive.fancode.com/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793549784~_GO=Generated~acl=/mumbai/4250497_english_hls_e6fbae0e6b86243_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e13_watcho_0b337acd-1504-4e~Signature=ATFKiJvPiZPn_wptArsHtIpHuZe-gpliECnXsXceyj8Lhqup-Xn13GQppCHNOORuigra3ygTJG8rQjZgQKGiB7pqm30M
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250273_53025_AHS_AFF_FC-Web.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Al Hilal SFC vs Al-Fateh SC
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793510619~_GO=Generated~acl=/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5e_watcho_81626f09-3ec1-47~Signature=ATFKiJsTh2IC2SilV8YAk0T8FL-NqDv4zgB087jyrUPrlAJv6jHYDh548PtBG28EOITY4QfKweeOrK4NrUE_dSv0ZNEM
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Kenya vs Papua New Guinea
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793514861~_GO=Generated~acl=/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9e8_watcho_289aa8e1-8da2-40~Signature=ATFKiJuv9bQgcep1hFkuyUfMHlek4_oeTEhy7f1o19nh08ngZ_RbCWi7W6guhTf-9p0rZAJsgZJGZqWEdJ6_MmvcFC4P
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Jersey vs Qatar
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793514878~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_16e_watcho_12a52a96-64fa-4e~Signature=ATFKiJsUBZyz5I9hc37SCD2jv7D7rjKvPdIcSQ3Is-3JEqZMrEm77TW2yJVM6Ezw35KajGZWw50bnnayOLOQh74h1SsG
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250362_53124_SPR_BK_fc-Web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Sudurpaschim Royals vs Biratnagar Kings
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250362_english_hls_2279bcd8f161004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793531338~_GO=Generated~acl=/mumbai/4250362_english_hls_2279bcd8f161004_1ta-di_h264/*~SessionID=fc-app_sportsguruand_447_watcho_8a9f187b-e273-47~Signature=ATFKiJvdNBFwhqst6ZSKonNZTQuVufOA_wg2FMfFnKgLCqawUNPi1vNc2NTYCxM7Z3kK5nYmvr5YhsEDFReTeIUhZ0IL
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250496_53130_ABD_DUB_fc-web_1792412929356.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Abu Dhabi vs Dubai
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793535620~_GO=Generated~acl=/mumbai/4250496_english_hls_1c63fa10bc20382_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e4_watcho_a4302756-64a5-47~Signature=ATFKiJuvgBXdFi4iMktCUNxYugMhKtWs8bZ0DYQzXLgeL_87H1dEX672XEOh4oPdDvqlf9LuoMl_Bv7yvGi7SSwtNoAG
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249601_52993_STK_PST_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Stoke City F.C. vs Preston North End F.C.
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249601_english_hls_b13b0e568e17651_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793535625~_GO=Generated~acl=/mumbai/4249601_english_hls_b13b0e568e17651_1ta-di_h264/*~SessionID=fc-app_sportsguruand_404_watcho_5b7622f4-d1e7-4f~Signature=ATFKiJuqHYuypiKHhmf378EWs_U8QSUD35lvrkKRyStZ8sFDy1D7nlyOHQBWquz3jyRjpioEj_fA2HUdaxMHNV5Qv08B
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Everton Women vs Manchester United Women
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249207_english_hls_07fe52cc7848011_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793536235~_GO=Generated~acl=/mumbai/4249207_english_hls_07fe52cc7848011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_8c7_watcho_fc840075-e28e-41~Signature=ATFKiJsKFOoTjN_nmIU-QOhyy3oWAGPONqWAi5tHLrFBBw_xTDSiJqYsOgcB_nLWz8GWRbPD2Q8ovxCR5YVYT3ACw8cB
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Glaubandich Court
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P
+https://in-mc-flive.fancode.com/mumbai/4250273_english_hls_080636bc3c54694_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793555313~_GO=Generated~acl=/mumbai/4250273_english_hls_080636bc3c54694_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1db_watcho_8d1bb96c-4a9b-41~Signature=ATFKiJvr9tzUayZRKKroVhGaLJamfxKx18_RhrW92zaMywNkpa7mvpfI6D2R2YuBMWYu_8kf6VQicgmsdjZF4UupxQAK
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Semi-Finals
 #EXTHTTP:{"Origin":"","Referer":""}
 https://in-mc-flive.fancode.com/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793537478~_GO=Generated~acl=/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/*~SessionID=fc-app_sportsguruand_372_watcho_de46c727-146b-49~Signature=ATFKiJuY5pUJl-7rfzVhmIdLv1yB6AaUx5bTpNJfNaaICPrekqPOdtUX3on0dARMrDQJT0pJEQ_ez-NzCQ_Tb8HioNsD
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alex-de-Minaur-web-match-card.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - A. Zverev vs A. de Minaur
+#EXTHTTP:{"Origin":"","Referer":""}
+https://in-mc-flive.fancode.com/mumbai/4249640_english_hls_4f90393d7175429_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793541162~_GO=Generated~acl=/mumbai/4249640_english_hls_4f90393d7175429_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a94_watcho_fc10f517-9ef5-43~Signature=ATFKiJvnMCVcZBbdbxfss0ZnQA3EE5UB_RlNdL9l_QQVTAKvCpG4QmXR8w8gW1wQJ8IB6N3-vejTNpEPChW_LFjk620L
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - World Feed
+#EXTHTTP:{"Origin":"","Referer":""}
+https://in-mc-flive.fancode.com/mumbai/4249647_english_hls_82c688241f54573_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793541163~_GO=Generated~acl=/mumbai/4249647_english_hls_82c688241f54573_1ta-di_h264/*~SessionID=fc-app_sportsguruand_055_watcho_bcfb8e2a-9aa1-4a~Signature=ATFKiJv9J_1ip0eUPpMB_ovV8ah35sZdLa0m7Y2FBNA7HMKcrLdsqPS9jcl7QH1b7KC8wETJXiZWVs5xOgQVC1ucNqoG
 
 # ------------=== VT OTT | CIO ===---------------
 
@@ -872,8 +840,8 @@ https://onekey.virey40690.workers.dev/mpd/627
 
 #EXTINF:-1 tvg-id="1126" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1126
-https://onekey.virey40690.workers.dev/mpd/1126
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/1126
+https://onekey.virey40690.workers.dev/S2/mpd/1126
 
 new--|
 #EXTINF:-1 tvg-id="317" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
@@ -883,13 +851,13 @@ https://onekey.virey40690.workers.dev/mpd/317
 
 #EXTINF:-1 tvg-id="457" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/457
-https://onekey.virey40690.workers.dev/mpd/457
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/457
+https://onekey.virey40690.workers.dev/S2/mpd/457
 
 #EXTINF:-1 tvg-id="464" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",Zee 24 Ghanta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/464
-https://onekey.virey40690.workers.dev/mpd/464
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/464
+https://onekey.virey40690.workers.dev/S2/mpd/464
 
 #EXTINF:-1 tvg-id="573" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Bengali
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -898,8 +866,8 @@ https://onekey.virey40690.workers.dev/mpd/573
 
 #EXTINF:-1 tvg-id="625" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBangla.png",Zee Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/625
-https://onekey.virey40690.workers.dev/mpd/625
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/625
+https://onekey.virey40690.workers.dev/S2/mpd/625
 
 #EXTINF:-1 tvg-id="672" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",ABP Ananda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -958,8 +926,8 @@ https://onekey.virey40690.workers.dev/mpd/1260
 
 #EXTINF:-1 tvg-id="1261" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png",Calcutta News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1261
-https://onekey.virey40690.workers.dev/mpd/1261
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/1261
+https://onekey.virey40690.workers.dev/S2/mpd/1261
 
 #EXTINF:-1 tvg-id="1264" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png",Kolkata TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1013,8 +981,8 @@ https://onekey.virey40690.workers.dev/mpd/1669
 
 #EXTINF:-1 tvg-id="1725" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/24hourstv.png",24Hrs TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1725
-https://onekey.virey40690.workers.dev/mpd/1725
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/1725
+https://onekey.virey40690.workers.dev/S2/mpd/1725
 
 #EXTINF:-1 tvg-id="1735" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png",TV9 Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1028,8 +996,8 @@ https://onekey.virey40690.workers.dev/mpd/1891
 
 #EXTINF:-1 tvg-id="1977" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png",Zee Bangla HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1977
-https://onekey.virey40690.workers.dev/mpd/1977
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/1977
+https://onekey.virey40690.workers.dev/S2/mpd/1977
 
 #EXTINF:-1 tvg-id="2027" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/raatdinbangla.png",Raatdin Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1043,8 +1011,8 @@ https://onekey.virey40690.workers.dev/mpd/2184
 
 #EXTINF:-1 tvg-id="2188" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Globe_TV.png",Globe TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/2188
-https://onekey.virey40690.workers.dev/mpd/2188
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/2188
+https://onekey.virey40690.workers.dev/S2/mpd/2188
 
 #EXTINF:-1 tvg-id="2228" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Kolkata.png",Samay Kolkata
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1053,8 +1021,8 @@ https://onekey.virey40690.workers.dev/mpd/2228
 
 #EXTINF:-1 tvg-id="2354" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Friends_TV.png",Friends TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/2354
-https://onekey.virey40690.workers.dev/mpd/2354
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/2354
+https://onekey.virey40690.workers.dev/S2/mpd/2354
 
 #EXTINF:-1 tvg-id="2780" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/R_Bangla.png",R Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1063,8 +1031,8 @@ https://onekey.virey40690.workers.dev/mpd/2780
 
 #EXTINF:-1 tvg-id="2914" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BHI.png",BHI Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/2914
-https://onekey.virey40690.workers.dev/mpd/2914
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/2914
+https://onekey.virey40690.workers.dev/S2/mpd/2914
 
 #EXTINF:-1 tvg-id="2933" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NKTV_Bangla.png",NK TV Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1088,8 +1056,8 @@ https://onekey.virey40690.workers.dev/mpd/3008
 
 #EXTINF:-1 tvg-id="3019" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bangla_Jago.png",Bangla Jago
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/3019
-https://onekey.virey40690.workers.dev/mpd/3019
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/3019
+https://onekey.virey40690.workers.dev/S2/mpd/3019
 
 #EXTINF:-1 tvg-id="3424" group-title="JIO ⭕|Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYBen.png",SONY YAY Bengali
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1101,8 +1069,8 @@ https://onekey.virey40690.workers.dev/mpd/3424
 #
 #EXTINF:-1 tvg-id="1745" group-title="JIO ⭕|Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",Zee Bioskope SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1745
-https://onekey.virey40690.workers.dev/mpd/1745
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/1745
+https://onekey.virey40690.workers.dev/S2/mpd/1745
 
 new--|
 #EXTINF:-1 tvg-id="661" group-title="JIO ⭕|Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png",Zee Bihar Jharkhand
@@ -1132,8 +1100,8 @@ https://onekey.virey40690.workers.dev/mpd/1296
 
 #EXTINF:-1 tvg-id="1745" group-title="JIO ⭕|Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBiskope.png",Zee Biskope
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1745
-https://onekey.virey40690.workers.dev/mpd/1745
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/1745
+https://onekey.virey40690.workers.dev/S2/mpd/1745
 
 #EXTINF:-1 tvg-id="1798" group-title="JIO ⭕|Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png",Pasand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5417,8 +5385,8 @@ https://onekey.virey40690.workers.dev/mpd/3530
 
 #EXTINF:-1 tvg-id="3622" group-title="JIO ⭕|Tamil" tvg-logo="https://img.media.jio.com/tvpimages/69/33/304281_1792404598072_l_medium.jpg",Sony Vizha HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/3622
-https://onekey.virey40690.workers.dev/mpd/3622
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/3622
+https://onekey.virey40690.workers.dev/S2/mpd/3622
 
 #EXTINF:-1 tvg-id="1081" group-title="JIO ⭕|Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png",CN HD+ Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5432,8 +5400,8 @@ https://onekey.virey40690.workers.dev/mpd/3393
 
 #EXTINF:-1 tvg-id="1130" group-title="JIO ⭕|Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",Star Vijay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1130
-https://onekey.virey40690.workers.dev/mpd/1130
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/1130
+https://onekey.virey40690.workers.dev/S2/mpd/1130
 
 new--|
 #EXTINF:-1 tvg-id="290" group-title="JIO ⭕|Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png",sonic Tamil
@@ -5513,8 +5481,8 @@ https://onekey.virey40690.workers.dev/mpd/615
 
 #EXTINF:-1 tvg-id="628" group-title="JIO ⭕|Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTamil.png",Zee Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/628
-https://onekey.virey40690.workers.dev/mpd/628
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/S2/key/628
+https://onekey.virey40690.workers.dev/S2/mpd/628
 
 #EXTINF:-1 tvg-id="636" group-title="JIO ⭕|Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
