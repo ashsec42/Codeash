@@ -799,33 +799,43 @@ https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - 5th T20I
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793565925~acl=/*~id=19919430598777689136586353948374~hmac=e98db4787fb04f8cf18c5ab983710d35abc2c407bc007fbea6f9e7bbd6147333
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[TEL] - 5th T20I
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793565925~acl=/*~id=19919430598777689136586353948374~hmac=e98db4787fb04f8cf18c5ab983710d35abc2c407bc007fbea6f9e7bbd6147333
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[KAN] - 5th T20I
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793565925~acl=/*~id=19919430598777689136586353948374~hmac=e98db4787fb04f8cf18c5ab983710d35abc2c407bc007fbea6f9e7bbd6147333
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Inter Kashi vs FC Goa
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793590926~acl=/*~id=75272261580995078100125310759162~hmac=5309b3dacbbed6bf515e139e2890ac27a8b59055ab9aaede36e2ef06c7e487c1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[HIN] - Inter Kashi vs FC Goa
+https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793590926~acl=/*~id=75272261580995078100125310759162~hmac=5309b3dacbbed6bf515e139e2890ac27a8b59055ab9aaede36e2ef06c7e487c1
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-AFG_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Australia vs Afghanistan
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Abu Dhabi vs Sharjah
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Ireland vs Namibia
+https://in-mc-flive.fancode.com/mumbai/4250498_english_hls_b5e2ad79b155192_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793622276~_GO=Generated~acl=/mumbai/4250498_english_hls_b5e2ad79b155192_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f25_watcho_db921d9d-7870-40~Signature=ATFKiJsRhUgcw0QJ_P2rvXCz2yi8Z405KtWG13kTu78y7NUFgExTq5Uwcxat6akZuBvhW18RfpQwNhBqvcjQ94p6_egP
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Zimbabwe vs Afghanistan
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Sydney Sixers Women vs Hobart Hurricanes Women
+https://in-mc-flive.fancode.com/mumbai/4249771_english_hls_2fcd66b57713925_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793629026~_GO=Generated~acl=/mumbai/4249771_english_hls_2fcd66b57713925_1ta-di_h264/*~SessionID=fc-app_sportsguruand_03c_watcho_1c26a8d2-c149-47~Signature=ATFKiJtpgEJ1QRhVxleT6AXI0m8ZVkfGgdE2XvzuGku6oMRC99KwgePMZFSRooqxkfHDLruLVFb5396aGneHE2I0yZUH
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249210_53038_BIR-W_TOT-W_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Birmingham City F.C. Women vs Tottenham Hotspur Women
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - INAC Kobe Leonessa Women vs Bam Khatoon FC
+https://in-mc-flive.fancode.com/mumbai/4249210_english_hls_2ff1f2fd801284_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793627191~_GO=Generated~acl=/mumbai/4249210_english_hls_2ff1f2fd801284_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b78_watcho_55f398ff-103c-4f~Signature=ATFKiJuiC2VzSA2dSI1eJL0l2zy-geh7MM1pX5XaSsiYcPYZb1NZjKfqwxLVhipq3DGxg8fpGJntYi9mAh_-mLS-M8UN
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249211_53038_BHA-W_CP-W_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Brighton and Hove Albion Women vs Crystal Palace Women
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250248_english_hls_fba9246d6c94053_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793607735~_GO=Generated~acl=/mumbai/4250248_english_hls_fba9246d6c94053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_70e_watcho_90646fb0-3939-42~Signature=ATFKiJsqGElvNjmDWpj7k404iBY9dmHaA1dS8JCZzRPfnwyeXrB1-3Re_MCcdHI8ciyUjV77fLf0Xk0d37FlOjjpzBgC
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Hwacheon KSPO WFC vs 4.25 SC Women
+https://in-mc-flive.fancode.com/mumbai/4249211_english_hls_503a31ee5c34611_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793627192~_GO=Generated~acl=/mumbai/4249211_english_hls_503a31ee5c34611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9a1_watcho_645adc73-b0fa-4e~Signature=ATFKiJtvK5-dN3jR8D9t8Gc_lFxJBxVDVhMLaECqa1Mc0ZpJhRAN2U6nGOD5ML8WDng90TqB51wUX6FH_ewqO5p6_XIJ
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249212_53038_WHU-W_LIV-W_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - West Ham United Women vs Liverpool Women
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249851_53101_PG_ADL_fc-Web_1792223292274.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Perth Glory vs Adelaide United
+https://in-mc-flive.fancode.com/mumbai/4249212_english_hls_eef25b9dc122733_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793627194~_GO=Generated~acl=/mumbai/4249212_english_hls_eef25b9dc122733_1ta-di_h264/*~SessionID=fc-app_sportsguruand_011_watcho_ad4f9969-9b29-41~Signature=ATFKiJvadt2GCCsT7_rAQoOy_T4OPP-vBH9RAZvfAJP9QwqVB-wdwxiRD7UMm9Oalj9t5yAJ2mQE86kW_oWvSPtq0dQP
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249213_53038_CHL-W_CHE-W_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Charlton Athletic F.C Women vs Chelsea F.C. Women
 #EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793605915~_GO=Generated~acl=/mumbai/4249851_english_hls_89931009c28222_1ta-di_h264/*~SessionID=fc-app_sportsguruand_847_watcho_7923bd71-854f-4f~Signature=ATFKiJs8ksaTEJqRuYBa6KN_0zPfuU9xv_mLr8hqU4rP2DpZw7CYdJHHOSkwfq2R97M1awDaaxGjpFkxkkLcDtAZJdML
+https://in-mc-flive.fancode.com/mumbai/4249213_english_hls_244a9052c937241_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793629033~_GO=Generated~acl=/mumbai/4249213_english_hls_244a9052c937241_1ta-di_h264/*~SessionID=fc-app_sportsguruand_896_watcho_e2236abf-9257-43~Signature=ATFKiJtFVoIf8Zoid1DnsAe-u__oKz1XevvFjLIt9d5hg6Q94u3OpGoLOrYMQmh9LuDJ1ijV8tgkkAtppGwvf0RfmBgJ
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1793533399050/4250255_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Ho Chi Minh City Women vs East Bengal FC Women
+#EXTHTTP:{"Origin":"","Referer":""}
+https://in-mc-flive.fancode.com/mumbai/4250255_english_hls_352aa624c621620_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793629034~_GO=Generated~acl=/mumbai/4250255_english_hls_352aa624c621620_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e01_watcho_68787e4c-4bb5-4e~Signature=ATFKiJuwug-byks1dKcpsrpOQ8ZQztsv6djQFsMf8GBGhgH0Ow5tjvs9vf0R142Y4LDSRZyYfliqcBx5GAvk4zYCnkwA
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1793533399053/4250261_CASACARDS_APP.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Melbourne City Women vs PFC Nasaf Women
+#EXTHTTP:{"Origin":"","Referer":""}
+https://in-mc-flive.fancode.com/mumbai/4250261_english_hls_01ebd9de6f60507_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793629035~_GO=Generated~acl=/mumbai/4250261_english_hls_01ebd9de6f60507_1ta-di_h264/*~SessionID=fc-app_sportsguruand_113_watcho_ccaf9aa0-79c1-4f~Signature=ATFKiJtf-esAjTzGJxO9jK8UMvCeLOizJ5NNTljDk8Q1kNa9DyDu5It-kDg-Wm2joNmhEDJdqq4yrPqXr_AuthQ0pJMD
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jonatan-Christie-vs-Lakshya-Sen_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Finals: Christie vs Sen
+#EXTHTTP:{"Origin":"","Referer":""}
+https://in-mc-flive.fancode.com/mumbai/4250525_english_hls_a9ed43883055995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793623514~_GO=Generated~acl=/mumbai/4250525_english_hls_a9ed43883055995_1ta-di_h264/*~SessionID=fc-app_sportsguruand_802_watcho_9f62184e-7f49-49~Signature=ATFKiJuXu8UdWjxooosgpYkA4NYdGagy4mai9JamUr7488dAl6FvZJGDyq0IfL6djrAQko5aw-b5DaGNPo0MDdTCR6MJ
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jiri_Lehecka_vs_Valentin_Vacherot_FC-Web.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Final: J Lehecka vs V Vacherot
+#EXTHTTP:{"Origin":"","Referer":""}
+https://in-mc-flive.fancode.com/mumbai/4249655_english_hls_0dc7424b2f3936_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793629036~_GO=Generated~acl=/mumbai/4249655_english_hls_0dc7424b2f3936_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d4_watcho_6a41ede7-338a-4b~Signature=ATFKiJvKzXHUSFto63OLBuSxTDUjXC3_i7OdoAHrSAN-qB2nDM_mZBfan2h_oZP7Qv7dybCy0jU12RbWOalJ2BcdkMQO
 
 # ------------=== VT OTT | CIO ===---------------
 
@@ -7246,6 +7256,25 @@ _________ JOIN @vaathala1 ______
 https://example.com/video.m3u8   
 
 
+============== Tamil Idol =============
+
+#EXTINF:-1  type="movie" group-logo="" group-title="Tamil Idol" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000027698/1793260680000964_Tamil_Idol_Portrait_Thumb_Newshow.jpg" ,0 Sep 2026 • S1 EP06 (2026 ‧ 1 seasons  Reality | Music | Games | Casual Viewing)
+https://f2l3.reaperzclub.dpdns.org/xp1cn7u?hash=AgADwQ&dl=1
+
+#EXTINF:-1 type="movie"  type="movie"  group-logo="" group-title="Tamil Idol" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000027698/1793260680000964_Tamil_Idol_Portrait_Thumb_Newshow.jpg" ,0 Sep 2026 • S1 EP05 (2026 ‧ 1 seasons  Reality | Music | Games | Casual Viewing)
+https://f2l3.reaperzclub.dpdns.org/xp1cn7o?hash=AgADvw&dl=1
+
+#EXTINF:-1 type="movie"  group-logo="" group-title="Tamil Idol" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000027698/1793260680000964_Tamil_Idol_Portrait_Thumb_Newshow.jpg" ,0 Sep 2026 • S1 EP04 (2026 ‧ 1 seasons  Reality | Music | Games | Casual Viewing)
+https://f2l2.reaperzclub.dpdns.org/xp1f2ek?hash=AgADvA&dl=1
+
+#EXTINF:-1 type="movie"  group-logo="" group-title="Tamil Idol" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000027698/1793260680000964_Tamil_Idol_Portrait_Thumb_Newshow.jpg" ,0 Sep 2026 • S1 EP03 (2026 ‧ 1 seasons  Reality | Music | Games | Casual Viewing)
+https://f2l2.reaperzclub.dpdns.org/xp1f2eq?hash=AgADtA&dl=1
+
+#EXTINF:-1type="movie"  group-logo="" group-title="Tamil Idol" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000027698/1793260680000964_Tamil_Idol_Portrait_Thumb_Newshow.jpg" ,0 Sep 2026 • S1 EP02 (2026 ‧ 1 seasons  Reality | Music | Games | Casual Viewing)
+https://f2l3.reaperzclub.dpdns.org/xp1cn7y?hash=AgADrQ&dl=1
+
+#EXTINF:-1 type="movie"  group-logo="" group-title="Tamil Idol" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000027698/1793260680000964_Tamil_Idol_Portrait_Thumb_Newshow.jpg" ,0 Sep 2026 • S1 EP01 (2026 ‧ 1 seasons  Reality | Music | Games | Casual Viewing)
+https://f2l2.reaperzclub.dpdns.org/xp1f2f2?hash=AgADqQ&dl=1
 
  _________  Adhu idhu yedhu   _______
 
