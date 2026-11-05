@@ -822,32 +822,10 @@ https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Zimbabwe vs Afghanistan
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249772_english_hls_ea87fdf83410465_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793943745~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83410465_1ta-di_h264/*~SessionID=7814838588_watcho_57482304-972f-42~Signature=AV7HGj7emgFYnpJpEDybA63j2vErJVu2RqHTEnWtKAhIeT1ch66iddJqZIwMGmbgxQiF-TkMgDNOJkEjBShZ1rkHZQoK
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250369_53124_KMG_BK_fc-Web_1793616701857.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Biratnagar Kings vs Kathmandu Gurkhas
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250369_english_hls_41beb5797488624_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793963185~_GO=Generated~acl=/mumbai/4250369_english_hls_41beb5797488624_1ta-di_h264/*~SessionID=7814838588_watcho_a8e4603e-fb47-4e~Signature=AV7HGj7t5cZNj1cjOk6oN7Jon93TOkhnPEdT3zOTYtIFny8BkO2Vrcn-eJ4vwmruM9L_qYk0fZGZKucZLNWOYfbk_vwC
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249011_53057_LIO_ADL_fc-web_1789025066009.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Lion City Sailors vs Adelaide United
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958330~_GO=Generated~acl=/mumbai/4249011_english_hls_c89ad8931778425_1ta-di_h264/*~SessionID=7814838588_watcho_0d3059f5-bb24-48~Signature=AV7HGj6ZRKbDQr1v-FengXAK215x-t44C-QhXXnP4FVdb_KEq3q1u-IoAP3tc7TR1pzmqhXGrjxaifWHRRMEnzE_TjsD
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249013_53057_MZ_SHN_fc-web_1789025065413.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Machida Zelvia vs Shanghai Shenhua
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249013_english_hls_df8ece92c542206_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958332~_GO=Generated~acl=/mumbai/4249013_english_hls_df8ece92c542206_1ta-di_h264/*~SessionID=7814838588_watcho_6dcab5d0-39f6-43~Signature=AV7HGj7j-_hv5B2u7zdA5UwFjQJ-eNUROQihlt8HZk6D1IrY8QXPTyNMkcJXNrJk47oVno2qsLEL2-IfrhMgX5JMGqkN
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249015_53057_KIT_PPC_fc-web_1789025065807.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Kitchee SC vs Phnom Penh Crown
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249015_english_hls_028a1a39027561_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958334~_GO=Generated~acl=/mumbai/4249015_english_hls_028a1a39027561_1ta-di_h264/*~SessionID=7814838588_watcho_194a8d3a-a707-4c~Signature=AV7HGj5e0OgpQed3t9bACvjDrwI9UPYkmki1mabysJ2ACzyqXQpyDQCJOgr02T0YZCLnLKQPUwO6KscHEJrJnE5TiUwC
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - World Feed
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958336~_GO=Generated~acl=/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/*~SessionID=7814838588_watcho_14eda7e2-c2ca-42~Signature=AV7HGj5PlAK2ltq_nI6oXwfFCmCISuzem_lDXIjH0UtJ3jYnwB4eJvFcBmd5jIWNFgkmPZJn7QIZQIk957DyV_cASDsO
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court 1
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250560_english_hls_bfc9da6b9213120_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958337~_GO=Generated~acl=/mumbai/4250560_english_hls_bfc9da6b9213120_1ta-di_h264/*~SessionID=7814838588_watcho_f97cd118-dd94-4e~Signature=AV7HGj5hOwLW6e6r_wRsJD0XYNIjPthIjo6PfRYSQcVOjWRsZhjVrN2w81QsZEh43epjCTOYJ08hTKLA1PioTTGw7JAN
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Court 2
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250561_english_hls_fb1c637ed552842_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958338~_GO=Generated~acl=/mumbai/4250561_english_hls_fb1c637ed552842_1ta-di_h264/*~SessionID=7814838588_watcho_adca8fc7-7181-4f~Signature=AV7HGj5kS-Eg1SsMFTaaRoBwIObzTB8XgjLLWh0QgNaAenBpL01OLnHx2SnygMau-bWhk3ed6GF-0EmOtIeonGsewgYJ
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Crystal Palace vs TSG 1899 Hoffenheim
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793950986~acl=/*~id=02670904760582472610853614248348~hmac=c4c97ad25b71c42c3f5c5f2e389945afcb810f31b13110378eb35ca179990f8f
 
 # ------------=== VT OTT | CIO ===---------------
 
