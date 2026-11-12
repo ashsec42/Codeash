@@ -824,32 +824,10 @@ https://premiumplug.fun/tee/playlist.php/0-9-pictures.m3u8
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Afghanistan vs India - Semi-Final
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794512988~acl=/*~id=72686363603511563025612843340346~hmac=3cc6fb9b4bfb992484073ee7fd3de18f6d2d4a02dda45902ec72593d560e6cf8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[HIN] - Afghanistan vs India - Semi-Final
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794512988~acl=/*~id=72686363603511563025612843340346~hmac=3cc6fb9b4bfb992484073ee7fd3de18f6d2d4a02dda45902ec72593d560e6cf8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[TAM] - Afghanistan vs India - Semi-Final
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794512988~acl=/*~id=72686363603511563025612843340346~hmac=3cc6fb9b4bfb992484073ee7fd3de18f6d2d4a02dda45902ec72593d560e6cf8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[TEL] - Afghanistan vs India - Semi-Final
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794512988~acl=/*~id=72686363603511563025612843340346~hmac=3cc6fb9b4bfb992484073ee7fd3de18f6d2d4a02dda45902ec72593d560e6cf8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028782/1794378177875809_Asia_Cup_U19_SF_Pakistan_vs_Bangladesh_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Pakistan vs Bangladesh - Semi-Final
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794512988~acl=/*~id=72686363603511563025612843340346~hmac=3cc6fb9b4bfb992484073ee7fd3de18f6d2d4a02dda45902ec72593d560e6cf8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887681050295_ASIANTOUR2026_Philippine_Open_Day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Philippine Open - Day 1
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794512988~acl=/*~id=72686363603511563025612843340346~hmac=3cc6fb9b4bfb992484073ee7fd3de18f6d2d4a02dda45902ec72593d560e6cf8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - DP World Tour Champinship, Dubai - Day 1
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794512988~acl=/*~id=72686363603511563025612843340346~hmac=3cc6fb9b4bfb992484073ee7fd3de18f6d2d4a02dda45902ec72593d560e6cf8
-
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250659_53149_SL-W_IRE-W_FC-WEB.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Ireland Women vs Sri Lanka Women
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250659_english_hls_2ba4a2422022959_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794545541~_GO=Generated~acl=/mumbai/4250659_english_hls_2ba4a2422022959_1ta-di_h264/*~SessionID=4c7b67e012136ab346b6acab32d3e074_playbox_476a4256-b4fb-41~Signature=AbO9BjgYnLDiPsRufGi0RRF-78CSyKtNOTfRSSDbAapJABzjKuObxxUuZ6wpUx-kQ1jzComp01LqPAYGLcguzVmBIo4N
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250660_53149_PNG-W_SCO-W_FC-WEB_1794469514468.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Papua New Guinea Women vs Scotland Women
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250660_english_hls_c5499b71ab56838_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794545541~_GO=Generated~acl=/mumbai/4250660_english_hls_c5499b71ab56838_1ta-di_h264/*~SessionID=3d000e6a4cf4ef43e43e0d47f94b6542_playbox_7b6fb43a-7da1-49~Signature=AbO9Bjh0iF7Kx25mJB189RVEhMGWSShF3cUNQG0jZ4ZbCK1mrgq4_HMBJjZC1pHqkHsm9lsBMs2qQIZapPcNfJKDDNIL
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250376_53124_BK_PKA_fc-Web_1793616701804.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Pokhara Avengers vs Biratnagar Kings
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027618/1793185950770769_UNL26_MD5_Turkiye-vs-Belgium_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Türkiye vs Belgium
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794544046~acl=/*~id=19800105313312507146401517764036~hmac=8459cb0749612260423503c41c8663ec1a0de0b11fbabfe68ea714b7b27859ad
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254611850508_UNL26_MD5_Armenia-vs-Cyprus_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Armenia vs Cyprus
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794544046~acl=/*~id=19800105313312507146401517764036~hmac=8459cb0749612260423503c41c8663ec1a0de0b11fbabfe68ea714b7b27859ad
 
 # ------------=== VT OTT | CIO ===---------------
 
