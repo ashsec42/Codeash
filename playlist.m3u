@@ -773,17 +773,6 @@ https://premiumplug.fun/tee/playlist.php/0-9-tvpictureshd.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/tee/playlist.php/0-9-pictures.m3u8
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027854/1793254550038497_UNL26_MD6_Spain_vs_England_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Spain vs England
-https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027777/1793252426264187_UNL26_MD6_France_vs_Turkiye_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - France vs Türkiye
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027748/179325310259226_UNL26_MD6_Belgium_vs_Italy_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Belgium vs Italy
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027751/1793255112238751_UNL26_MD6_Croatia_vs_Czechia_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Croatia vs Czechia
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
