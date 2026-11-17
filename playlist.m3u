@@ -773,13 +773,6 @@ https://premiumplug.fun/tee/playlist.php/0-9-tvpictureshd.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/tee/playlist.php/0-9-pictures.m3u8
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027772/1793257474667102_UNL26_MD6_Faroe_Islands_vs_Moldova_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Faroe Islands vs Moldova
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794884274~acl=/*~id=18594273750723746557959125783970~hmac=7d53fc69d1c7bf71fe7479d93d7a7275521943c34dd31fa7aa6c5d845a956041
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027833/179325832303640_UNL26_MD6_Kazakhstan_vs_Slovakia_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Kazakhstan vs Slovakia
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794884274~acl=/*~id=18594273750723746557959125783970~hmac=7d53fc69d1c7bf71fe7479d93d7a7275521943c34dd31fa7aa6c5d845a956041
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
