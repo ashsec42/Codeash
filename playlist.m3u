@@ -775,8 +775,12 @@ https://premiumplug.fun/tee/playlist.php/0-9-pictures.m3u8
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Sri Lanka A vs Hong Kong, China
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795290832~acl=/*~id=99323916924708996955713670696828~hmac=5f2e2d149061af4817245e7146774e354888d4643d7ad8302a025384b93be09f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - Bangladesh A vs Afghanistan A
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795321754~acl=/*~id=45293735170433449578976195897456~hmac=b28a2997665e8bad279ce6df2b9ea337160e137357693582374507671da434f3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[ENG] - NorthEast United FC vs FC Goa
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795321754~acl=/*~id=45293735170433449578976195897456~hmac=b28a2997665e8bad279ce6df2b9ea337160e137357693582374507671da434f3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",[HIN] - NorthEast United FC vs FC Goa
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795321754~acl=/*~id=45293735170433449578976195897456~hmac=b28a2997665e8bad279ce6df2b9ea337160e137357693582374507671da434f3
 
 # ------------=== VT OTT | CIO ===---------------
 
